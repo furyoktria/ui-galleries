@@ -1,0 +1,5025 @@
+[
+ {
+  "id": 73,
+  "slug": "abyssal",
+  "name": "Abyssal",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "particles",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/abyssal"
+ },
+ {
+  "id": 251,
+  "slug": "aerflora",
+  "name": "Aerflora",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "canvas",
+   "floral",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/aerflora"
+ },
+ {
+  "id": 109,
+  "slug": "aeroforce",
+  "name": "AeroForce",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "webgl",
+   "three",
+   "scroll",
+   "scrub",
+   "aviation",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/aeroforce"
+ },
+ {
+  "id": 41,
+  "slug": "aether",
+  "name": "Aether",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/aether",
+  "use_case": "ideas-led and abstract brands"
+ },
+ {
+  "id": 63,
+  "slug": "aethera",
+  "name": "Aethera",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "mono"
+  ],
+  "url": "https://www.scrolltide.co/templates/aethera"
+ },
+ {
+  "id": 283,
+  "slug": "agrumi",
+  "name": "Agrumi",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "ecommerce",
+   "pets",
+   "scroll",
+   "playful",
+   "colorful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/agrumi"
+ },
+ {
+  "id": 115,
+  "slug": "amble",
+  "name": "Amble",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "character",
+   "interactive",
+   "canvas",
+   "retail",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/amble"
+ },
+ {
+  "id": 42,
+  "slug": "anchor",
+  "name": "Anchor",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/anchor",
+  "use_case": "clarity and focus platforms"
+ },
+ {
+  "id": 43,
+  "slug": "aperture",
+  "name": "Aperture",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/aperture",
+  "use_case": "media and streaming brands"
+ },
+ {
+  "id": 110,
+  "slug": "apogee",
+  "name": "Apogee",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "webgl",
+   "three",
+   "scroll",
+   "space",
+   "education",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/apogee"
+ },
+ {
+  "id": 62,
+  "slug": "arbor",
+  "name": "Arbor",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "light"
+  ],
+  "url": "https://www.scrolltide.co/templates/arbor"
+ },
+ {
+  "id": 91,
+  "slug": "arc-carousel",
+  "name": "Arc Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "arc",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/arc-carousel"
+ },
+ {
+  "id": 166,
+  "slug": "ash-flow",
+  "name": "Ash Flow",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "noise",
+   "blue",
+   "grain",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/ash-flow"
+ },
+ {
+  "id": 72,
+  "slug": "astera",
+  "name": "Astera",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "particles",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/astera"
+ },
+ {
+  "id": 102,
+  "slug": "auralis",
+  "name": "Auralis",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "saas",
+   "dashboard",
+   "video",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/auralis"
+ },
+ {
+  "id": 19,
+  "slug": "aurora",
+  "name": "Aurora",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "free",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/aurora",
+  "use_case": "design studios and agencies"
+ },
+ {
+  "id": 167,
+  "slug": "aurora-ice",
+  "name": "Aurora Ice",
+  "kind": "shader",
+  "category": "Aurora",
+  "tier": "pro",
+  "tags": [
+   "aurora",
+   "glow",
+   "dark",
+   "green",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/aurora-ice"
+ },
+ {
+  "id": 168,
+  "slug": "aurora-noir",
+  "name": "Aurora Noir",
+  "kind": "shader",
+  "category": "Aurora",
+  "tier": "pro",
+  "tags": [
+   "aurora",
+   "glow",
+   "dark",
+   "green",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/aurora-noir"
+ },
+ {
+  "id": 169,
+  "slug": "aurora-rose",
+  "name": "Aurora Rose",
+  "kind": "shader",
+  "category": "Aurora",
+  "tier": "pro",
+  "tags": [
+   "aurora",
+   "glow",
+   "dark",
+   "green",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/aurora-rose"
+ },
+ {
+  "id": 170,
+  "slug": "aurora-solar",
+  "name": "Aurora Solar",
+  "kind": "shader",
+  "category": "Aurora",
+  "tier": "pro",
+  "tags": [
+   "aurora",
+   "glow",
+   "dark",
+   "green",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/aurora-solar"
+ },
+ {
+  "id": 148,
+  "slug": "aurora-veil",
+  "name": "Aurora Veil",
+  "kind": "shader",
+  "category": "Aurora",
+  "tier": "pro",
+  "tags": [
+   "aurora",
+   "glow",
+   "dark",
+   "green",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/aurora-veil"
+ },
+ {
+  "id": 143,
+  "slug": "banking-home",
+  "name": "Banking Home",
+  "kind": "ui",
+  "category": "Finance",
+  "tier": "pro",
+  "tags": [
+   "finance",
+   "banking",
+   "cards",
+   "charts",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/banking-home"
+ },
+ {
+  "id": 101,
+  "slug": "beacon",
+  "name": "Beacon",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "saas",
+   "ai",
+   "pricing",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/beacon"
+ },
+ {
+  "id": 319,
+  "slug": "bean-bag-nap",
+  "name": "Bean Bag Nap",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "video",
+   "clay",
+   "3d-character",
+   "newsletter",
+   "warm",
+   "tailwind",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/sections/bean-bag-nap"
+ },
+ {
+  "id": 80,
+  "slug": "billet",
+  "name": "Billet",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "webgl",
+   "fintech",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/billet"
+ },
+ {
+  "id": 280,
+  "slug": "block-field",
+  "name": "Block Field",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "isometric",
+   "webgl",
+   "wave",
+   "pointer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/block-field"
+ },
+ {
+  "id": 74,
+  "slug": "bottle",
+  "name": "Bottle",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "product",
+   "react",
+   "vite",
+   "three.js"
+  ],
+  "url": "https://www.scrolltide.co/templates/bottle"
+ },
+ {
+  "id": 51,
+  "slug": "brimstone",
+  "name": "Brimstone",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/brimstone"
+ },
+ {
+  "id": 20,
+  "slug": "brook",
+  "name": "Brook",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/brook",
+  "use_case": "automation and workflow tools"
+ },
+ {
+  "id": 55,
+  "slug": "camera",
+  "name": "Camera",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/camera"
+ },
+ {
+  "id": 90,
+  "slug": "card-bookmark",
+  "name": "Card Bookmark",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "bookmark",
+   "hover",
+   "mask",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/card-bookmark"
+ },
+ {
+  "id": 89,
+  "slug": "card-folder",
+  "name": "Card Folder",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "folder",
+   "hover",
+   "mask",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/card-folder"
+ },
+ {
+  "id": 92,
+  "slug": "carousel-ring",
+  "name": "Carousel Ring",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "carousel",
+   "wheel",
+   "matrix3d",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/carousel-ring"
+ },
+ {
+  "id": 250,
+  "slug": "carrara",
+  "name": "Carrara",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "canvas",
+   "sculpture",
+   "luxury",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/carrara"
+ },
+ {
+  "id": 171,
+  "slug": "cell-amber",
+  "name": "Amber Cells",
+  "kind": "shader",
+  "category": "Voronoi",
+  "tier": "pro",
+  "tags": [
+   "voronoi",
+   "cells",
+   "mosaic",
+   "organic",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cell-amber"
+ },
+ {
+  "id": 172,
+  "slug": "cell-coral",
+  "name": "Coral Cells",
+  "kind": "shader",
+  "category": "Voronoi",
+  "tier": "pro",
+  "tags": [
+   "voronoi",
+   "cells",
+   "mosaic",
+   "organic",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cell-coral"
+ },
+ {
+  "id": 173,
+  "slug": "cell-slate",
+  "name": "Slate Cells",
+  "kind": "shader",
+  "category": "Voronoi",
+  "tier": "pro",
+  "tags": [
+   "voronoi",
+   "cells",
+   "mosaic",
+   "organic",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cell-slate"
+ },
+ {
+  "id": 149,
+  "slug": "cell-tide",
+  "name": "Cell Tide",
+  "kind": "shader",
+  "category": "Voronoi",
+  "tier": "pro",
+  "tags": [
+   "voronoi",
+   "cells",
+   "mosaic",
+   "organic",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cell-tide"
+ },
+ {
+  "id": 174,
+  "slug": "cell-violet",
+  "name": "Violet Cells",
+  "kind": "shader",
+  "category": "Voronoi",
+  "tier": "pro",
+  "tags": [
+   "voronoi",
+   "cells",
+   "mosaic",
+   "organic",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cell-violet"
+ },
+ {
+  "id": 175,
+  "slug": "chrome-gold",
+  "name": "Chrome Gold",
+  "kind": "shader",
+  "category": "Metal",
+  "tier": "pro",
+  "tags": [
+   "chrome",
+   "metal",
+   "iridescent",
+   "liquid",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/chrome-gold"
+ },
+ {
+  "id": 176,
+  "slug": "chrome-melt",
+  "name": "Chrome Melt",
+  "kind": "shader",
+  "category": "Metal",
+  "tier": "pro",
+  "tags": [
+   "chrome",
+   "metal",
+   "iridescent",
+   "liquid",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/chrome-melt"
+ },
+ {
+  "id": 177,
+  "slug": "chrome-oil",
+  "name": "Oil Slick",
+  "kind": "shader",
+  "category": "Metal",
+  "tier": "pro",
+  "tags": [
+   "chrome",
+   "metal",
+   "iridescent",
+   "liquid",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/chrome-oil"
+ },
+ {
+  "id": 178,
+  "slug": "chrome-rose",
+  "name": "Rose Chrome",
+  "kind": "shader",
+  "category": "Metal",
+  "tier": "pro",
+  "tags": [
+   "chrome",
+   "metal",
+   "iridescent",
+   "liquid",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/chrome-rose"
+ },
+ {
+  "id": 179,
+  "slug": "chrome-steel",
+  "name": "Brushed Steel",
+  "kind": "shader",
+  "category": "Metal",
+  "tier": "pro",
+  "tags": [
+   "chrome",
+   "metal",
+   "iridescent",
+   "liquid",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/chrome-steel"
+ },
+ {
+  "id": 50,
+  "slug": "cinder",
+  "name": "Cinder",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/cinder"
+ },
+ {
+  "id": 100,
+  "slug": "cinnabar",
+  "name": "Cinnabar",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "crypto",
+   "agency",
+   "pricing",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/cinnabar"
+ },
+ {
+  "id": 94,
+  "slug": "circular-slider",
+  "name": "Circular Slider",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "carousel",
+   "ring",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/circular-slider"
+ },
+ {
+  "id": 98,
+  "slug": "citrine",
+  "name": "Citrine",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "fintech",
+   "payments",
+   "video",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/citrine"
+ },
+ {
+  "id": 137,
+  "slug": "client-desk",
+  "name": "Client Desk",
+  "kind": "ui",
+  "category": "Dashboard",
+  "tier": "pro",
+  "tags": [
+   "dashboard",
+   "client",
+   "crm",
+   "charts",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/client-desk"
+ },
+ {
+  "id": 311,
+  "slug": "clothes-line",
+  "name": "Clothes Line",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "gallery",
+   "physics",
+   "drag",
+   "playful",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/clothes-line"
+ },
+ {
+  "id": 49,
+  "slug": "clover",
+  "name": "Clover",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/clover"
+ },
+ {
+  "id": 180,
+  "slug": "cobalt-flow",
+  "name": "Cobalt Flow",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "noise",
+   "blue",
+   "grain",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/cobalt-flow"
+ },
+ {
+  "id": 21,
+  "slug": "coffee",
+  "name": "Coffee",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/coffee"
+ },
+ {
+  "id": 244,
+  "slug": "cold-club",
+  "name": "Cold Club",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "canvas",
+   "frame-sequence",
+   "lenis",
+   "character",
+   "agency",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/templates/cold-club"
+ },
+ {
+  "id": 225,
+  "slug": "colibri",
+  "name": "Colibri",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "video",
+   "handoff",
+   "editorial",
+   "security",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/colibri"
+ },
+ {
+  "id": 22,
+  "slug": "comet",
+  "name": "Comet",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/comet",
+  "use_case": "real-time and sync products"
+ },
+ {
+  "id": 147,
+  "slug": "commerce-analytics",
+  "name": "Commerce Analytics",
+  "kind": "ui",
+  "category": "Commerce",
+  "tier": "pro",
+  "tags": [
+   "commerce",
+   "dashboard",
+   "analytics",
+   "table",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/commerce-analytics"
+ },
+ {
+  "id": 119,
+  "slug": "contact-column",
+  "name": "Contact Column",
+  "kind": "section",
+  "category": "Contact",
+  "tier": "paid",
+  "tags": [
+   "contact",
+   "dark",
+   "details",
+   "minimal",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/contact-column"
+ },
+ {
+  "id": 267,
+  "slug": "contour-reveal",
+  "name": "Contour Reveal",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "slideshow",
+   "transition",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/contour-reveal"
+ },
+ {
+  "id": 48,
+  "slug": "cortex",
+  "name": "Cortex",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/cortex"
+ },
+ {
+  "id": 99,
+  "slug": "cypress",
+  "name": "Cypress",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "finance",
+   "corporate",
+   "video",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/cypress"
+ },
+ {
+  "id": 144,
+  "slug": "dark-wallet",
+  "name": "Dark Wallet",
+  "kind": "ui",
+  "category": "Finance",
+  "tier": "pro",
+  "tags": [
+   "finance",
+   "wallet",
+   "dark",
+   "charts",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/dark-wallet"
+ },
+ {
+  "id": 222,
+  "slug": "deadwax",
+  "name": "Deadwax",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "music",
+   "webaudio",
+   "video",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/deadwax"
+ },
+ {
+  "id": 234,
+  "slug": "depth-carousel",
+  "name": "Depth Carousel",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "carousel",
+   "coverflow",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/depth-carousel"
+ },
+ {
+  "id": 273,
+  "slug": "dither-lens",
+  "name": "Dither Lens",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "dither",
+   "canvas",
+   "pointer",
+   "image",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/dither-lens"
+ },
+ {
+  "id": 238,
+  "slug": "dna-carousel",
+  "name": "DNA Carousel",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "carousel",
+   "helix",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/dna-carousel"
+ },
+ {
+  "id": 23,
+  "slug": "dune",
+  "name": "Dune",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/dune",
+  "use_case": "AI automation"
+ },
+ {
+  "id": 131,
+  "slug": "dune-card",
+  "name": "Dune Card",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "illustration",
+   "desert",
+   "orange",
+   "logistics",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/dune-card"
+ },
+ {
+  "id": 181,
+  "slug": "dusk-mesh",
+  "name": "Dusk Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "purple",
+   "sunset",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/dusk-mesh"
+ },
+ {
+  "id": 228,
+  "slug": "eagle",
+  "name": "Eagle",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "video",
+   "handoff",
+   "editorial",
+   "security",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/eagle"
+ },
+ {
+  "id": 292,
+  "slug": "earshot",
+  "name": "Earshot",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "scroll",
+   "frame-sequence",
+   "game",
+   "character",
+   "colorful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/earshot"
+ },
+ {
+  "id": 24,
+  "slug": "eclipse",
+  "name": "Eclipse",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/eclipse",
+  "use_case": "deep work and focus apps"
+ },
+ {
+  "id": 247,
+  "slug": "eclose",
+  "name": "éclose",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "canvas",
+   "luxury",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/eclose"
+ },
+ {
+  "id": 262,
+  "slug": "elastic-frame",
+  "name": "Elastic Frame",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "frame",
+   "spring",
+   "webgl",
+   "pointer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/elastic-frame"
+ },
+ {
+  "id": 25,
+  "slug": "ember",
+  "name": "Ember",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/ember",
+  "use_case": "prototyping and design tools"
+ },
+ {
+  "id": 268,
+  "slug": "ember-carve",
+  "name": "Ember Carve",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "interactive",
+   "fire",
+   "webgl",
+   "simulation",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/ember-carve"
+ },
+ {
+  "id": 150,
+  "slug": "ember-wash",
+  "name": "Ember Wash",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "red",
+   "duotone",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/ember-wash"
+ },
+ {
+  "id": 316,
+  "slug": "emberkiri",
+  "name": "Emberkiri",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "webgl",
+   "hover",
+   "reveal",
+   "agency",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/emberkiri"
+ },
+ {
+  "id": 87,
+  "slug": "expanded-cards",
+  "name": "Expanded Cards",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "accordion",
+   "hover",
+   "rail",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/expanded-cards"
+ },
+ {
+  "id": 313,
+  "slug": "eye-button",
+  "name": "Eye Button",
+  "kind": "component",
+  "category": "Button",
+  "tier": "pro",
+  "tags": [
+   "button",
+   "playful",
+   "pointer",
+   "eyes",
+   "cta",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/eye-button"
+ },
+ {
+  "id": 326,
+  "slug": "fabrica",
+  "name": "Fabrica",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "webgl",
+   "three",
+   "procedural",
+   "interactive",
+   "education",
+   "medical",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/fabrica"
+ },
+ {
+  "id": 88,
+  "slug": "fan-carousel",
+  "name": "Fan Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "fan",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/fan-carousel"
+ },
+ {
+  "id": 85,
+  "slug": "fan-deck",
+  "name": "Fan Deck",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "fan",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/fan-deck"
+ },
+ {
+  "id": 140,
+  "slug": "finance-desk",
+  "name": "Finance Desk",
+  "kind": "ui",
+  "category": "Finance",
+  "tier": "pro",
+  "tags": [
+   "finance",
+   "dashboard",
+   "charts",
+   "business",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/finance-desk"
+ },
+ {
+  "id": 289,
+  "slug": "firnlight",
+  "name": "Firnlight",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "product",
+   "sport",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/firnlight"
+ },
+ {
+  "id": 182,
+  "slug": "flame-azure",
+  "name": "Azure Flame",
+  "kind": "shader",
+  "category": "Flame",
+  "tier": "pro",
+  "tags": [
+   "flame",
+   "fire",
+   "orange",
+   "heat",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/flame-azure"
+ },
+ {
+  "id": 151,
+  "slug": "flame-ember",
+  "name": "Ember Flame",
+  "kind": "shader",
+  "category": "Flame",
+  "tier": "pro",
+  "tags": [
+   "flame",
+   "fire",
+   "orange",
+   "heat",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/flame-ember"
+ },
+ {
+  "id": 183,
+  "slug": "flame-mono",
+  "name": "Ash Flame",
+  "kind": "shader",
+  "category": "Flame",
+  "tier": "pro",
+  "tags": [
+   "flame",
+   "fire",
+   "orange",
+   "heat",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/flame-mono"
+ },
+ {
+  "id": 184,
+  "slug": "flame-violet",
+  "name": "Violet Flame",
+  "kind": "shader",
+  "category": "Flame",
+  "tier": "pro",
+  "tags": [
+   "flame",
+   "fire",
+   "orange",
+   "heat",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/flame-violet"
+ },
+ {
+  "id": 185,
+  "slug": "flame-viridian",
+  "name": "Viridian Flame",
+  "kind": "shader",
+  "category": "Flame",
+  "tier": "pro",
+  "tags": [
+   "flame",
+   "fire",
+   "orange",
+   "heat",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/flame-viridian"
+ },
+ {
+  "id": 264,
+  "slug": "fluted-glass",
+  "name": "Fluted Glass",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "glass",
+   "refraction",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/fluted-glass"
+ },
+ {
+  "id": 83,
+  "slug": "fluxora",
+  "name": "Fluxora",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "free",
+  "tags": [
+   "landing",
+   "agency",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/fluxora"
+ },
+ {
+  "id": 26,
+  "slug": "flying-garden",
+  "name": "Flying Garden",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/flying-garden",
+  "use_case": "AI builders and consumer tools"
+ },
+ {
+  "id": 96,
+  "slug": "focus-reveal",
+  "name": "Focus Reveal",
+  "kind": "component",
+  "category": "Text",
+  "tier": "pro",
+  "tags": [
+   "text",
+   "typography",
+   "hover",
+   "blur",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/focus-reveal"
+ },
+ {
+  "id": 126,
+  "slug": "fog-forest",
+  "name": "Fog Forest",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "illustration",
+   "landscape",
+   "green",
+   "atmospheric",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/fog-forest"
+ },
+ {
+  "id": 27,
+  "slug": "frost",
+  "name": "Frost",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/frost",
+  "use_case": "waitlists and minimal tooling"
+ },
+ {
+  "id": 322,
+  "slug": "frostpaw",
+  "name": "Frostpaw",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "ecommerce",
+   "hover",
+   "reveal",
+   "parallax",
+   "framer-motion",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/frostpaw"
+ },
+ {
+  "id": 139,
+  "slug": "gallery-storefront",
+  "name": "Gallery Storefront",
+  "kind": "ui",
+  "category": "Media",
+  "tier": "pro",
+  "tags": [
+   "media",
+   "marketplace",
+   "gallery",
+   "art",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/gallery-storefront"
+ },
+ {
+  "id": 28,
+  "slug": "garden",
+  "name": "Garden",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/garden",
+  "use_case": "AI website builders"
+ },
+ {
+  "id": 29,
+  "slug": "glacier",
+  "name": "Glacier",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "free",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/glacier",
+  "use_case": "launches and showcases"
+ },
+ {
+  "id": 77,
+  "slug": "glow-ring-button",
+  "name": "Glow Ring Button",
+  "kind": "component",
+  "category": "Button",
+  "tier": "pro",
+  "tags": [
+   "button",
+   "glow",
+   "iridescent",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/glow-ring-button"
+ },
+ {
+  "id": 61,
+  "slug": "glowinn",
+  "name": "Glowinn",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "ecommerce"
+  ],
+  "url": "https://www.scrolltide.co/templates/glowinn"
+ },
+ {
+  "id": 235,
+  "slug": "grainy-carousel",
+  "name": "Grainy Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "grain",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/grainy-carousel"
+ },
+ {
+  "id": 246,
+  "slug": "grana",
+  "name": "Grana",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "webgl",
+   "scroll",
+   "frame-sequence",
+   "painting",
+   "agency",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/grana"
+ },
+ {
+  "id": 321,
+  "slug": "grass-man",
+  "name": "grass-man",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "webgl",
+   "shader",
+   "hover",
+   "reveal",
+   "nature",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/grass-man"
+ },
+ {
+  "id": 227,
+  "slug": "grey-wolf",
+  "name": "Grey Wolf",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "poster",
+   "event",
+   "editorial",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/grey-wolf"
+ },
+ {
+  "id": 263,
+  "slug": "grid-warp",
+  "name": "Grid Warp",
+  "kind": "component",
+  "category": "Text",
+  "tier": "pro",
+  "tags": [
+   "text",
+   "typography",
+   "grid",
+   "webgl",
+   "pointer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/grid-warp"
+ },
+ {
+  "id": 309,
+  "slug": "grow-carousel",
+  "name": "Grow Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "hover",
+   "grow",
+   "backdrop",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/grow-carousel"
+ },
+ {
+  "id": 259,
+  "slug": "gummy-grove",
+  "name": "Gummy Grove",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "webgl",
+   "three",
+   "physics",
+   "interactive",
+   "playful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/gummy-grove"
+ },
+ {
+  "id": 82,
+  "slug": "halcyon",
+  "name": "Halcyon",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "wellness",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/halcyon"
+ },
+ {
+  "id": 186,
+  "slug": "halftone-cyan",
+  "name": "Halftone Cyan",
+  "kind": "shader",
+  "category": "Halftone",
+  "tier": "pro",
+  "tags": [
+   "halftone",
+   "screenprint",
+   "print",
+   "dots",
+   "retro",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/halftone-cyan"
+ },
+ {
+  "id": 187,
+  "slug": "halftone-forest",
+  "name": "Halftone Forest",
+  "kind": "shader",
+  "category": "Halftone",
+  "tier": "pro",
+  "tags": [
+   "halftone",
+   "screenprint",
+   "print",
+   "dots",
+   "retro",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/halftone-forest"
+ },
+ {
+  "id": 188,
+  "slug": "halftone-mono",
+  "name": "Halftone Mono",
+  "kind": "shader",
+  "category": "Halftone",
+  "tier": "pro",
+  "tags": [
+   "halftone",
+   "screenprint",
+   "print",
+   "dots",
+   "retro",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/halftone-mono"
+ },
+ {
+  "id": 189,
+  "slug": "halftone-sun",
+  "name": "Halftone Sun",
+  "kind": "shader",
+  "category": "Halftone",
+  "tier": "pro",
+  "tags": [
+   "halftone",
+   "screenprint",
+   "print",
+   "dots",
+   "retro",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/halftone-sun"
+ },
+ {
+  "id": 190,
+  "slug": "halftone-tide",
+  "name": "Halftone Tide",
+  "kind": "shader",
+  "category": "Halftone",
+  "tier": "pro",
+  "tags": [
+   "halftone",
+   "screenprint",
+   "print",
+   "dots",
+   "retro",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/halftone-tide"
+ },
+ {
+  "id": 69,
+  "slug": "halide",
+  "name": "Halide",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "particles",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/halide"
+ },
+ {
+  "id": 298,
+  "slug": "halo-carousel",
+  "name": "Halo Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "arc",
+   "drag",
+   "editorial",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/halo-carousel"
+ },
+ {
+  "id": 30,
+  "slug": "harbor",
+  "name": "Harbor",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/harbor",
+  "use_case": "data security and privacy SaaS"
+ },
+ {
+  "id": 138,
+  "slug": "health-tracker",
+  "name": "Health Tracker",
+  "kind": "ui",
+  "category": "Health",
+  "tier": "pro",
+  "tags": [
+   "health",
+   "dashboard",
+   "charts",
+   "medical",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/health-tracker"
+ },
+ {
+  "id": 53,
+  "slug": "helix",
+  "name": "Helix",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/helix"
+ },
+ {
+  "id": 133,
+  "slug": "hill-country",
+  "name": "Hill Country",
+  "kind": "section",
+  "category": "CTA",
+  "tier": "paid",
+  "tags": [
+   "cta",
+   "footer",
+   "photographic",
+   "green",
+   "wordmark",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/hill-country"
+ },
+ {
+  "id": 56,
+  "slug": "hourglass",
+  "name": "Hourglass",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "particles",
+   "react",
+   "nextjs",
+   "three.js"
+  ],
+  "url": "https://www.scrolltide.co/templates/hourglass"
+ },
+ {
+  "id": 44,
+  "slug": "house",
+  "name": "House",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/house"
+ },
+ {
+  "id": 314,
+  "slug": "hover-list",
+  "name": "Hover List",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "list",
+   "hover",
+   "services",
+   "editorial",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/hover-list"
+ },
+ {
+  "id": 305,
+  "slug": "hover-tabs",
+  "name": "Hover Tabs",
+  "kind": "component",
+  "category": "Navigation",
+  "tier": "pro",
+  "tags": [
+   "navigation",
+   "tabs",
+   "hover",
+   "services",
+   "css",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/hover-tabs"
+ },
+ {
+  "id": 271,
+  "slug": "image-trail",
+  "name": "Image Trail",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "cursor",
+   "trail",
+   "stickers",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/image-trail"
+ },
+ {
+  "id": 301,
+  "slug": "image-tunnel",
+  "name": "Image Tunnel",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "tunnel",
+   "css-3d",
+   "gallery",
+   "pointer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/image-tunnel"
+ },
+ {
+  "id": 274,
+  "slug": "intro-loader",
+  "name": "Intro Loader",
+  "kind": "component",
+  "category": "Loader",
+  "tier": "pro",
+  "tags": [
+   "loader",
+   "intro",
+   "preloader",
+   "page-load",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/intro-loader"
+ },
+ {
+  "id": 191,
+  "slug": "jade-flow",
+  "name": "Jade Flow",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "noise",
+   "blue",
+   "grain",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/jade-flow"
+ },
+ {
+  "id": 288,
+  "slug": "kael-9",
+  "name": "KAEL-9",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "portfolio",
+   "video",
+   "tech",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/kael-9"
+ },
+ {
+  "id": 45,
+  "slug": "kage",
+  "name": "Kage",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/kage",
+  "use_case": "stealth-mode and private beta launches"
+ },
+ {
+  "id": 229,
+  "slug": "katana",
+  "name": "Katana",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "video",
+   "scrub",
+   "gsap",
+   "lenis",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/katana"
+ },
+ {
+  "id": 221,
+  "slug": "keelway",
+  "name": "Keelway",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "saas",
+   "agency",
+   "light",
+   "responsive",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/keelway"
+ },
+ {
+  "id": 107,
+  "slug": "knoll",
+  "name": "Knoll",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "fintech",
+   "scroll",
+   "scrub",
+   "canvas",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/knoll"
+ },
+ {
+  "id": 32,
+  "slug": "lagoon-hero",
+  "name": "Lagoon",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/lagoon-hero",
+  "use_case": "data analytics platforms"
+ },
+ {
+  "id": 295,
+  "slug": "layer-carousel",
+  "name": "Layer Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "deck",
+   "spring",
+   "autoplay",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/layer-carousel"
+ },
+ {
+  "id": 121,
+  "slug": "ledger-bento",
+  "name": "Ledger Bento",
+  "kind": "section",
+  "category": "Features",
+  "tier": "paid",
+  "tags": [
+   "features",
+   "bento",
+   "fintech",
+   "dark",
+   "amber",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/ledger-bento"
+ },
+ {
+  "id": 279,
+  "slug": "light-cove",
+  "name": "Light Cove",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "light",
+   "webgl",
+   "shader",
+   "bloom",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/light-cove"
+ },
+ {
+  "id": 293,
+  "slug": "lighthouse-toile",
+  "name": "Lighthouse Toile",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "video",
+   "engraving",
+   "toile",
+   "illustration",
+   "warm",
+   "tailwind",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/sections/lighthouse-toile"
+ },
+ {
+  "id": 120,
+  "slug": "lime-metrics",
+  "name": "Lime Metrics",
+  "kind": "section",
+  "category": "Features",
+  "tier": "paid",
+  "tags": [
+   "features",
+   "charts",
+   "cards",
+   "dark",
+   "lime",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/lime-metrics"
+ },
+ {
+  "id": 240,
+  "slug": "liquid-carousel",
+  "name": "Liquid Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "glass",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/liquid-carousel"
+ },
+ {
+  "id": 236,
+  "slug": "liquid-glass-button",
+  "name": "Liquid Glass Button",
+  "kind": "component",
+  "category": "Button",
+  "tier": "pro",
+  "tags": [
+   "button",
+   "glass",
+   "refraction",
+   "hover",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/liquid-glass-button"
+ },
+ {
+  "id": 223,
+  "slug": "lodestar",
+  "name": "Lodestar",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "analytics",
+   "cinematic",
+   "video",
+   "self-hosted-fonts",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/lodestar"
+ },
+ {
+  "id": 125,
+  "slug": "loom-footer",
+  "name": "Loom Footer",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "newsletter",
+   "heritage",
+   "illustration",
+   "warm",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/loom-footer"
+ },
+ {
+  "id": 260,
+  "slug": "macaw",
+  "name": "Macaw",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "video",
+   "handoff",
+   "nature",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/macaw"
+ },
+ {
+  "id": 192,
+  "slug": "magma-flow",
+  "name": "Magma Flow",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "noise",
+   "blue",
+   "grain",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/magma-flow"
+ },
+ {
+  "id": 97,
+  "slug": "malachite",
+  "name": "Malachite",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "crypto",
+   "fintech",
+   "video",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/malachite"
+ },
+ {
+  "id": 261,
+  "slug": "marble-scroll",
+  "name": "Marble Scroll",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "scroll",
+   "webgl",
+   "shader",
+   "transition",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/marble-scroll"
+ },
+ {
+  "id": 112,
+  "slug": "mariana",
+  "name": "Mariana",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "parallax",
+   "scroll",
+   "travel",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/mariana"
+ },
+ {
+  "id": 217,
+  "slug": "marlin",
+  "name": "Marlin",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "cinematic",
+   "video",
+   "marine",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/marlin"
+ },
+ {
+  "id": 108,
+  "slug": "marmalade",
+  "name": "Marmalade",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "character",
+   "interactive",
+   "canvas",
+   "studio",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/marmalade"
+ },
+ {
+  "id": 33,
+  "slug": "meadow",
+  "name": "Meadow",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/meadow",
+  "use_case": "productivity and team software"
+ },
+ {
+  "id": 129,
+  "slug": "meadow-capture",
+  "name": "Meadow Capture",
+  "kind": "section",
+  "category": "CTA",
+  "tier": "paid",
+  "tags": [
+   "cta",
+   "footer",
+   "email-capture",
+   "photographic",
+   "glass",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/meadow-capture"
+ },
+ {
+  "id": 300,
+  "slug": "media-folder",
+  "name": "Media Folder",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "folder",
+   "windows",
+   "drag",
+   "spring",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/media-folder"
+ },
+ {
+  "id": 93,
+  "slug": "media-gallery",
+  "name": "Media Gallery",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "gallery",
+   "carousel",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/media-gallery"
+ },
+ {
+  "id": 60,
+  "slug": "meridian",
+  "name": "Meridian",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "saas"
+  ],
+  "url": "https://www.scrolltide.co/templates/meridian"
+ },
+ {
+  "id": 71,
+  "slug": "meristem",
+  "name": "Meristem",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "particles",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/meristem"
+ },
+ {
+  "id": 193,
+  "slug": "mesh-arctic",
+  "name": "Arctic Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-arctic"
+ },
+ {
+  "id": 194,
+  "slug": "mesh-blush",
+  "name": "Blush Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-blush"
+ },
+ {
+  "id": 195,
+  "slug": "mesh-candy",
+  "name": "Candy Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-candy"
+ },
+ {
+  "id": 196,
+  "slug": "mesh-citrus",
+  "name": "Citrus Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-citrus"
+ },
+ {
+  "id": 152,
+  "slug": "mesh-drift",
+  "name": "Mesh Drift",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-drift"
+ },
+ {
+  "id": 95,
+  "slug": "mesh-flow",
+  "name": "Mesh Flow",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "canvas",
+   "grid",
+   "pointer",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/mesh-flow"
+ },
+ {
+  "id": 197,
+  "slug": "mesh-indigo",
+  "name": "Indigo Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-indigo"
+ },
+ {
+  "id": 198,
+  "slug": "mesh-lavender",
+  "name": "Digital Lavender",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-lavender"
+ },
+ {
+  "id": 199,
+  "slug": "mesh-matcha",
+  "name": "Matcha Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-matcha"
+ },
+ {
+  "id": 200,
+  "slug": "mesh-mocha",
+  "name": "Mocha Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-mocha"
+ },
+ {
+  "id": 201,
+  "slug": "mesh-neon",
+  "name": "Neon Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-neon"
+ },
+ {
+  "id": 202,
+  "slug": "mesh-ocean",
+  "name": "Ocean Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-ocean"
+ },
+ {
+  "id": 203,
+  "slug": "mesh-plum",
+  "name": "Plum Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-plum"
+ },
+ {
+  "id": 204,
+  "slug": "mesh-rust",
+  "name": "Rust Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-rust"
+ },
+ {
+  "id": 205,
+  "slug": "mesh-sage",
+  "name": "Sage Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-sage"
+ },
+ {
+  "id": 206,
+  "slug": "mesh-sorbet",
+  "name": "Sorbet Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-sorbet"
+ },
+ {
+  "id": 207,
+  "slug": "mesh-sunset",
+  "name": "Sunset Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mesh-sunset"
+ },
+ {
+  "id": 248,
+  "slug": "midnight-sun",
+  "name": "Midnight Sun",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "canvas",
+   "outdoors",
+   "bigtype",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/midnight-sun"
+ },
+ {
+  "id": 208,
+  "slug": "mint-haze",
+  "name": "Mint Haze",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "green",
+   "pastel",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/mint-haze"
+ },
+ {
+  "id": 54,
+  "slug": "mirage",
+  "name": "Mirage",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/mirage"
+ },
+ {
+  "id": 318,
+  "slug": "mitten",
+  "name": "Mitten",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "webgl",
+   "shader",
+   "scanline",
+   "pixel",
+   "ai",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/mitten"
+ },
+ {
+  "id": 59,
+  "slug": "monoio",
+  "name": "Monoio",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "mono"
+  ],
+  "url": "https://www.scrolltide.co/templates/monoio"
+ },
+ {
+  "id": 34,
+  "slug": "monsoon",
+  "name": "Monsoon",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "free",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/monsoon",
+  "use_case": "resilience and continuity SaaS"
+ },
+ {
+  "id": 35,
+  "slug": "moon",
+  "name": "Moon",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/moon",
+  "use_case": "design agencies and studios"
+ },
+ {
+  "id": 232,
+  "slug": "morph-pill-card",
+  "name": "Morph Pill Card",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "morph",
+   "hover",
+   "profile",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/morph-pill-card"
+ },
+ {
+  "id": 266,
+  "slug": "mosaic-trail",
+  "name": "Mosaic Trail",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "grid",
+   "gallery",
+   "webgl",
+   "pointer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/mosaic-trail"
+ },
+ {
+  "id": 323,
+  "slug": "murasaki",
+  "name": "MURASAKI",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "ink",
+   "japanese",
+   "lenis",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/murasaki"
+ },
+ {
+  "id": 281,
+  "slug": "naiade",
+  "name": "NAÏADE",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "ecommerce",
+   "jewellery",
+   "scroll",
+   "frame-sequence",
+   "luxury",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/naiade"
+ },
+ {
+  "id": 36,
+  "slug": "nebula",
+  "name": "Nebula",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/nebula",
+  "use_case": "studios and emerging brands"
+ },
+ {
+  "id": 79,
+  "slug": "noctis",
+  "name": "Noctis",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "shader",
+   "nextjs",
+   "waitlist",
+   "gradient"
+  ],
+  "url": "https://www.scrolltide.co/templates/noctis"
+ },
+ {
+  "id": 58,
+  "slug": "nocturne",
+  "name": "Nocturne",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "saas"
+  ],
+  "url": "https://www.scrolltide.co/templates/nocturne"
+ },
+ {
+  "id": 209,
+  "slug": "noir-mesh",
+  "name": "Noir Mesh",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "mesh",
+   "monochrome",
+   "dither",
+   "grain",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/noir-mesh"
+ },
+ {
+  "id": 265,
+  "slug": "noise-blobs",
+  "name": "Noise Blobs",
+  "kind": "component",
+  "category": "Background",
+  "tier": "pro",
+  "tags": [
+   "background",
+   "3d",
+   "blob",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/noise-blobs"
+ },
+ {
+  "id": 249,
+  "slug": "nopal",
+  "name": "NOPAL",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "scroll",
+   "frame-sequence",
+   "canvas",
+   "product",
+   "drink",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/nopal"
+ },
+ {
+  "id": 254,
+  "slug": "nordlys",
+  "name": "NORDLYS",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "parallax",
+   "scroll",
+   "travel",
+   "aurora",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/nordlys"
+ },
+ {
+  "id": 84,
+  "slug": "nymera",
+  "name": "Nymera",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "agency",
+   "glass",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/nymera"
+ },
+ {
+  "id": 37,
+  "slug": "oasis",
+  "name": "Oasis",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/oasis",
+  "use_case": "focused-work and wellbeing software"
+ },
+ {
+  "id": 46,
+  "slug": "obsidia",
+  "name": "Obsidia",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/obsidia"
+ },
+ {
+  "id": 256,
+  "slug": "oddball",
+  "name": "ODDBALL",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "mascot",
+   "agency",
+   "sport",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/oddball"
+ },
+ {
+  "id": 324,
+  "slug": "ondine",
+  "name": "Ondine",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "video",
+   "beauty",
+   "skincare",
+   "lenis",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/ondine"
+ },
+ {
+  "id": 230,
+  "slug": "ora",
+  "name": "Ora",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "canvas",
+   "scrub",
+   "luxury",
+   "editorial",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/ora"
+ },
+ {
+  "id": 296,
+  "slug": "orbit-gallery",
+  "name": "Orbit Gallery",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "gallery",
+   "orbit",
+   "drag",
+   "editorial",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/orbit-gallery"
+ },
+ {
+  "id": 38,
+  "slug": "orchid",
+  "name": "Orchid",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/orchid",
+  "use_case": "project management software"
+ },
+ {
+  "id": 210,
+  "slug": "orchid-flow",
+  "name": "Orchid Flow",
+  "kind": "shader",
+  "category": "Gradient",
+  "tier": "pro",
+  "tags": [
+   "gradient",
+   "noise",
+   "blue",
+   "grain",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/orchid-flow"
+ },
+ {
+  "id": 278,
+  "slug": "overlap-reel",
+  "name": "Overlap Reel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "reel",
+   "drag",
+   "video",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/overlap-reel"
+ },
+ {
+  "id": 310,
+  "slug": "parallax-row",
+  "name": "Parallax Row",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "gallery",
+   "parallax",
+   "drag",
+   "viewer",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/parallax-row"
+ },
+ {
+  "id": 219,
+  "slug": "parrot",
+  "name": "Parrot",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "video",
+   "editorial",
+   "handoff",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/parrot"
+ },
+ {
+  "id": 76,
+  "slug": "particle-globe",
+  "name": "Particle Globe",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "globe",
+   "particles",
+   "react",
+   "three"
+  ],
+  "url": "https://www.scrolltide.co/components/particle-globe"
+ },
+ {
+  "id": 299,
+  "slug": "particle-text",
+  "name": "Particle Text",
+  "kind": "component",
+  "category": "Text",
+  "tier": "pro",
+  "tags": [
+   "text",
+   "particles",
+   "canvas",
+   "pointer",
+   "physics",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/particle-text"
+ },
+ {
+  "id": 142,
+  "slug": "people-directory",
+  "name": "People Directory",
+  "kind": "ui",
+  "category": "People",
+  "tier": "pro",
+  "tags": [
+   "people",
+   "hr",
+   "dashboard",
+   "table",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/people-directory"
+ },
+ {
+  "id": 269,
+  "slug": "petal-dissolve",
+  "name": "Petal Dissolve",
+  "kind": "component",
+  "category": "Text",
+  "tier": "pro",
+  "tags": [
+   "text",
+   "typography",
+   "particles",
+   "webgl",
+   "dissolve",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/petal-dissolve"
+ },
+ {
+  "id": 297,
+  "slug": "photo-stack",
+  "name": "Photo Stack",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "stack",
+   "photos",
+   "click",
+   "web-animations",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/photo-stack"
+ },
+ {
+  "id": 252,
+  "slug": "plinth",
+  "name": "Plinth",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "sculpture",
+   "parallax",
+   "editorial",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/plinth"
+ },
+ {
+  "id": 245,
+  "slug": "plum",
+  "name": "Plum",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "webgl",
+   "scroll",
+   "frame-sequence",
+   "painting",
+   "agency",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/plum"
+ },
+ {
+  "id": 39,
+  "slug": "portal",
+  "name": "Portal",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/portal"
+ },
+ {
+  "id": 132,
+  "slug": "portfolio-close",
+  "name": "Portfolio Close",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "newsletter",
+   "finance",
+   "dark",
+   "wordmark",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/portfolio-close"
+ },
+ {
+  "id": 233,
+  "slug": "post-carousel",
+  "name": "Post Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "social",
+   "swipe",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/post-carousel"
+ },
+ {
+  "id": 113,
+  "slug": "poste",
+  "name": "Poste",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "interactive",
+   "video",
+   "privacy",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/poste"
+ },
+ {
+  "id": 242,
+  "slug": "pouterby",
+  "name": "Pouterby",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "canvas",
+   "cursor",
+   "interactive",
+   "character",
+   "playful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/pouterby"
+ },
+ {
+  "id": 40,
+  "slug": "prairie",
+  "name": "Prairie",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/prairie",
+  "use_case": "AI platforms and developer tools"
+ },
+ {
+  "id": 145,
+  "slug": "project-roadmap",
+  "name": "Project Roadmap",
+  "kind": "ui",
+  "category": "Projects",
+  "tier": "pro",
+  "tags": [
+   "projects",
+   "dashboard",
+   "roadmap",
+   "timeline",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/project-roadmap"
+ },
+ {
+  "id": 146,
+  "slug": "property-portfolio",
+  "name": "Property Portfolio",
+  "kind": "ui",
+  "category": "Property",
+  "tier": "pro",
+  "tags": [
+   "property",
+   "dashboard",
+   "charts",
+   "sidebar",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/property-portfolio"
+ },
+ {
+  "id": 306,
+  "slug": "quote-deck",
+  "name": "Quote Deck",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "testimonials",
+   "carousel",
+   "autoplay",
+   "drag",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/quote-deck"
+ },
+ {
+  "id": 111,
+  "slug": "rann-mahal",
+  "name": "Rann Mahal",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "hospitality",
+   "scroll",
+   "scrub",
+   "cinematic",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/rann-mahal"
+ },
+ {
+  "id": 57,
+  "slug": "rednova",
+  "name": "RedNova",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "landing-page",
+   "video",
+   "react",
+   "vite",
+   "saas"
+  ],
+  "url": "https://www.scrolltide.co/templates/rednova"
+ },
+ {
+  "id": 307,
+  "slug": "reel-slider",
+  "name": "Reel Slider",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "coverflow",
+   "reels",
+   "video",
+   "carousel",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/reel-slider"
+ },
+ {
+  "id": 123,
+  "slug": "render-grid",
+  "name": "Render Grid",
+  "kind": "section",
+  "category": "Features",
+  "tier": "paid",
+  "tags": [
+   "features",
+   "grid",
+   "3d",
+   "dark",
+   "editorial",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/render-grid"
+ },
+ {
+  "id": 270,
+  "slug": "reveal-gallery",
+  "name": "Reveal Gallery",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "gallery",
+   "hover",
+   "webgl",
+   "shader",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/reveal-gallery"
+ },
+ {
+  "id": 47,
+  "slug": "ridge",
+  "name": "Ridge",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/ridge",
+  "use_case": "OKR and goal-tracking SaaS"
+ },
+ {
+  "id": 130,
+  "slug": "river-valley",
+  "name": "River Valley",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "illustration",
+   "landscape",
+   "serif",
+   "cream",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/river-valley"
+ },
+ {
+  "id": 116,
+  "slug": "route-booking",
+  "name": "Route Booking",
+  "kind": "section",
+  "category": "Contact",
+  "tier": "paid",
+  "tags": [
+   "contact",
+   "form",
+   "booking",
+   "light",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/route-booking"
+ },
+ {
+  "id": 134,
+  "slug": "sales-console",
+  "name": "Sales Console",
+  "kind": "ui",
+  "category": "Dashboard",
+  "tier": "pro",
+  "tags": [
+   "dashboard",
+   "sales",
+   "charts",
+   "light",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/sales-console"
+ },
+ {
+  "id": 114,
+  "slug": "sanctum",
+  "name": "Sanctum",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "cinematic",
+   "video",
+   "atmospheric",
+   "travel",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/sanctum"
+ },
+ {
+  "id": 231,
+  "slug": "scowlby",
+  "name": "Scowlby",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "canvas",
+   "cursor",
+   "interactive",
+   "character",
+   "playful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/scowlby"
+ },
+ {
+  "id": 237,
+  "slug": "scroll-3d-slider",
+  "name": "Scroll 3D Slider",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "slider",
+   "distortion",
+   "webgl",
+   "scroll",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/scroll-3d-slider"
+ },
+ {
+  "id": 312,
+  "slug": "scroll-index",
+  "name": "Scroll Index",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "scroll",
+   "sticky",
+   "portfolio",
+   "index",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/scroll-index"
+ },
+ {
+  "id": 75,
+  "slug": "scroll-key",
+  "name": "Scroll Key",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "keycap",
+   "glass",
+   "react",
+   "three"
+  ],
+  "url": "https://www.scrolltide.co/components/scroll-key"
+ },
+ {
+  "id": 255,
+  "slug": "selene",
+  "name": "SELENE",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "free",
+  "tags": [
+   "landing",
+   "parallax",
+   "scroll",
+   "space",
+   "travel",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/selene"
+ },
+ {
+  "id": 78,
+  "slug": "send-button",
+  "name": "Send Halo",
+  "kind": "component",
+  "category": "Button",
+  "tier": "pro",
+  "tags": [
+   "button",
+   "glow",
+   "composer",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/send-button"
+ },
+ {
+  "id": 105,
+  "slug": "sentinel",
+  "name": "Sentinel",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "security",
+   "light",
+   "glass",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/sentinel"
+ },
+ {
+  "id": 124,
+  "slug": "service-bento",
+  "name": "Service Bento",
+  "kind": "section",
+  "category": "Features",
+  "tier": "paid",
+  "tags": [
+   "features",
+   "services",
+   "bento",
+   "3d",
+   "dark",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/service-bento"
+ },
+ {
+  "id": 304,
+  "slug": "service-cards",
+  "name": "Service Cards",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "services",
+   "hover",
+   "grid",
+   "css",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/service-cards"
+ },
+ {
+  "id": 317,
+  "slug": "shoal",
+  "name": "Shoal",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "canvas",
+   "ascii",
+   "interactive",
+   "ai",
+   "light",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/shoal"
+ },
+ {
+  "id": 315,
+  "slug": "showcase-card",
+  "name": "Showcase Card",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "project",
+   "accordion",
+   "blur",
+   "spring",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/showcase-card"
+ },
+ {
+  "id": 117,
+  "slug": "signal-form",
+  "name": "Signal Form",
+  "kind": "section",
+  "category": "Contact",
+  "tier": "paid",
+  "tags": [
+   "contact",
+   "form",
+   "dark",
+   "glass",
+   "navbar",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/signal-form"
+ },
+ {
+  "id": 127,
+  "slug": "snow-summit",
+  "name": "Snow Summit",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "illustration",
+   "mountains",
+   "navy",
+   "automotive",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/snow-summit"
+ },
+ {
+  "id": 285,
+  "slug": "soft-cycle",
+  "name": "Soft Cycle",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "fashion",
+   "playful",
+   "colorful",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/soft-cycle"
+ },
+ {
+  "id": 224,
+  "slug": "solis",
+  "name": "Solis",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "product",
+   "cinematic",
+   "video",
+   "luxury",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/solis"
+ },
+ {
+  "id": 81,
+  "slug": "spacesis",
+  "name": "Spacesis",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "editorial",
+   "video",
+   "react",
+   "vite",
+   "gemini"
+  ],
+  "url": "https://www.scrolltide.co/templates/spacesis"
+ },
+ {
+  "id": 239,
+  "slug": "spiral-slider",
+  "name": "Spiral Slider",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "slider",
+   "helix",
+   "webgl",
+   "drag",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/spiral-slider"
+ },
+ {
+  "id": 86,
+  "slug": "spotlight-carousel",
+  "name": "Spotlight Carousel",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "carousel",
+   "gallery",
+   "photography",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/spotlight-carousel"
+ },
+ {
+  "id": 277,
+  "slug": "step-accordion",
+  "name": "Step Accordion",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "accordion",
+   "steps",
+   "autoplay",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/step-accordion"
+ },
+ {
+  "id": 276,
+  "slug": "step-path",
+  "name": "Step Path",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "process",
+   "steps",
+   "svg",
+   "scroll",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/step-path"
+ },
+ {
+  "id": 220,
+  "slug": "stillbloom",
+  "name": "Stillbloom",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "studio",
+   "editorial",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/stillbloom"
+ },
+ {
+  "id": 275,
+  "slug": "story-deck",
+  "name": "Story Deck",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "testimonial",
+   "deck",
+   "drag",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/story-deck"
+ },
+ {
+  "id": 122,
+  "slug": "studio-enquiry",
+  "name": "Studio Enquiry",
+  "kind": "section",
+  "category": "Contact",
+  "tier": "paid",
+  "tags": [
+   "contact",
+   "form",
+   "dark",
+   "studio",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/studio-enquiry"
+ },
+ {
+  "id": 153,
+  "slug": "swirl-band",
+  "name": "Swirl Band",
+  "kind": "shader",
+  "category": "Swirl",
+  "tier": "pro",
+  "tags": [
+   "swirl",
+   "spiral",
+   "bands",
+   "gradient",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/swirl-band"
+ },
+ {
+  "id": 211,
+  "slug": "swirl-citrus",
+  "name": "Citrus Swirl",
+  "kind": "shader",
+  "category": "Swirl",
+  "tier": "pro",
+  "tags": [
+   "swirl",
+   "spiral",
+   "bands",
+   "gradient",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/swirl-citrus"
+ },
+ {
+  "id": 212,
+  "slug": "swirl-mono",
+  "name": "Mono Swirl",
+  "kind": "shader",
+  "category": "Swirl",
+  "tier": "pro",
+  "tags": [
+   "swirl",
+   "spiral",
+   "bands",
+   "gradient",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/swirl-mono"
+ },
+ {
+  "id": 213,
+  "slug": "swirl-rose",
+  "name": "Rose Swirl",
+  "kind": "shader",
+  "category": "Swirl",
+  "tier": "pro",
+  "tags": [
+   "swirl",
+   "spiral",
+   "bands",
+   "gradient",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/swirl-rose"
+ },
+ {
+  "id": 214,
+  "slug": "swirl-tide",
+  "name": "Tide Swirl",
+  "kind": "shader",
+  "category": "Swirl",
+  "tier": "pro",
+  "tags": [
+   "swirl",
+   "spiral",
+   "bands",
+   "gradient",
+   "dither",
+   "background",
+   "webgl"
+  ],
+  "url": "https://www.scrolltide.co/shaders/swirl-tide"
+ },
+ {
+  "id": 282,
+  "slug": "sykea",
+  "name": "SYKÉA",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "ecommerce",
+   "fragrance",
+   "scroll",
+   "frame-sequence",
+   "luxury",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/sykea"
+ },
+ {
+  "id": 70,
+  "slug": "synapse",
+  "name": "Synapse",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "hero",
+   "3d",
+   "react",
+   "nextjs",
+   "three.js",
+   "gsap"
+  ],
+  "url": "https://www.scrolltide.co/templates/synapse"
+ },
+ {
+  "id": 294,
+  "slug": "tarn",
+  "name": "tarn",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "webgl",
+   "fintech",
+   "nature",
+   "light",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/tarn"
+ },
+ {
+  "id": 272,
+  "slug": "team-roster",
+  "name": "Team Roster",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "team",
+   "list",
+   "hover",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/components/team-roster"
+ },
+ {
+  "id": 104,
+  "slug": "threshold",
+  "name": "Threshold",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "scroll",
+   "scrub",
+   "cinematic",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/threshold"
+ },
+ {
+  "id": 64,
+  "slug": "tide",
+  "name": "Tide",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion",
+   "dark",
+   "editorial"
+  ],
+  "url": "https://www.scrolltide.co/templates/tide"
+ },
+ {
+  "id": 118,
+  "slug": "tier-cards",
+  "name": "Tier Cards",
+  "kind": "section",
+  "category": "Pricing",
+  "tier": "paid",
+  "tags": [
+   "pricing",
+   "plans",
+   "toggle",
+   "dark",
+   "glass",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/tier-cards"
+ },
+ {
+  "id": 308,
+  "slug": "tilt-carousel",
+  "name": "Tilt Carousel",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "carousel",
+   "tilt",
+   "drag",
+   "blur",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/tilt-carousel"
+ },
+ {
+  "id": 258,
+  "slug": "toucan",
+  "name": "Toucan",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "video",
+   "handoff",
+   "editorial",
+   "alerting",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/toucan"
+ },
+ {
+  "id": 65,
+  "slug": "tundra",
+  "name": "Tundra",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion",
+   "light",
+   "saas"
+  ],
+  "url": "https://www.scrolltide.co/templates/tundra"
+ },
+ {
+  "id": 66,
+  "slug": "twilight",
+  "name": "Twilight",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion",
+   "light",
+   "dashboard"
+  ],
+  "url": "https://www.scrolltide.co/templates/twilight"
+ },
+ {
+  "id": 291,
+  "slug": "umbral",
+  "name": "Umbral",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "agency",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/umbral"
+ },
+ {
+  "id": 286,
+  "slug": "updraft",
+  "name": "UPDRAFT",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "video",
+   "travel",
+   "outdoors",
+   "editorial",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/updraft"
+ },
+ {
+  "id": 253,
+  "slug": "valmora",
+  "name": "VALMORA",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "pro",
+  "tags": [
+   "landing",
+   "scroll",
+   "frame-sequence",
+   "automotive",
+   "luxury",
+   "dark",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/valmora"
+ },
+ {
+  "id": 52,
+  "slug": "verdant",
+  "name": "Verdant",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "nextjs",
+   "motion"
+  ],
+  "url": "https://www.scrolltide.co/templates/verdant"
+ },
+ {
+  "id": 106,
+  "slug": "verge",
+  "name": "Verge",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "agency",
+   "portfolio",
+   "editorial",
+   "video",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/verge"
+ },
+ {
+  "id": 226,
+  "slug": "vesper",
+  "name": "Vesper",
+  "kind": "template",
+  "category": "3D Website",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "webgl",
+   "three",
+   "gsap",
+   "scroll",
+   "product",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/vesper"
+ },
+ {
+  "id": 218,
+  "slug": "vespine",
+  "name": "Vespine",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "scroll",
+   "cinematic",
+   "video",
+   "security",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/vespine"
+ },
+ {
+  "id": 103,
+  "slug": "visor",
+  "name": "Visor",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "free",
+  "tags": [
+   "hero",
+   "product",
+   "light",
+   "video",
+   "react",
+   "vite",
+   "tailwind"
+  ],
+  "url": "https://www.scrolltide.co/templates/visor"
+ },
+ {
+  "id": 243,
+  "slug": "vivant",
+  "name": "VIVANT",
+  "kind": "template",
+  "category": "Landing Page",
+  "tier": "paid",
+  "tags": [
+   "landing",
+   "ecommerce",
+   "fashion",
+   "nextjs",
+   "gsap",
+   "lenis",
+   "webgl",
+   "colorful"
+  ],
+  "url": "https://www.scrolltide.co/templates/vivant"
+ },
+ {
+  "id": 141,
+  "slug": "wallet-overview",
+  "name": "Wallet Overview",
+  "kind": "ui",
+  "category": "Finance",
+  "tier": "pro",
+  "tags": [
+   "finance",
+   "wallet",
+   "banking",
+   "charts",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/wallet-overview"
+ },
+ {
+  "id": 241,
+  "slug": "wave-gallery",
+  "name": "Wave Gallery",
+  "kind": "component",
+  "category": "3D",
+  "tier": "pro",
+  "tags": [
+   "3d",
+   "gallery",
+   "wave",
+   "webgl",
+   "drag",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/wave-gallery"
+ },
+ {
+  "id": 257,
+  "slug": "whisker-ops",
+  "name": "Whisker Ops",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "cursor",
+   "interactive",
+   "frame-sequence",
+   "canvas",
+   "character",
+   "react",
+   "vite"
+  ],
+  "url": "https://www.scrolltide.co/templates/whisker-ops"
+ },
+ {
+  "id": 136,
+  "slug": "widget-board",
+  "name": "Widget Board",
+  "kind": "ui",
+  "category": "Dashboard",
+  "tier": "pro",
+  "tags": [
+   "dashboard",
+   "widgets",
+   "finance",
+   "grid",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/widget-board"
+ },
+ {
+  "id": 67,
+  "slug": "willow",
+  "name": "Willow",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion",
+   "dark",
+   "minimal"
+  ],
+  "url": "https://www.scrolltide.co/templates/willow"
+ },
+ {
+  "id": 128,
+  "slug": "wordmark-bleed",
+  "name": "Wordmark Bleed",
+  "kind": "section",
+  "category": "Footer",
+  "tier": "paid",
+  "tags": [
+   "footer",
+   "minimal",
+   "wordmark",
+   "dark",
+   "studio",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/sections/wordmark-bleed"
+ },
+ {
+  "id": 135,
+  "slug": "workspace-hub",
+  "name": "Workspace Hub",
+  "kind": "ui",
+  "category": "Dashboard",
+  "tier": "pro",
+  "tags": [
+   "dashboard",
+   "workspace",
+   "schedule",
+   "search",
+   "react",
+   "css"
+  ],
+  "url": "https://www.scrolltide.co/ui/workspace-hub"
+ },
+ {
+  "id": 68,
+  "slug": "zephyr",
+  "name": "Zephyr",
+  "kind": "template",
+  "category": "Hero Section",
+  "tier": "paid",
+  "tags": [
+   "hero",
+   "react",
+   "vite",
+   "motion",
+   "sage",
+   "saas"
+  ],
+  "url": "https://www.scrolltide.co/templates/zephyr"
+ },
+ {
+  "id": 303,
+  "slug": "zoom-reveal",
+  "name": "Zoom Reveal",
+  "kind": "component",
+  "category": "Card",
+  "tier": "pro",
+  "tags": [
+   "card",
+   "scroll",
+   "sticky",
+   "video",
+   "reveal",
+   "react"
+  ],
+  "url": "https://www.scrolltide.co/components/zoom-reveal"
+ }
+]

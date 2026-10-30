@@ -1,0 +1,43 @@
+{
+ "industry": {
+  "agency": "CTA Designs for Agency industry",
+  "nonprofit": "CTA Designs for Nonprofit industry",
+  "travel": "CTA Designs for Travel industry",
+  "services": "CTA Designs for Services industry",
+  "marketing": "CTA Designs for Marketing industry",
+  "cafe": "CTA Designs for Cafe industry",
+  "ecommerce": "CTA Designs for Ecommerce industry",
+  "logistic": "CTA Designs for Logistic industry",
+  "landing": "CTA Designs for Landing industry",
+  "saas": "CTA Designs for SaaS industry",
+  "event-conference": "CTA Designs for Event / Conference industry",
+  "tech": "CTA Designs for Tech industry",
+  "architecture": "CTA Designs for Architecture industry",
+  "insurance": "CTA Designs for Insurance industry",
+  "hotel": "CTA Designs for Hotel industry",
+  "mobile-app": "CTA Designs for Mobile App industry",
+  "ai": "CTA Designs for AI industry",
+  "design": "CTA Designs for Design industry",
+  "finance": "CTA Designs for Finance industry",
+  "health-fitness": "CTA Designs for Health & Fitness industry",
+  "real-estate": "CTA Designs for Real Estate industry",
+  "education": "CTA Designs for Education industry",
+  "medical": "CTA Designs for Medical industry",
+  "portfolio": "CTA Designs for Portfolio industry"
+ },
+ "categories": {
+  "navigation": "Best CTA Designs for Navigation",
+  "modal-pop-up": "Best CTA Designs for Modal / Pop-up",
+  "call-to-buy": "Best CTA Designs for Call-to-Buy",
+  "pricing": "Best CTA Designs for Pricing / Subscription",
+  "newsletter": "Best CTA Designs for Newsletter",
+  "download": "Best CTA Designs for Download",
+  "form": "Best CTA Designs for Form",
+  "button": "Best CTA Designs for Button",
+  "all-types": "Best CTA Designs for All types"
+ },
+ "mode": {
+  "light": "Light Mode CTA Designs",
+  "dark": "Dark Mode CTA Designs"
+ }
+}

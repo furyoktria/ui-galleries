@@ -1,0 +1,55 @@
+{
+ "crawled": "2026-10-30",
+ "policy": "facts only: name, gallery URL, live site URL, gallery tags. No screenshots, prompts, code or gallery-written text.",
+ "sources": {
+  "navbar": {
+   "file": "navbar-gallery.json",
+   "site": "https://www.navbar.gallery",
+   "items": 496,
+   "min_expected": 446
+  },
+  "footer": {
+   "file": "footer-design.json",
+   "site": "https://www.footer.design",
+   "items": 776,
+   "min_expected": 698
+  },
+  "cta": {
+   "file": "cta-gallery.json",
+   "site": "https://www.cta.gallery",
+   "items": 521,
+   "min_expected": 468
+  },
+  "hero": {
+   "file": "supahero.json",
+   "site": "https://supahero.io",
+   "items": 573,
+   "min_expected": 515
+  },
+  "scrolltide": {
+   "file": "scrolltide.json",
+   "site": "https://www.scrolltide.co",
+   "items": 287,
+   "min_expected": 258
+  },
+  "3dicons": {
+   "file": "3dicons.json",
+   "site": "https://3dicons.co",
+   "items": 211,
+   "min_expected": 189
+  }
+ },
+ "link_only": {
+  "refero-styles": {
+   "site": "https://styles.refero.design",
+   "reason": "robots.txt disallows AI crawlers (anthropic-ai, ClaudeBot)"
+  },
+  "liquid-glass": {
+   "site": "https://glass.samasante.com",
+   "repo": "https://github.com/samasante/liquid-glass",
+   "license": "MIT",
+   "notes": "references/liquid-glass.md"
+  }
+ },
+ "total_items": 2864
+}

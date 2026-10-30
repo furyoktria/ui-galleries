@@ -1,0 +1,4466 @@
+[
+ {
+  "slug": "1x",
+  "url": "https://www.navbar.gallery/navbar/1x",
+  "name": "1x",
+  "type": "Mega Menu",
+  "style": "Elegant",
+  "designed_by": "1x",
+  "site_url": "https://www.1x.tech/"
+ },
+ {
+  "slug": "24-7-artists",
+  "url": "https://www.navbar.gallery/navbar/24-7-artists",
+  "name": "24/7 Artists",
+  "type": "Full Screen",
+  "style": "Art",
+  "designed_by": "Waaark",
+  "site_url": "https://247artists.com/"
+ },
+ {
+  "slug": "aave",
+  "url": "https://www.navbar.gallery/navbar/aave",
+  "name": "Aave",
+  "type": "Dropdown",
+  "style": "Crypto",
+  "designed_by": "Aave",
+  "site_url": "https://aave.com/"
+ },
+ {
+  "slug": "accessgrid",
+  "url": "https://www.navbar.gallery/navbar/accessgrid",
+  "name": "AccessGrid",
+  "type": "Mega Menu",
+  "style": "Security",
+  "designed_by": "AccessGrid",
+  "site_url": "https://www.accessgrid.com/"
+ },
+ {
+  "slug": "adaline",
+  "url": "https://www.navbar.gallery/navbar/adaline",
+  "name": "Adaline",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Adaline",
+  "site_url": "https://www.adaline.ai/"
+ },
+ {
+  "slug": "aether-studio",
+  "url": "https://www.navbar.gallery/navbar/aether-studio",
+  "name": "Aether Studio",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Zaid Khan",
+  "site_url": "https://aetherstudio.framer.website/"
+ },
+ {
+  "slug": "agile-by-design",
+  "url": "https://www.navbar.gallery/navbar/agile-by-design",
+  "name": "Agile by Design",
+  "type": "Static",
+  "style": "Consulting",
+  "designed_by": "Agile by Design",
+  "site_url": "https://www.agilebydesign.com/"
+ },
+ {
+  "slug": "ai-work",
+  "url": "https://www.navbar.gallery/navbar/ai-work",
+  "name": "ai.work",
+  "type": "Dropdown",
+  "style": null,
+  "designed_by": "ai.work",
+  "site_url": "https://www.ai.work/"
+ },
+ {
+  "slug": "airbnb",
+  "url": "https://www.navbar.gallery/navbar/airbnb",
+  "name": "Airbnb",
+  "type": "Search Bar",
+  "style": "Travel",
+  "designed_by": "Airbnb",
+  "site_url": "https://www.airbnb.com/"
+ },
+ {
+  "slug": "airloom",
+  "url": "https://www.navbar.gallery/navbar/airloom",
+  "name": "Airloom",
+  "type": "Full Screen",
+  "style": "Sustainability",
+  "designed_by": "Moniker, Inc.",
+  "site_url": "https://www.airloom.energy/"
+ },
+ {
+  "slug": "aker",
+  "url": "https://www.navbar.gallery/navbar/aker",
+  "name": "Aker",
+  "type": "Full Screen",
+  "style": "Investment",
+  "designed_by": "Oimachi",
+  "site_url": "https://www.akercompanies.com/"
+ },
+ {
+  "slug": "alex-pierce",
+  "url": "https://www.navbar.gallery/navbar/alex-pierce",
+  "name": "Alex Pierce",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Alex Pierce",
+  "site_url": "https://thegeekdesigner.com/"
+ },
+ {
+  "slug": "alignui",
+  "url": "https://www.navbar.gallery/navbar/alignui",
+  "name": "AlignUI",
+  "type": "Dropdown",
+  "style": null,
+  "designed_by": "AlignUI",
+  "site_url": "https://www.alignui.com/"
+ },
+ {
+  "slug": "amplemarket",
+  "url": "https://www.navbar.gallery/navbar/amplemarket",
+  "name": "Amplemarket",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Better Mistakes",
+  "site_url": "https://www.amplemarket.com/"
+ },
+ {
+  "slug": "andrematt",
+  "url": "https://www.navbar.gallery/navbar/andrematt",
+  "name": "Andrematt",
+  "type": "Full Screen",
+  "style": "Real Estate",
+  "designed_by": "Six",
+  "site_url": "https://andermatt-realestate.ch/"
+ },
+ {
+  "slug": "ankar-ai",
+  "url": "https://www.navbar.gallery/navbar/ankar-ai",
+  "name": "Ankar AI",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Ankar",
+  "site_url": "https://ankar.ai/"
+ },
+ {
+  "slug": "apple",
+  "url": "https://www.navbar.gallery/navbar/apple",
+  "name": "Apple",
+  "type": "Search Bar",
+  "style": "Technology",
+  "designed_by": "Apple",
+  "site_url": "https://www.apple.com/"
+ },
+ {
+  "slug": "arc",
+  "url": "https://www.navbar.gallery/navbar/arc",
+  "name": "Arc",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Arc",
+  "site_url": "https://arc.net/"
+ },
+ {
+  "slug": "arrival",
+  "url": "https://www.navbar.gallery/navbar/arrival",
+  "name": "Arrival",
+  "type": "Full Screen",
+  "style": "Travel",
+  "designed_by": "Arrival",
+  "site_url": "https://arrival.com/"
+ },
+ {
+  "slug": "arrows",
+  "url": "https://www.navbar.gallery/navbar/arrows",
+  "name": "Arrows",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Daniel Zarick",
+  "site_url": "https://arrows.to/"
+ },
+ {
+  "slug": "art-of-documentary",
+  "url": "https://www.navbar.gallery/navbar/art-of-documentary",
+  "name": "Art of Documentary",
+  "type": "Full Screen",
+  "style": "Film",
+  "designed_by": "Whoa Communications, Inc",
+  "site_url": "https://theartofdocumentary.com/"
+ },
+ {
+  "slug": "artboard-studio",
+  "url": "https://www.navbar.gallery/navbar/artboard-studio",
+  "name": "Artboard Studio",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Mucahit Gayiran",
+  "site_url": "https://artboard.studio/"
+ },
+ {
+  "slug": "article",
+  "url": "https://www.navbar.gallery/navbar/article",
+  "name": "Article",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Article",
+  "site_url": "https://madebyarticle.com/"
+ },
+ {
+  "slug": "artone-studio",
+  "url": "https://www.navbar.gallery/navbar/artone-studio",
+  "name": "Artone Studio",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "Artone Studio",
+  "site_url": "https://www.artone.studio/"
+ },
+ {
+  "slug": "asana",
+  "url": "https://www.navbar.gallery/navbar/asana",
+  "name": "Asana",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Asana",
+  "site_url": "https://escape.cafe/fr?ref=navbar.gallery"
+ },
+ {
+  "slug": "ask-phill",
+  "url": "https://www.navbar.gallery/navbar/ask-phill",
+  "name": "Ask Phill",
+  "type": "Dropdown",
+  "style": "Agency",
+  "designed_by": "Ask Phill",
+  "site_url": "https://askphill.com/"
+ },
+ {
+  "slug": "assurestor",
+  "url": "https://www.navbar.gallery/navbar/assurestor",
+  "name": "Assurestor",
+  "type": "Dropdown",
+  "style": "Technology",
+  "designed_by": "Assurestor",
+  "site_url": "https://www.assurestor.com"
+ },
+ {
+  "slug": "atelier-de-troupe",
+  "url": "https://www.navbar.gallery/navbar/atelier-de-troupe",
+  "name": "Atelier de Troupe",
+  "type": "Static",
+  "style": "eCommerce",
+  "designed_by": "L&#x27;Étude",
+  "site_url": "https://atelierdetroupe.com/"
+ },
+ {
+  "slug": "athleats",
+  "url": "https://www.navbar.gallery/navbar/athleats",
+  "name": "Athleats",
+  "type": "Mega Menu",
+  "style": "Health",
+  "designed_by": "Luca Defreitas-Hansen",
+  "site_url": "https://www.weareathleats.com/"
+ },
+ {
+  "slug": "atoll-digital",
+  "url": "https://www.navbar.gallery/navbar/atoll-digital",
+  "name": "Atoll Digital",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "Atoll Digital",
+  "site_url": "https://atolldigital.com/"
+ },
+ {
+  "slug": "attio",
+  "url": "https://www.navbar.gallery/navbar/attio",
+  "name": "Attio",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Attio",
+  "site_url": "https://attio.com/"
+ },
+ {
+  "slug": "attio-help",
+  "url": "https://www.navbar.gallery/navbar/attio-help",
+  "name": "Attio",
+  "type": "Breadcrumbs",
+  "style": "SaaS",
+  "designed_by": "Attio",
+  "site_url": "https://attio.com/help/reference/managing-your-data/records/merge-and-delete-records"
+ },
+ {
+  "slug": "augen",
+  "url": "https://www.navbar.gallery/navbar/augen",
+  "name": "Augen",
+  "type": "Static",
+  "style": "AI",
+  "designed_by": "https://augen.pro/products/a1-sense",
+  "site_url": "https://augen.pro/"
+ },
+ {
+  "slug": "aveon",
+  "url": "https://www.navbar.gallery/navbar/aveon",
+  "name": "Aveon",
+  "type": "Side Bar",
+  "style": "Framer Template",
+  "designed_by": "Muhammad Talha",
+  "site_url": "https://aveon.framer.website/"
+ },
+ {
+  "slug": "awsmd",
+  "url": "https://www.navbar.gallery/navbar/awsmd",
+  "name": "Awsmd",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Awsmd",
+  "site_url": "https://awsmd.com/"
+ },
+ {
+  "slug": "awwwards",
+  "url": "https://www.navbar.gallery/navbar/awwwards",
+  "name": "Awwwards",
+  "type": "Mega Menu",
+  "style": "Design",
+  "designed_by": "Awwwards",
+  "site_url": "https://www.awwwards.com/"
+ },
+ {
+  "slug": "ayush-wanjari",
+  "url": "https://www.navbar.gallery/navbar/ayush-wanjari",
+  "name": "Ayush Wanjari",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "Ayush Wanjari",
+  "site_url": "https://www.ayushwanjari.com/"
+ },
+ {
+  "slug": "ballance",
+  "url": "https://www.navbar.gallery/navbar/ballance",
+  "name": "Ballance",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Breeje Anadkat",
+  "site_url": "https://ballance.framer.website/"
+ },
+ {
+  "slug": "baptiste-glaymann",
+  "url": "https://www.navbar.gallery/navbar/baptiste-glaymann",
+  "name": "Baptiste Glaymann",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Flayks &amp; Shelby Kay",
+  "site_url": "https://baptisteglaymann.com/"
+ },
+ {
+  "slug": "baselayer",
+  "url": "https://www.navbar.gallery/navbar/baselayer",
+  "name": "Baselayer",
+  "type": "Mega Menu",
+  "style": "Security",
+  "designed_by": "Baselayer",
+  "site_url": "https://baselayer.com/"
+ },
+ {
+  "slug": "bequant",
+  "url": "https://www.navbar.gallery/navbar/bequant",
+  "name": "Bequant",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Oimachi",
+  "site_url": "https://www.bequant.com/"
+ },
+ {
+  "slug": "better-stack",
+  "url": "https://www.navbar.gallery/navbar/better-stack",
+  "name": "Better Stack",
+  "type": "Search Bar",
+  "style": "SaaS",
+  "designed_by": "Better Stack",
+  "site_url": "https://betterstack.com/community/guides/logging/"
+ },
+ {
+  "slug": "big-dirty-agency",
+  "url": "https://www.navbar.gallery/navbar/big-dirty-agency",
+  "name": "Big Dirty Agency",
+  "type": "Side Bar",
+  "style": null,
+  "designed_by": "Big Dirty Agency",
+  "site_url": "https://www.bigdirty.agency/"
+ },
+ {
+  "slug": "blackbird",
+  "url": "https://www.navbar.gallery/navbar/blackbird",
+  "name": "Blackbird",
+  "type": "Full Screen",
+  "style": "Venture Capital",
+  "designed_by": "Psychoactive Studios",
+  "site_url": "https://www.blackbird.vc/"
+ },
+ {
+  "slug": "blck-cld-collective",
+  "url": "https://www.navbar.gallery/navbar/blck-cld-collective",
+  "name": "BLCK CLD COLLECTIVE",
+  "type": "Mega Menu",
+  "style": "Music",
+  "designed_by": "Nate",
+  "site_url": "https://blckcldcollective.com/"
+ },
+ {
+  "slug": "bloxs",
+  "url": "https://www.navbar.gallery/navbar/bloxs",
+  "name": "Bloxs",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Insany Design",
+  "site_url": "https://bloxs.com.br/en"
+ },
+ {
+  "slug": "bolt",
+  "url": "https://www.navbar.gallery/navbar/bolt",
+  "name": "Bolt",
+  "type": "Dropdown",
+  "style": "D2C (Direct to Consumer)",
+  "designed_by": "Bolt",
+  "site_url": "https://www.bolt.com/"
+ },
+ {
+  "slug": "bored-cow",
+  "url": "https://www.navbar.gallery/navbar/bored-cow",
+  "name": "Bored Cow",
+  "type": "Dropdown",
+  "style": "Food &amp; Drink",
+  "designed_by": "Manufactur",
+  "site_url": "https://tryboredcow.com/"
+ },
+ {
+  "slug": "brainfish",
+  "url": "https://www.navbar.gallery/navbar/brainfish",
+  "name": "Brainfish",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Brainfish",
+  "site_url": "https://www.brainfishai.com/"
+ },
+ {
+  "slug": "brand-appart",
+  "url": "https://www.navbar.gallery/navbar/brand-appart",
+  "name": "Brand Appart",
+  "type": "Side Bar",
+  "style": "Branding",
+  "designed_by": "Brand Apart",
+  "site_url": "https://www.brandappart.com/"
+ },
+ {
+  "slug": "brandigo",
+  "url": "https://www.navbar.gallery/navbar/brandigo",
+  "name": "Brandigo",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Framify",
+  "site_url": "https://brandigo.framer.website/"
+ },
+ {
+  "slug": "brass-hands",
+  "url": "https://www.navbar.gallery/navbar/brass-hands",
+  "name": "Brass Hands",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Brass Hands",
+  "site_url": "https://www.brasshands.com/"
+ },
+ {
+  "slug": "brethen-design-co",
+  "url": "https://www.navbar.gallery/navbar/brethen-design-co",
+  "name": "Brethen Design Co.",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "Forefathers Group",
+  "site_url": "https://www.brethrendesignco.com/"
+ },
+ {
+  "slug": "brew",
+  "url": "https://www.navbar.gallery/navbar/brew",
+  "name": "Brew",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Brew",
+  "site_url": "https://brew.new/"
+ },
+ {
+  "slug": "browserbase",
+  "url": "https://www.navbar.gallery/navbar/browserbase",
+  "name": "Browserbase",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Browserbase",
+  "site_url": "https://www.browserbase.com/"
+ },
+ {
+  "slug": "bud",
+  "url": "https://www.navbar.gallery/navbar/bud",
+  "name": "Bud",
+  "type": "Side Bar",
+  "style": "AI",
+  "designed_by": "anthony lio",
+  "site_url": "https://bud.app/"
+ },
+ {
+  "slug": "burner",
+  "url": "https://www.navbar.gallery/navbar/burner",
+  "name": "Burner",
+  "type": "Static",
+  "style": "Crypto",
+  "designed_by": "Arx",
+  "site_url": "https://burner.pro/"
+ },
+ {
+  "slug": "buttery",
+  "url": "https://www.navbar.gallery/navbar/buttery",
+  "name": "Buttery",
+  "type": "Side Bar",
+  "style": "Design",
+  "designed_by": "Rachel How",
+  "site_url": "https://www.buttery.so/icons"
+ },
+ {
+  "slug": "cake-equity",
+  "url": "https://www.navbar.gallery/navbar/cake-equity",
+  "name": "Cake Equity",
+  "type": "Mega Menu",
+  "style": "Startup",
+  "designed_by": "Cake Equity",
+  "site_url": "https://www.cakeequity.com/"
+ },
+ {
+  "slug": "cal-com",
+  "url": "https://www.navbar.gallery/navbar/cal-com",
+  "name": "Cal.com",
+  "type": "Progress Bar",
+  "style": "SaaS",
+  "designed_by": "Cal.com Team",
+  "site_url": "https://cal.com/"
+ },
+ {
+  "slug": "cal-com-2025",
+  "url": "https://www.navbar.gallery/navbar/cal-com-2025",
+  "name": "Cal.com",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Cal.com",
+  "site_url": "https://cal.com/"
+ },
+ {
+  "slug": "callsine",
+  "url": "https://www.navbar.gallery/navbar/callsine",
+  "name": "CallSine",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "CallSine",
+  "site_url": "https://callsine.com/"
+ },
+ {
+  "slug": "campfire",
+  "url": "https://www.navbar.gallery/navbar/campfire",
+  "name": "Campfire",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Reform Collective",
+  "site_url": "https://meetcampfire.com/"
+ },
+ {
+  "slug": "canopy",
+  "url": "https://www.navbar.gallery/navbar/canopy",
+  "name": "Canopy",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Canopy",
+  "site_url": "https://www.canopyservicing.com/"
+ },
+ {
+  "slug": "capital",
+  "url": "https://www.navbar.gallery/navbar/capital",
+  "name": "Capital",
+  "type": "Static",
+  "style": "Finance",
+  "designed_by": "Capital",
+  "site_url": "https://capital.xyz/"
+ },
+ {
+  "slug": "capsules",
+  "url": "https://www.navbar.gallery/navbar/capsules",
+  "name": "Capsules",
+  "type": "Full Screen",
+  "style": "Travel",
+  "designed_by": "Moyra",
+  "site_url": "https://capsules.moyra.co/"
+ },
+ {
+  "slug": "cartage",
+  "url": "https://www.navbar.gallery/navbar/cartage",
+  "name": "Cartage",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Cartage",
+  "site_url": "https://www.cartage.ai/"
+ },
+ {
+  "slug": "cash-app",
+  "url": "https://www.navbar.gallery/navbar/cash-app",
+  "name": "Cash App",
+  "type": "Full Screen",
+  "style": "Finance",
+  "designed_by": "Cash App",
+  "site_url": "https://cash.app/"
+ },
+ {
+  "slug": "cedro",
+  "url": "https://www.navbar.gallery/navbar/cedro",
+  "name": "Cedro",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "https://cedro-new-3.webflow.io/",
+  "site_url": "https://cedro-new-3.webflow.io/"
+ },
+ {
+  "slug": "chesapeake-plywood",
+  "url": "https://www.navbar.gallery/navbar/chesapeake-plywood",
+  "name": "Chesapeake Plywood",
+  "type": "Mega Menu",
+  "style": "Construction",
+  "designed_by": "Percept Brand Design",
+  "site_url": "https://chesapeakeplywood.com/"
+ },
+ {
+  "slug": "circle",
+  "url": "https://www.navbar.gallery/navbar/circle",
+  "name": "Circle",
+  "type": "Progress Bar",
+  "style": null,
+  "designed_by": "Circle Team",
+  "site_url": "https://circle.so/"
+ },
+ {
+  "slug": "circle-so",
+  "url": "https://www.navbar.gallery/navbar/circle-so",
+  "name": "Circle",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Circle",
+  "site_url": "https://circle.so/"
+ },
+ {
+  "slug": "clay",
+  "url": "https://www.navbar.gallery/navbar/clay",
+  "name": "Clay",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Clay",
+  "site_url": "https://www.clay.com/"
+ },
+ {
+  "slug": "cleanforms",
+  "url": "https://www.navbar.gallery/navbar/cleanforms",
+  "name": "Cleanforms",
+  "type": "Dropdown",
+  "style": "eCommerce",
+  "designed_by": "Dropdown",
+  "site_url": "https://cleanforms.co/"
+ },
+ {
+  "slug": "cleanspace",
+  "url": "https://www.navbar.gallery/navbar/cleanspace",
+  "name": "CleanSpace",
+  "type": "Dropdown",
+  "style": "Architecture",
+  "designed_by": "CleanSpace",
+  "site_url": "https://www.cleanspaceus.com/"
+ },
+ {
+  "slug": "clerk",
+  "url": "https://www.navbar.gallery/navbar/clerk",
+  "name": "Clerk",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "James",
+  "site_url": "https://clerk.com/"
+ },
+ {
+  "slug": "clerk-dashboard",
+  "url": "https://www.navbar.gallery/navbar/clerk-dashboard",
+  "name": "Clerk",
+  "type": "Breadcrumbs",
+  "style": "SaaS",
+  "designed_by": "Clerk",
+  "site_url": "https://dashboard.clerk.com"
+ },
+ {
+  "slug": "clonix",
+  "url": "https://www.navbar.gallery/navbar/clonix",
+  "name": "Clonix",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Muhammad Talha",
+  "site_url": "https://clonix.framer.website/"
+ },
+ {
+  "slug": "cloudflare",
+  "url": "https://www.navbar.gallery/navbar/cloudflare",
+  "name": "Cloudflare",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Cloudflare",
+  "site_url": "https://www.cloudflare.com/"
+ },
+ {
+  "slug": "cob",
+  "url": "https://www.navbar.gallery/navbar/cob",
+  "name": "COB",
+  "type": "Full Screen",
+  "style": "Food &amp; Drink",
+  "designed_by": "MILL3",
+  "site_url": "https://cobfoods.com/"
+ },
+ {
+  "slug": "coda",
+  "url": "https://www.navbar.gallery/navbar/coda",
+  "name": "Coda",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Coda",
+  "site_url": "https://www.coda.co/"
+ },
+ {
+  "slug": "codot",
+  "url": "https://www.navbar.gallery/navbar/codot",
+  "name": "Codot",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Erfan",
+  "site_url": "https://codot.framer.website/"
+ },
+ {
+  "slug": "colabs",
+  "url": "https://www.navbar.gallery/navbar/colabs",
+  "name": "Colabs",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Colabs",
+  "site_url": "https://colabs.com.au/"
+ },
+ {
+  "slug": "column",
+  "url": "https://www.navbar.gallery/navbar/column",
+  "name": "Column",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Column",
+  "site_url": "https://column.com"
+ },
+ {
+  "slug": "commure",
+  "url": "https://www.navbar.gallery/navbar/commure",
+  "name": "Commure",
+  "type": "Dropdown",
+  "style": "Health",
+  "designed_by": "Abi Rana",
+  "site_url": "https://www.commure.com/"
+ },
+ {
+  "slug": "compound-planning",
+  "url": "https://www.navbar.gallery/navbar/compound-planning",
+  "name": "Compound Planning",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Compound Planning",
+  "site_url": "https://compoundplanning.com"
+ },
+ {
+  "slug": "consensys",
+  "url": "https://www.navbar.gallery/navbar/consensys",
+  "name": "Consensys",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "Consensys",
+  "site_url": "https://consensys.io/"
+ },
+ {
+  "slug": "contra",
+  "url": "https://www.navbar.gallery/navbar/contra",
+  "name": "Contra",
+  "type": "Mega Menu",
+  "style": "Startup",
+  "designed_by": "Contra",
+  "site_url": "https://contra.com/home"
+ },
+ {
+  "slug": "cosmos",
+  "url": "https://www.navbar.gallery/navbar/cosmos",
+  "name": "Cosmos",
+  "type": "Search Bar",
+  "style": "Design",
+  "designed_by": "Cosmos",
+  "site_url": "https://www.cosmos.so/home"
+ },
+ {
+  "slug": "coterie",
+  "url": "https://www.navbar.gallery/navbar/coterie",
+  "name": "Coterie",
+  "type": "Side Bar",
+  "style": "eCommerce",
+  "designed_by": "Coterie",
+  "site_url": "https://www.coterie.com/"
+ },
+ {
+  "slug": "courseos",
+  "url": "https://www.navbar.gallery/navbar/courseos",
+  "name": "CourseOS",
+  "type": "Side Bar",
+  "style": "Development",
+  "designed_by": "Cédric Moore",
+  "site_url": "https://www.framer.com/templates/courseos/"
+ },
+ {
+  "slug": "cphfw-25",
+  "url": "https://www.navbar.gallery/navbar/cphfw-25",
+  "name": "CPHFW '25",
+  "type": "Dropdown",
+  "style": "Art",
+  "designed_by": "Aino Agency",
+  "site_url": "https://cphfw25.samsoe.com/"
+ },
+ {
+  "slug": "craft",
+  "url": "https://www.navbar.gallery/navbar/craft",
+  "name": "Craft",
+  "type": "Dropdown",
+  "style": "Productivity",
+  "designed_by": "Craft",
+  "site_url": "https://www.craft.do/"
+ },
+ {
+  "slug": "craftwork",
+  "url": "https://www.navbar.gallery/navbar/craftwork",
+  "name": "Craftwork",
+  "type": "Mega Menu",
+  "style": "Design",
+  "designed_by": "Craftwork",
+  "site_url": "https://craftwork.design/"
+ },
+ {
+  "slug": "crescent",
+  "url": "https://www.navbar.gallery/navbar/crescent",
+  "name": "Crescent",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "Fourth Floor",
+  "site_url": "https://www.getcrescent.com/"
+ },
+ {
+  "slug": "current",
+  "url": "https://www.navbar.gallery/navbar/current",
+  "name": "Current",
+  "type": "Static",
+  "style": "Finance",
+  "designed_by": "Current",
+  "site_url": "https://current.com/"
+ },
+ {
+  "slug": "customer-io",
+  "url": "https://www.navbar.gallery/navbar/customer-io",
+  "name": "Customer.io",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Customer.io",
+  "site_url": "https://customer.io/"
+ },
+ {
+  "slug": "cyd-stumpel",
+  "url": "https://www.navbar.gallery/navbar/cyd-stumpel",
+  "name": "Cyd Stumpel",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Cyd Stumpel",
+  "site_url": "https://cydstumpel.nl/"
+ },
+ {
+  "slug": "dacoit-design",
+  "url": "https://www.navbar.gallery/navbar/dacoit-design",
+  "name": "Dacoit Design",
+  "type": "Full Screen",
+  "style": "Design",
+  "designed_by": "Rahul Bhadoriya",
+  "site_url": "https://www.dacoit.design/"
+ },
+ {
+  "slug": "dancerobot",
+  "url": "https://www.navbar.gallery/navbar/dancerobot",
+  "name": "dancerobot",
+  "type": "Static",
+  "style": "Food &amp; Drink",
+  "designed_by": "dancerobot",
+  "site_url": "https://dancerobotphl.com/"
+ },
+ {
+  "slug": "daniel-petho",
+  "url": "https://www.navbar.gallery/navbar/daniel-petho",
+  "name": "Daniel Petho",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Daniel Petho",
+  "site_url": "https://www.danielpetho.com/"
+ },
+ {
+  "slug": "daylight",
+  "url": "https://www.navbar.gallery/navbar/daylight",
+  "name": "Daylight",
+  "type": "Side Bar",
+  "style": "SaaS",
+  "designed_by": "basement.studio",
+  "site_url": "https://daylightcomputer.com/"
+ },
+ {
+  "slug": "daylit",
+  "url": "https://www.navbar.gallery/navbar/daylit",
+  "name": "Daylit",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Mega Menu",
+  "site_url": "https://www.daylit.com/"
+ },
+ {
+  "slug": "daytona",
+  "url": "https://www.navbar.gallery/navbar/daytona",
+  "name": "Daytona",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Daytona",
+  "site_url": "https://www.daytona.io/"
+ },
+ {
+  "slug": "def",
+  "url": "https://www.navbar.gallery/navbar/def",
+  "name": "DEF",
+  "type": "Full Screen",
+  "style": "Architecture",
+  "designed_by": "JARCOS",
+  "site_url": "https://www.defprojetos.com/"
+ },
+ {
+  "slug": "default",
+  "url": "https://www.navbar.gallery/navbar/default",
+  "name": "Default",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Default",
+  "site_url": "https://www.default.com/"
+ },
+ {
+  "slug": "descript",
+  "url": "https://www.navbar.gallery/navbar/descript",
+  "name": "Descript",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Ramotion",
+  "site_url": "https://www.descript.com/"
+ },
+ {
+  "slug": "detail",
+  "url": "https://www.navbar.gallery/navbar/detail",
+  "name": "Detail",
+  "type": "Static",
+  "style": "Development",
+  "designed_by": "Detail",
+  "site_url": "https://detail.dev/"
+ },
+ {
+  "slug": "distributional",
+  "url": "https://www.navbar.gallery/navbar/distributional",
+  "name": "Distributional",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Distributional",
+  "site_url": "https://www.distributional.com/"
+ },
+ {
+  "slug": "ditto-words",
+  "url": "https://www.navbar.gallery/navbar/ditto-words",
+  "name": "Ditto Words",
+  "type": "Dropdown",
+  "style": "Writing",
+  "designed_by": "Ditto Words",
+  "site_url": "https://www.dittowords.com/"
+ },
+ {
+  "slug": "divyansh-agarwal",
+  "url": "https://www.navbar.gallery/navbar/divyansh-agarwal",
+  "name": "Divyansh Agarwal",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "Divyansh Agarwal",
+  "site_url": "https://divyanshagarwal.com/"
+ },
+ {
+  "slug": "dorst-lesser",
+  "url": "https://www.navbar.gallery/navbar/dorst-lesser",
+  "name": "Dorst & Lesser",
+  "type": "Static",
+  "style": "Social Media",
+  "designed_by": "Dorst &amp; Lesser",
+  "site_url": "https://dorstenlesser.com/"
+ },
+ {
+  "slug": "doss",
+  "url": "https://www.navbar.gallery/navbar/doss",
+  "name": "Doss",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Doss",
+  "site_url": "https://www.doss.com/"
+ },
+ {
+  "slug": "dovetail",
+  "url": "https://www.navbar.gallery/navbar/dovetail",
+  "name": "Dovetail",
+  "type": "Mega Menu",
+  "style": "Productivity",
+  "designed_by": "Dovetail",
+  "site_url": "https://dovetail.com/"
+ },
+ {
+  "slug": "dovetail-help-center",
+  "url": "https://www.navbar.gallery/navbar/dovetail-help-center",
+  "name": "Dovetail",
+  "type": "Breadcrumbs",
+  "style": null,
+  "designed_by": "Dovetail",
+  "site_url": "https://dovetail.com/help/welcome-to-dovetail/"
+ },
+ {
+  "slug": "droid",
+  "url": "https://www.navbar.gallery/navbar/droid",
+  "name": "Droid",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Droid",
+  "site_url": "https://droip.com/"
+ },
+ {
+  "slug": "droppable",
+  "url": "https://www.navbar.gallery/navbar/droppable",
+  "name": "Droppable",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Roman Tesliuk",
+  "site_url": "https://www.pixelwrld.co/droppable"
+ },
+ {
+  "slug": "dub",
+  "url": "https://www.navbar.gallery/navbar/dub",
+  "name": "Dub",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Dub",
+  "site_url": "https://dub.co/"
+ },
+ {
+  "slug": "duna",
+  "url": "https://www.navbar.gallery/navbar/duna",
+  "name": "Duna",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Framer Studio",
+  "site_url": "https://duna.com/"
+ },
+ {
+  "slug": "e-dey-happen",
+  "url": "https://www.navbar.gallery/navbar/e-dey-happen",
+  "name": "E Dey Happen",
+  "type": "Side Bar",
+  "style": "Film",
+  "designed_by": "@ayotomcs",
+  "site_url": "https://www.edhseries.com/"
+ },
+ {
+  "slug": "early-majority",
+  "url": "https://www.navbar.gallery/navbar/early-majority",
+  "name": "Early Majority",
+  "type": "Static",
+  "style": "Retail",
+  "designed_by": "Early Majority",
+  "site_url": "https://www.earlymajority.com/"
+ },
+ {
+  "slug": "ease-health",
+  "url": "https://www.navbar.gallery/navbar/ease-health",
+  "name": "Ease Health",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Little Plains",
+  "site_url": "https://easehealth.com/"
+ },
+ {
+  "slug": "eco",
+  "url": "https://www.navbar.gallery/navbar/eco",
+  "name": "Eco",
+  "type": "Static",
+  "style": "Crypto",
+  "designed_by": "Christopher Bolliger",
+  "site_url": "https://eco.com/"
+ },
+ {
+  "slug": "effortel",
+  "url": "https://www.navbar.gallery/navbar/effortel",
+  "name": "Effortel",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Onion Creative",
+  "site_url": "https://www.effortel.com/"
+ },
+ {
+  "slug": "eislab",
+  "url": "https://www.navbar.gallery/navbar/eislab",
+  "name": "Eislab",
+  "type": "Full Screen",
+  "style": "Food &amp; Drink",
+  "designed_by": "Dinh Quang",
+  "site_url": "https://eis-lab.de/en-us"
+ },
+ {
+  "slug": "eisner-co",
+  "url": "https://www.navbar.gallery/navbar/eisner-co",
+  "name": "Eisner & Co.",
+  "type": "Static",
+  "style": "Finance",
+  "designed_by": "Raphael Ayo",
+  "site_url": "https://eandco.framer.website/"
+ },
+ {
+  "slug": "elian-kent",
+  "url": "https://www.navbar.gallery/navbar/elian-kent",
+  "name": "Elian Kent",
+  "type": "Static",
+  "style": "Framer Template",
+  "designed_by": "Zaid Khan",
+  "site_url": "https://eliankent.framer.website/"
+ },
+ {
+  "slug": "employment-hero",
+  "url": "https://www.navbar.gallery/navbar/employment-hero",
+  "name": "Employment Hero",
+  "type": "Tabs",
+  "style": null,
+  "designed_by": "Wonderful Digital",
+  "site_url": "https://employmenthero.com/pricing/?pricing-tab=hr"
+ },
+ {
+  "slug": "empower-trading",
+  "url": "https://www.navbar.gallery/navbar/empower-trading",
+  "name": "Enpower Trading",
+  "type": "Dropdown",
+  "style": "Investment",
+  "designed_by": "Dash Digital Studio",
+  "site_url": "https://enpowertrading.co.za/"
+ },
+ {
+  "slug": "energy-park",
+  "url": "https://www.navbar.gallery/navbar/energy-park",
+  "name": "Energy Park",
+  "type": "Dropdown",
+  "style": "Automotive",
+  "designed_by": "Outpost Design",
+  "site_url": "https://energy-park.co.uk/"
+ },
+ {
+  "slug": "engine",
+  "url": "https://www.navbar.gallery/navbar/engine",
+  "name": "Engine",
+  "type": "Mega Menu",
+  "style": "Travel",
+  "designed_by": "Engine",
+  "site_url": "https://engine.com/"
+ },
+ {
+  "slug": "equals",
+  "url": "https://www.navbar.gallery/navbar/equals",
+  "name": "Equals",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Superkeen Studio",
+  "site_url": "https://equals.com/"
+ },
+ {
+  "slug": "equals-2025",
+  "url": "https://www.navbar.gallery/navbar/equals-2025",
+  "name": "Equals",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Equals",
+  "site_url": "https://equals.com/"
+ },
+ {
+  "slug": "escape-cafe",
+  "url": "https://www.navbar.gallery/navbar/escape-cafe",
+  "name": "Escape Cafe",
+  "type": "Side Bar",
+  "style": "Food &amp; Drink",
+  "designed_by": "Escape Cafe",
+  "site_url": "https://escape.cafe/"
+ },
+ {
+  "slug": "espresso-system",
+  "url": "https://www.navbar.gallery/navbar/espresso-system",
+  "name": "Espresso System",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Jan",
+  "site_url": "https://www.espressosys.com/"
+ },
+ {
+  "slug": "eventbeds",
+  "url": "https://www.navbar.gallery/navbar/eventbeds",
+  "name": "EventBeds",
+  "type": "Static",
+  "style": "Event",
+  "designed_by": "Outcrowd",
+  "site_url": "https://www.eventbeds.com/"
+ },
+ {
+  "slug": "evervault",
+  "url": "https://www.navbar.gallery/navbar/evervault",
+  "name": "Evervault",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "Nev Flynn",
+  "site_url": "https://evervault.com/"
+ },
+ {
+  "slug": "expensify",
+  "url": "https://www.navbar.gallery/navbar/expensify",
+  "name": "Expensify",
+  "type": "Side Bar",
+  "style": "Finance",
+  "designed_by": "Expensify",
+  "site_url": "https://use.expensify.com/"
+ },
+ {
+  "slug": "fable",
+  "url": "https://www.navbar.gallery/navbar/fable",
+  "name": "Fable",
+  "type": "Dropdown",
+  "style": "Studio",
+  "designed_by": "Fable",
+  "site_url": "https://www.fable.app/"
+ },
+ {
+  "slug": "factory",
+  "url": "https://www.navbar.gallery/navbar/factory",
+  "name": "Factory",
+  "type": "Static",
+  "style": "AI",
+  "designed_by": "Factory.ai",
+  "site_url": "https://www.factory.ai/"
+ },
+ {
+  "slug": "factory-2",
+  "url": "https://www.navbar.gallery/navbar/factory-2",
+  "name": "Factory",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Factory",
+  "site_url": "https://factory.ai/"
+ },
+ {
+  "slug": "fantasy",
+  "url": "https://www.navbar.gallery/navbar/fantasy",
+  "name": "Fantasy",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Fantasy",
+  "site_url": "https://fantasy.co/"
+ },
+ {
+  "slug": "fatfish",
+  "url": "https://www.navbar.gallery/navbar/fatfish",
+  "name": "fatfish",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "fatfish",
+  "site_url": "https://fatfish.ca/en/"
+ },
+ {
+  "slug": "featurebase",
+  "url": "https://www.navbar.gallery/navbar/featurebase",
+  "name": "Featurebase",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Featurebase",
+  "site_url": "https://www.featurebase.app/"
+ },
+ {
+  "slug": "felix-peault",
+  "url": "https://www.navbar.gallery/navbar/felix-peault",
+  "name": "Félix Péault",
+  "type": "Dropdown",
+  "style": "Architecture",
+  "designed_by": "Félix Péault",
+  "site_url": "https://housesof.world/"
+ },
+ {
+  "slug": "fey",
+  "url": "https://www.navbar.gallery/navbar/fey",
+  "name": "Fey",
+  "type": "Dropdown",
+  "style": "Investment",
+  "designed_by": "T. Costa",
+  "site_url": "https://www.fey.com/"
+ },
+ {
+  "slug": "figma-community",
+  "url": "https://www.navbar.gallery/navbar/figma-community",
+  "name": "Figma Community",
+  "type": "Mega Menu",
+  "style": "Design",
+  "designed_by": "Figma",
+  "site_url": "https://www.figma.com/community"
+ },
+ {
+  "slug": "figr",
+  "url": "https://www.navbar.gallery/navbar/figr",
+  "name": "Figr",
+  "type": "Static",
+  "style": "AI",
+  "designed_by": "Figr",
+  "site_url": "https://figr.design/"
+ },
+ {
+  "slug": "finch",
+  "url": "https://www.navbar.gallery/navbar/finch",
+  "name": "Finch",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Finch",
+  "site_url": "https://www.tryfinch.com/"
+ },
+ {
+  "slug": "firecrawl",
+  "url": "https://www.navbar.gallery/navbar/firecrawl",
+  "name": "Firecrawl",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Firecrawl",
+  "site_url": "https://www.firecrawl.dev/"
+ },
+ {
+  "slug": "five-pathways-financial",
+  "url": "https://www.navbar.gallery/navbar/five-pathways-financial",
+  "name": "Five Pathways Financial",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Griflan Design",
+  "site_url": "https://fivepathways.com/"
+ },
+ {
+  "slug": "flexis",
+  "url": "https://www.navbar.gallery/navbar/flexis",
+  "name": "Flexis",
+  "type": "Full Screen",
+  "style": "Automotive",
+  "designed_by": "Flexis",
+  "site_url": "https://flexis-mobility.com/"
+ },
+ {
+  "slug": "flowbase",
+  "url": "https://www.navbar.gallery/navbar/flowbase",
+  "name": "Flowbase",
+  "type": "Mega Menu",
+  "style": "Design",
+  "designed_by": "Flowbase",
+  "site_url": "https://www.flowbase.co/"
+ },
+ {
+  "slug": "fly-io",
+  "url": "https://www.navbar.gallery/navbar/fly-io",
+  "name": "Fly.io",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Kyle Dickey",
+  "site_url": "https://fly.io/"
+ },
+ {
+  "slug": "flying-papers",
+  "url": "https://www.navbar.gallery/navbar/flying-papers",
+  "name": "Flying Papers",
+  "type": "Full Screen",
+  "style": "eCommerce",
+  "designed_by": "Flying Papers",
+  "site_url": "https://www.flyingpapers.com/"
+ },
+ {
+  "slug": "fooror",
+  "url": "https://www.navbar.gallery/navbar/fooror",
+  "name": "Fooror",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Fooror",
+  "site_url": "https://www.fooror.com/"
+ },
+ {
+  "slug": "fourmula",
+  "url": "https://www.navbar.gallery/navbar/fourmula",
+  "name": "Fourmula",
+  "type": "Full Screen",
+  "style": "AI",
+  "designed_by": "Fourmula",
+  "site_url": "https://fourmula.ai/"
+ },
+ {
+  "slug": "frame-io",
+  "url": "https://www.navbar.gallery/navbar/frame-io",
+  "name": "Frame.io",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Frame.io",
+  "site_url": "https://frame.io/"
+ },
+ {
+  "slug": "framer",
+  "url": "https://www.navbar.gallery/navbar/framer",
+  "name": "Framer",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Framer",
+  "site_url": "https://www.framer.com/"
+ },
+ {
+  "slug": "frank-gehry",
+  "url": "https://www.navbar.gallery/navbar/frank-gehry",
+  "name": "Frank Gehry",
+  "type": "Full Screen",
+  "style": "Museum",
+  "designed_by": "Resn",
+  "site_url": "https://gehry.getty.edu/"
+ },
+ {
+  "slug": "free-faces",
+  "url": "https://www.navbar.gallery/navbar/free-faces",
+  "name": "Free Faces",
+  "type": "Static",
+  "style": "Typography",
+  "designed_by": "Simon Foster",
+  "site_url": "https://www.freefaces.gallery/"
+ },
+ {
+  "slug": "fresha",
+  "url": "https://www.navbar.gallery/navbar/fresha",
+  "name": "Fresha",
+  "type": "Search Bar",
+  "style": "Beauty",
+  "designed_by": "Fresha",
+  "site_url": "https://www.fresha.com/"
+ },
+ {
+  "slug": "freshman",
+  "url": "https://www.navbar.gallery/navbar/freshman",
+  "name": "Freshman",
+  "type": "Full Screen",
+  "style": "Motion",
+  "designed_by": "Freshman",
+  "site_url": "https://freshman.tv/"
+ },
+ {
+  "slug": "frontify",
+  "url": "https://www.navbar.gallery/navbar/frontify",
+  "name": "Frontify",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Frontify",
+  "site_url": "https://www.frontify.com/en"
+ },
+ {
+  "slug": "fruitful",
+  "url": "https://www.navbar.gallery/navbar/fruitful",
+  "name": "Fruitful",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "David Kirschberg",
+  "site_url": "https://www.fruitful.com/"
+ },
+ {
+  "slug": "function",
+  "url": "https://www.navbar.gallery/navbar/function",
+  "name": "Function",
+  "type": "Mega Menu",
+  "style": "Health",
+  "designed_by": "Function Health",
+  "site_url": "https://www.functionhealth.com/"
+ },
+ {
+  "slug": "general-purpose",
+  "url": "https://www.navbar.gallery/navbar/general-purpose",
+  "name": "General Purpose",
+  "type": "Static",
+  "style": "Digital Gallery",
+  "designed_by": "General Purpose",
+  "site_url": "https://www.generalpurpose.directory/"
+ },
+ {
+  "slug": "genius-by-diagram",
+  "url": "https://www.navbar.gallery/navbar/genius-by-diagram",
+  "name": "Genius by Diagram",
+  "type": "Static",
+  "style": "AI",
+  "designed_by": "Diagram",
+  "site_url": "https://genius-design.webflow.io/"
+ },
+ {
+  "slug": "giga-ai",
+  "url": "https://www.navbar.gallery/navbar/giga-ai",
+  "name": "Giga AI",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Giga AI",
+  "site_url": "https://giga.ai/"
+ },
+ {
+  "slug": "giga-energy",
+  "url": "https://www.navbar.gallery/navbar/giga-energy",
+  "name": "Giga Energy",
+  "type": "Mega Menu",
+  "style": "Technology",
+  "designed_by": "NOON Studio",
+  "site_url": "https://www.gigaenergy.com/"
+ },
+ {
+  "slug": "gitbutler",
+  "url": "https://www.navbar.gallery/navbar/gitbutler",
+  "name": "GitButler",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "GitButler",
+  "site_url": "https://gitbutler.com/"
+ },
+ {
+  "slug": "gladia",
+  "url": "https://www.navbar.gallery/navbar/gladia",
+  "name": "Gladia",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Gladia",
+  "site_url": "https://gladia.io/"
+ },
+ {
+  "slug": "glide",
+  "url": "https://www.navbar.gallery/navbar/glide",
+  "name": "Glide",
+  "type": "Progress Bar",
+  "style": "SaaS",
+  "designed_by": "Glide Team",
+  "site_url": "https://www.glideapps.com/"
+ },
+ {
+  "slug": "globalization-partners",
+  "url": "https://www.navbar.gallery/navbar/globalization-partners",
+  "name": "Globalization Partners",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Moving Brands",
+  "site_url": "https://www.globalization-partners.com"
+ },
+ {
+  "slug": "gocardless",
+  "url": "https://www.navbar.gallery/navbar/gocardless",
+  "name": "GoCardless",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "GoCardless",
+  "site_url": "https://gocardless.com/"
+ },
+ {
+  "slug": "good-fella",
+  "url": "https://www.navbar.gallery/navbar/good-fella",
+  "name": "Good Fella",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Good Fella",
+  "site_url": "https://good-fella.com/"
+ },
+ {
+  "slug": "graza",
+  "url": "https://www.navbar.gallery/navbar/graza",
+  "name": "GRAZA",
+  "type": "Mega Menu",
+  "style": "Food &amp; Drink",
+  "designed_by": "Graza",
+  "site_url": "https://www.graza.co/"
+ },
+ {
+  "slug": "grega-cuderman",
+  "url": "https://www.navbar.gallery/navbar/grega-cuderman",
+  "name": "Grega Cuderman",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "Grega Cuderman",
+  "site_url": "https://www.gregacuderman.com/"
+ },
+ {
+  "slug": "greptile",
+  "url": "https://www.navbar.gallery/navbar/greptile",
+  "name": "Greptile",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Greptile",
+  "site_url": "https://www.greptile.com/"
+ },
+ {
+  "slug": "haley-park",
+  "url": "https://www.navbar.gallery/navbar/haley-park",
+  "name": "Haley Park",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Haley Park",
+  "site_url": "https://www.haleypark.design/"
+ },
+ {
+  "slug": "half-past-nine",
+  "url": "https://www.navbar.gallery/navbar/half-past-nine",
+  "name": "Half Past Nine",
+  "type": "Dropdown",
+  "style": "Marketing",
+  "designed_by": "Lazarev",
+  "site_url": "https://www.halfpastnine.io/"
+ },
+ {
+  "slug": "hashnode",
+  "url": "https://www.navbar.gallery/navbar/hashnode",
+  "name": "Hashnode",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Hashnode",
+  "site_url": "https://hashnode.com/"
+ },
+ {
+  "slug": "heid",
+  "url": "https://www.navbar.gallery/navbar/heid",
+  "name": "Heid",
+  "type": "Full Screen",
+  "style": "Architecture",
+  "designed_by": "studio22",
+  "site_url": "https://heid.webflow.io/"
+ },
+ {
+  "slug": "heidelberg-materials",
+  "url": "https://www.navbar.gallery/navbar/heidelberg-materials",
+  "name": "Heidelberg Materials",
+  "type": "Full Screen",
+  "style": null,
+  "designed_by": "Full Screen",
+  "site_url": "https://ccus.heidelbergmaterials.com/en/"
+ },
+ {
+  "slug": "help-scout",
+  "url": "https://www.navbar.gallery/navbar/help-scout",
+  "name": "Help Scout",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Help Scout Team",
+  "site_url": "https://www.helpscout.com/"
+ },
+ {
+  "slug": "heva-health",
+  "url": "https://www.navbar.gallery/navbar/heva-health",
+  "name": "Heva Health",
+  "type": "Static",
+  "style": "Health",
+  "designed_by": "Carter Ogunsola",
+  "site_url": "https://www.hevahealth.com/"
+ },
+ {
+  "slug": "hex-2026",
+  "url": "https://www.navbar.gallery/navbar/hex-2026",
+  "name": "Hex Technologies",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Hex",
+  "site_url": "https://hex.tech/"
+ },
+ {
+  "slug": "hex-tech",
+  "url": "https://www.navbar.gallery/navbar/hex-tech",
+  "name": "Hex.tech",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Hex.tech",
+  "site_url": "https://hex.tech/"
+ },
+ {
+  "slug": "hifi",
+  "url": "https://www.navbar.gallery/navbar/hifi",
+  "name": "HIFI",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Hifi",
+  "site_url": "https://www.hifibridge.com/"
+ },
+ {
+  "slug": "hiking-patrol",
+  "url": "https://www.navbar.gallery/navbar/hiking-patrol",
+  "name": "Hiking Patrol",
+  "type": "Dropdown",
+  "style": "Retail",
+  "designed_by": "Hiking Patrol",
+  "site_url": "https://hikingpatrol.com/"
+ },
+ {
+  "slug": "hillenbrand",
+  "url": "https://www.navbar.gallery/navbar/hillenbrand",
+  "name": "Hillenbrand",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Joseph Hillenbrand",
+  "site_url": "https://www.hillenbrand.xyz"
+ },
+ {
+  "slug": "hims",
+  "url": "https://www.navbar.gallery/navbar/hims",
+  "name": "hims",
+  "type": "Mega Menu",
+  "style": "Health",
+  "designed_by": "hims",
+  "site_url": "https://www.hims.com/about"
+ },
+ {
+  "slug": "hims-2026",
+  "url": "https://www.navbar.gallery/navbar/hims-2026",
+  "name": "Hims",
+  "type": "Side Bar",
+  "style": "Health",
+  "designed_by": "Hims",
+  "site_url": "https://www.hims.com/"
+ },
+ {
+  "slug": "hosier-brown",
+  "url": "https://www.navbar.gallery/navbar/hosier-brown",
+  "name": "Hosier Brown",
+  "type": "Dropdown",
+  "style": "Portfolio",
+  "designed_by": "Syed Tahoor Ali",
+  "site_url": "https://hosierbrown.framer.website/"
+ },
+ {
+  "slug": "how-studio",
+  "url": "https://www.navbar.gallery/navbar/how-studio",
+  "name": "How Studio",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "How Studio",
+  "site_url": "https://how.studio/"
+ },
+ {
+  "slug": "huly",
+  "url": "https://www.navbar.gallery/navbar/huly",
+  "name": "huly",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Pixel Point",
+  "site_url": "https://huly.io/"
+ },
+ {
+  "slug": "humana-studio",
+  "url": "https://www.navbar.gallery/navbar/humana-studio",
+  "name": "humana studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "( humana ) studio",
+  "site_url": "https://www.humanastudio.com/"
+ },
+ {
+  "slug": "hume",
+  "url": "https://www.navbar.gallery/navbar/hume",
+  "name": "Hume",
+  "type": "Mega Menu",
+  "style": "Audio",
+  "designed_by": "Hume",
+  "site_url": "https://www.hume.ai/"
+ },
+ {
+  "slug": "hungry-tiger",
+  "url": "https://www.navbar.gallery/navbar/hungry-tiger",
+  "name": "Hungry Tiger",
+  "type": "Static",
+  "style": "Food &amp; Drink",
+  "designed_by": "Hungry Tiger",
+  "site_url": "https://www.eathungrytiger.com/"
+ },
+ {
+  "slug": "huts",
+  "url": "https://www.navbar.gallery/navbar/huts",
+  "name": "HUTS",
+  "type": "Mega Menu",
+  "style": "Real Estate",
+  "designed_by": "HUTS",
+  "site_url": "https://huts.com/"
+ },
+ {
+  "slug": "illo",
+  "url": "https://www.navbar.gallery/navbar/illo",
+  "name": "illo",
+  "type": "Dropdown",
+  "style": "Studio",
+  "designed_by": "Illo",
+  "site_url": "https://illo.tv/"
+ },
+ {
+  "slug": "incident",
+  "url": "https://www.navbar.gallery/navbar/incident",
+  "name": "Incident",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Aaron Moody",
+  "site_url": "https://incident.io/"
+ },
+ {
+  "slug": "instant",
+  "url": "https://www.navbar.gallery/navbar/instant",
+  "name": "Instant",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Instant Team",
+  "site_url": "https://instant.so/"
+ },
+ {
+  "slug": "integrated-biosciences",
+  "url": "https://www.navbar.gallery/navbar/integrated-biosciences",
+  "name": "Integrated Biosciences",
+  "type": "Static",
+  "style": "Medicine",
+  "designed_by": "Integrated Biosciences",
+  "site_url": "https://integratedbio.com/"
+ },
+ {
+  "slug": "intercom",
+  "url": "https://www.navbar.gallery/navbar/intercom",
+  "name": "Intercom",
+  "type": "Mega Menu",
+  "style": "Brutalist",
+  "designed_by": "Intercom",
+  "site_url": "https://www.intercom.com/"
+ },
+ {
+  "slug": "inversa",
+  "url": "https://www.navbar.gallery/navbar/inversa",
+  "name": "Inversa",
+  "type": "Full Screen",
+  "style": "Nature",
+  "designed_by": "Inversa",
+  "site_url": "https://inversa.com/"
+ },
+ {
+  "slug": "invertase",
+  "url": "https://www.navbar.gallery/navbar/invertase",
+  "name": "Invertase",
+  "type": "Dropdown",
+  "style": "Technology",
+  "designed_by": "Invertase",
+  "site_url": "https://invertase.io/"
+ },
+ {
+  "slug": "isa-de-burgh",
+  "url": "https://www.navbar.gallery/navbar/isa-de-burgh",
+  "name": "Isa de Burgh",
+  "type": "Dropdown",
+  "style": "Portfolio",
+  "designed_by": "Isa de Burgh",
+  "site_url": "https://isadeburgh.com/"
+ },
+ {
+  "slug": "isomorphic-labs",
+  "url": "https://www.navbar.gallery/navbar/isomorphic-labs",
+  "name": "Isomorphic Labs",
+  "type": "Static",
+  "style": "Medicine",
+  "designed_by": "Pentagram",
+  "site_url": "https://www.isomorphiclabs.com/"
+ },
+ {
+  "slug": "itscraft",
+  "url": "https://www.navbar.gallery/navbar/itscraft",
+  "name": "Craft",
+  "type": "Full Screen",
+  "style": "Consulting",
+  "designed_by": "Craft",
+  "site_url": "https://itscraft.com/"
+ },
+ {
+  "slug": "jailhouse-lawyers",
+  "url": "https://www.navbar.gallery/navbar/jailhouse-lawyers",
+  "name": "Jailhouse Lawyers",
+  "type": "Full Screen",
+  "style": "Legal",
+  "designed_by": "tubik",
+  "site_url": "https://history.jailhouselawyers.org/"
+ },
+ {
+  "slug": "jansenharris",
+  "url": "https://www.navbar.gallery/navbar/jansenharris",
+  "name": "JansenHarris",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "JansenHarris",
+  "site_url": "https://jansenharris.com/"
+ },
+ {
+  "slug": "jasper",
+  "url": "https://www.navbar.gallery/navbar/jasper",
+  "name": "Jasper",
+  "type": "Mega Menu",
+  "style": "Marketing",
+  "designed_by": "Thinking Box",
+  "site_url": "https://www.jasper.ai/"
+ },
+ {
+  "slug": "jasper-2025",
+  "url": "https://www.navbar.gallery/navbar/jasper-2025",
+  "name": "Jasper",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Jasper",
+  "site_url": "https://www.jasper.ai/"
+ },
+ {
+  "slug": "jay-vasani",
+  "url": "https://www.navbar.gallery/navbar/jay-vasani",
+  "name": "Jay Vasani",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Jay Vasani",
+  "site_url": "https://jayvasani.framer.website/"
+ },
+ {
+  "slug": "jellypepper",
+  "url": "https://www.navbar.gallery/navbar/jellypepper",
+  "name": "Jellypepper",
+  "type": "Dropdown",
+  "style": "Agency",
+  "designed_by": "Jellypepper",
+  "site_url": "https://jellypepper.com/"
+ },
+ {
+  "slug": "jitter",
+  "url": "https://www.navbar.gallery/navbar/jitter",
+  "name": "Jitter",
+  "type": "Mega Menu",
+  "style": "Animation",
+  "designed_by": "Jitter",
+  "site_url": "https://jitter.video/"
+ },
+ {
+  "slug": "joby-aviation",
+  "url": "https://www.navbar.gallery/navbar/joby-aviation",
+  "name": "Joby Aviation",
+  "type": "Full Screen",
+  "style": "Travel",
+  "designed_by": "Joby Aviation",
+  "site_url": "https://www.jobyaviation.com/"
+ },
+ {
+  "slug": "jordan-gilroy",
+  "url": "https://www.navbar.gallery/navbar/jordan-gilroy",
+  "name": "Jordan Gilroy",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Jordan Gilroy",
+  "site_url": "https://www.jordangilroy.com/"
+ },
+ {
+  "slug": "julian-fella",
+  "url": "https://www.navbar.gallery/navbar/julian-fella",
+  "name": "Julian Fella",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Julian Fella",
+  "site_url": "https://www.julianfella.de/"
+ },
+ {
+  "slug": "june",
+  "url": "https://www.navbar.gallery/navbar/june",
+  "name": "June",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "June",
+  "site_url": "https://www.june.so/"
+ },
+ {
+  "slug": "kaizen-labs",
+  "url": "https://www.navbar.gallery/navbar/kaizen-labs",
+  "name": "Kaizen Labs",
+  "type": "Dropdown",
+  "style": "Health",
+  "designed_by": "Kaizen Labs",
+  "site_url": "https://www.kaizenlabs.co/"
+ },
+ {
+  "slug": "kalstore",
+  "url": "https://www.navbar.gallery/navbar/kalstore",
+  "name": "Kalstore",
+  "type": "Mega Menu",
+  "style": "eCommerce",
+  "designed_by": "Kalstore",
+  "site_url": "https://kal-store.com/"
+ },
+ {
+  "slug": "karl-koch",
+  "url": "https://www.navbar.gallery/navbar/karl-koch",
+  "name": "Karl Koch",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Karl Koch",
+  "site_url": "https://kejk.tech/"
+ },
+ {
+  "slug": "katrine-pil",
+  "url": "https://www.navbar.gallery/navbar/katrine-pil",
+  "name": "Katrine Pil",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Katrine Pil",
+  "site_url": "https://katrinepil.com/"
+ },
+ {
+  "slug": "kleur-studio",
+  "url": "https://www.navbar.gallery/navbar/kleur-studio",
+  "name": "Kleur Studio",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Ruben",
+  "site_url": "https://www.kleur.studio/"
+ },
+ {
+  "slug": "kostin-design",
+  "url": "https://www.navbar.gallery/navbar/kostin-design",
+  "name": "Kostin Design",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Mike Kostin",
+  "site_url": "https://kostin.design/"
+ },
+ {
+  "slug": "kota",
+  "url": "https://www.navbar.gallery/navbar/kota",
+  "name": "Kota",
+  "type": "Dropdown",
+  "style": "eCommerce",
+  "designed_by": "Deepak Baliga",
+  "site_url": "https://www.kota.io/"
+ },
+ {
+  "slug": "koyeb",
+  "url": "https://www.navbar.gallery/navbar/koyeb",
+  "name": "Koyeb",
+  "type": "Static",
+  "style": "Development",
+  "designed_by": "Koyeb",
+  "site_url": "https://www.koyeb.com/"
+ },
+ {
+  "slug": "kt-applianc",
+  "url": "https://www.navbar.gallery/navbar/kt-applianc",
+  "name": "KT Appliance — Builders Division",
+  "type": "Full Screen",
+  "style": "Technology",
+  "designed_by": "LevikCo",
+  "site_url": "https://builder.ktappliance.com/"
+ },
+ {
+  "slug": "kyma",
+  "url": "https://www.navbar.gallery/navbar/kyma",
+  "name": "Kyma",
+  "type": "Full Screen",
+  "style": "AI",
+  "designed_by": "LuanchNow",
+  "site_url": "https://kyma.framer.ai/"
+ },
+ {
+  "slug": "l-etude",
+  "url": "https://www.navbar.gallery/navbar/l-etude",
+  "name": "L'Étude",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "L&#x27;Étude",
+  "site_url": "https://letude.group/"
+ },
+ {
+  "slug": "lando-norris",
+  "url": "https://www.navbar.gallery/navbar/lando-norris",
+  "name": "Lando Norris",
+  "type": "Full Screen",
+  "style": "Sports",
+  "designed_by": "OFF BRAND",
+  "site_url": "https://landonorris.com/"
+ },
+ {
+  "slug": "lantern",
+  "url": "https://www.navbar.gallery/navbar/lantern",
+  "name": "Lantern",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Hex",
+  "site_url": "https://www.withlantern.com/"
+ },
+ {
+  "slug": "lassco",
+  "url": "https://www.navbar.gallery/navbar/lassco",
+  "name": "Lassco",
+  "type": "Static",
+  "style": "Health",
+  "designed_by": "PLG numérique",
+  "site_url": "https://lassco.ca/"
+ },
+ {
+  "slug": "latitude",
+  "url": "https://www.navbar.gallery/navbar/latitude",
+  "name": "Latitude",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Latitude",
+  "site_url": "https://www.latitude.sh/"
+ },
+ {
+  "slug": "lattice",
+  "url": "https://www.navbar.gallery/navbar/lattice",
+  "name": "Lattice",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Lattice",
+  "site_url": "https://lattice.com/"
+ },
+ {
+  "slug": "lattice-2025",
+  "url": "https://www.navbar.gallery/navbar/lattice-2025",
+  "name": "Lattice",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Lattice",
+  "site_url": "https://lattice.com/"
+ },
+ {
+  "slug": "legora",
+  "url": "https://www.navbar.gallery/navbar/legora",
+  "name": "Legora",
+  "type": "Mega Menu",
+  "style": "Law",
+  "designed_by": "Most Studios",
+  "site_url": "https://legora.com/"
+ },
+ {
+  "slug": "leko-labs",
+  "url": "https://www.navbar.gallery/navbar/leko-labs",
+  "name": "Leko Labs",
+  "type": "Full Screen",
+  "style": "Construction",
+  "designed_by": "Leko Labs",
+  "site_url": "https://www.lekolabs.com/"
+ },
+ {
+  "slug": "lera-business",
+  "url": "https://www.navbar.gallery/navbar/lera-business",
+  "name": "Lera.business",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Lev Nikolaev",
+  "site_url": "https://www.lera.business/"
+ },
+ {
+  "slug": "letta",
+  "url": "https://www.navbar.gallery/navbar/letta",
+  "name": "Letta",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Letta",
+  "site_url": "https://www.letta.com"
+ },
+ {
+  "slug": "letude",
+  "url": "https://www.navbar.gallery/navbar/letude",
+  "name": "L'Étude",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "L&#x27;Étude",
+  "site_url": "https://letude.group/"
+ },
+ {
+  "slug": "life-time",
+  "url": "https://www.navbar.gallery/navbar/life-time",
+  "name": "Life Time",
+  "type": "Full Screen",
+  "style": "Health",
+  "designed_by": "Life Time",
+  "site_url": "https://www.lifetime.life/?ref=navbar.gallery"
+ },
+ {
+  "slug": "lightdash",
+  "url": "https://www.navbar.gallery/navbar/lightdash",
+  "name": "Lightdash",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "DesignMe",
+  "site_url": "https://www.lightdash.com"
+ },
+ {
+  "slug": "lightningproxies",
+  "url": "https://www.navbar.gallery/navbar/lightningproxies",
+  "name": "LightningProxies",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Ekansh",
+  "site_url": "https://lightningproxies.net/"
+ },
+ {
+  "slug": "lightship",
+  "url": "https://www.navbar.gallery/navbar/lightship",
+  "name": "Lightship",
+  "type": "Full Screen",
+  "style": "Travel",
+  "designed_by": "Locomotive",
+  "site_url": "https://lightshiprv.com/"
+ },
+ {
+  "slug": "linear",
+  "url": "https://www.navbar.gallery/navbar/linear",
+  "name": "Linear",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Linear Team",
+  "site_url": "https://linear.app/"
+ },
+ {
+  "slug": "linear-2024",
+  "url": "https://www.navbar.gallery/navbar/linear-2024",
+  "name": "Linear 2024",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Linear",
+  "site_url": "https://linear.app/homepage"
+ },
+ {
+  "slug": "linie",
+  "url": "https://www.navbar.gallery/navbar/linie",
+  "name": "Linie",
+  "type": "Side Bar",
+  "style": "Framer Template",
+  "designed_by": "Slava Burian",
+  "site_url": "https://linie.framer.website/"
+ },
+ {
+  "slug": "listenup",
+  "url": "https://www.navbar.gallery/navbar/listenup",
+  "name": "ListenUp!",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Robin Labrot",
+  "site_url": "https://www.listenup.ai/"
+ },
+ {
+  "slug": "liveblocks",
+  "url": "https://www.navbar.gallery/navbar/liveblocks",
+  "name": "Liveblocks",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Liveblocks",
+  "site_url": "https://liveblocks.io/"
+ },
+ {
+  "slug": "llama-index",
+  "url": "https://www.navbar.gallery/navbar/llama-index",
+  "name": "Llama Index",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Llama Index",
+  "site_url": "https://www.llamaindex.ai/"
+ },
+ {
+  "slug": "loop",
+  "url": "https://www.navbar.gallery/navbar/loop",
+  "name": "Loop",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Loop",
+  "site_url": "https://www.loopreturns.com/"
+ },
+ {
+  "slug": "lue-studio",
+  "url": "https://www.navbar.gallery/navbar/lue-studio",
+  "name": "Lue Studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Oğuz Yağız Kara &amp; Necati Koçlu",
+  "site_url": "https://lue.studio/"
+ },
+ {
+  "slug": "maggie-app",
+  "url": "https://www.navbar.gallery/navbar/maggie-app",
+  "name": "Maggie App",
+  "type": "Static",
+  "style": "Fun",
+  "designed_by": "Magie App",
+  "site_url": "https://maggie-app.com/"
+ },
+ {
+  "slug": "makereign",
+  "url": "https://www.navbar.gallery/navbar/makereign",
+  "name": "MakeReign",
+  "type": "Full Screen",
+  "style": null,
+  "designed_by": "MakeReign Team",
+  "site_url": "https://academy.makereign.com/"
+ },
+ {
+  "slug": "manychat",
+  "url": "https://www.navbar.gallery/navbar/manychat",
+  "name": "Manychat",
+  "type": "Mega Menu",
+  "style": "Social Media",
+  "designed_by": "Manychat",
+  "site_url": "https://manychat.com/"
+ },
+ {
+  "slug": "markopolo",
+  "url": "https://www.navbar.gallery/navbar/markopolo",
+  "name": "Markopolo",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Markopolo",
+  "site_url": "https://markopolo.ai/"
+ },
+ {
+  "slug": "mat-voyce",
+  "url": "https://www.navbar.gallery/navbar/mat-voyce",
+  "name": "Mat Voyce",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Mat Voyce",
+  "site_url": "https://matvoyce.tv/"
+ },
+ {
+  "slug": "medusa",
+  "url": "https://www.navbar.gallery/navbar/medusa",
+  "name": "Medusa",
+  "type": "Mega Menu",
+  "style": "eCommerce",
+  "designed_by": "Medusa",
+  "site_url": "https://medusajs.com/"
+ },
+ {
+  "slug": "mercu",
+  "url": "https://www.navbar.gallery/navbar/mercu",
+  "name": "Mercu",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Sumit Hegde",
+  "site_url": "https://www.mercu.com/"
+ },
+ {
+  "slug": "mesh-architects",
+  "url": "https://www.navbar.gallery/navbar/mesh-architects",
+  "name": "Mesh Architects",
+  "type": "Full Screen",
+  "style": "Architecture",
+  "designed_by": "Mesh Architects",
+  "site_url": "https://www.mesharchitects.co.uk/"
+ },
+ {
+  "slug": "metalab",
+  "url": "https://www.navbar.gallery/navbar/metalab",
+  "name": "Metalab",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Metalab",
+  "site_url": "https://www.metalab.com/"
+ },
+ {
+  "slug": "metalab-cndv1",
+  "url": "https://www.navbar.gallery/navbar/metalab-cndv1",
+  "name": "Metalab",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Metalab",
+  "site_url": "https://www.metalab.com/"
+ },
+ {
+  "slug": "metamask",
+  "url": "https://www.navbar.gallery/navbar/metamask",
+  "name": "Metamask",
+  "type": "Full Screen",
+  "style": "Crypto",
+  "designed_by": "Metamask",
+  "site_url": "https://metamask.io/"
+ },
+ {
+  "slug": "metaview",
+  "url": "https://www.navbar.gallery/navbar/metaview",
+  "name": "Metaview",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Metaview",
+  "site_url": "https://www.metaview.ai/"
+ },
+ {
+  "slug": "meter",
+  "url": "https://www.navbar.gallery/navbar/meter",
+  "name": "Meter",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Meter",
+  "site_url": "https://www.meter.com/"
+ },
+ {
+  "slug": "michel-beaulieu",
+  "url": "https://www.navbar.gallery/navbar/michel-beaulieu",
+  "name": "Michel Beaulieu",
+  "type": "Full Screen",
+  "style": "Real Estate",
+  "designed_by": "fatfish",
+  "site_url": "https://michelbeaulieu.ca/en/"
+ },
+ {
+  "slug": "midday",
+  "url": "https://www.navbar.gallery/navbar/midday",
+  "name": "Midday",
+  "type": "Mega Menu",
+  "style": null,
+  "designed_by": "Midday",
+  "site_url": "https://midday.ai/"
+ },
+ {
+  "slug": "mikis-art",
+  "url": "https://www.navbar.gallery/navbar/mikis-art",
+  "name": "Miki's Art",
+  "type": "Full Screen",
+  "style": "Photography",
+  "designed_by": "Arini Studio",
+  "site_url": "https://photography.framer.photos/"
+ },
+ {
+  "slug": "mistral",
+  "url": "https://www.navbar.gallery/navbar/mistral",
+  "name": "Mistral",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Mistral",
+  "site_url": "https://mistral.ai/"
+ },
+ {
+  "slug": "mita",
+  "url": "https://www.navbar.gallery/navbar/mita",
+  "name": "Mita",
+  "type": "Full Screen",
+  "style": "Music",
+  "designed_by": "Mita",
+  "site_url": "https://www.joinmita.com"
+ },
+ {
+  "slug": "miter",
+  "url": "https://www.navbar.gallery/navbar/miter",
+  "name": "Miter",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Miter",
+  "site_url": "https://www.miter.com/"
+ },
+ {
+  "slug": "mitrust",
+  "url": "https://www.navbar.gallery/navbar/mitrust",
+  "name": "MiTrust",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "MiTrust",
+  "site_url": "https://www.mitrust.eu/"
+ },
+ {
+  "slug": "mixpanel",
+  "url": "https://www.navbar.gallery/navbar/mixpanel",
+  "name": "Mixpanel",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Mixpanel",
+  "site_url": "https://mixpanel.com/"
+ },
+ {
+  "slug": "mobbin",
+  "url": "https://www.navbar.gallery/navbar/mobbin",
+  "name": "Mobbin",
+  "type": "Search Bar",
+  "style": "Design",
+  "designed_by": "Jiho Lim",
+  "site_url": "https://mobbin.com/browse/web"
+ },
+ {
+  "slug": "mobbin-design",
+  "url": "https://www.navbar.gallery/navbar/mobbin-design",
+  "name": "Mobbin Design",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "Jiho Lim",
+  "site_url": "https://mobbin.com"
+ },
+ {
+  "slug": "mockuuups-studio",
+  "url": "https://www.navbar.gallery/navbar/mockuuups-studio",
+  "name": "Mockuuups Studio",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "Mockuuups Studio",
+  "site_url": "https://mockuuups.studio/"
+ },
+ {
+  "slug": "modeinspect",
+  "url": "https://www.navbar.gallery/navbar/modeinspect",
+  "name": "Modeinspect",
+  "type": "Side Bar",
+  "style": "AI",
+  "designed_by": "Modeinspect",
+  "site_url": "https://modeinspect.com/"
+ },
+ {
+  "slug": "modul",
+  "url": "https://www.navbar.gallery/navbar/modul",
+  "name": "Modul",
+  "type": "Dropdown",
+  "style": "Productivity",
+  "designed_by": "Modul",
+  "site_url": "https://www.modul.day/en"
+ },
+ {
+  "slug": "mr-pops",
+  "url": "https://www.navbar.gallery/navbar/mr-pops",
+  "name": "Mr. Pops",
+  "type": "Full Screen",
+  "style": "Food &amp; Drink",
+  "designed_by": "Advanced Team",
+  "site_url": "https://mrpops.ua/en/"
+ },
+ {
+  "slug": "mugen-studio",
+  "url": "https://www.navbar.gallery/navbar/mugen-studio",
+  "name": "Mugen Studio",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "LaunchNow",
+  "site_url": "https://mugenstudio.framer.website/"
+ },
+ {
+  "slug": "mum-studio",
+  "url": "https://www.navbar.gallery/navbar/mum-studio",
+  "name": "Mum Studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Mum Studio",
+  "site_url": "https://www.mum.studio/"
+ },
+ {
+  "slug": "mvd-visuals",
+  "url": "https://www.navbar.gallery/navbar/mvd-visuals",
+  "name": "MvD Visuals",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "MvD Visuals",
+  "site_url": "https://mvdvisuals.com/"
+ },
+ {
+  "slug": "nakula",
+  "url": "https://www.navbar.gallery/navbar/nakula",
+  "name": "Nakula",
+  "type": "Side Bar",
+  "style": "Framer Template",
+  "designed_by": "Velox Themes",
+  "site_url": "https://nakula.framer.website/"
+ },
+ {
+  "slug": "neon",
+  "url": "https://www.navbar.gallery/navbar/neon",
+  "name": "NEON",
+  "type": "Full Screen",
+  "style": "Film",
+  "designed_by": "Neonrated",
+  "site_url": "http://www.neonrated.com"
+ },
+ {
+  "slug": "neon-serverless-postgres",
+  "url": "https://www.navbar.gallery/navbar/neon-serverless-postgres",
+  "name": "Neon Serverless Postgres",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Neon",
+  "site_url": "https://neon.com/"
+ },
+ {
+  "slug": "new-layer-capital",
+  "url": "https://www.navbar.gallery/navbar/new-layer-capital",
+  "name": "New Layer Capital",
+  "type": "Full Screen",
+  "style": "Investment",
+  "designed_by": "Obys Agency",
+  "site_url": "https://nlc.obys.agency/"
+ },
+ {
+  "slug": "new-studio",
+  "url": "https://www.navbar.gallery/navbar/new-studio",
+  "name": "New Studio",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "New Studio",
+  "site_url": "https://www.new.studio/"
+ },
+ {
+  "slug": "nextjsshop",
+  "url": "https://www.navbar.gallery/navbar/nextjsshop",
+  "name": "Nextjsshop",
+  "type": "Mega Menu",
+  "style": "Design",
+  "designed_by": "Nextjsshop",
+  "site_url": "https://www.nextjsshop.com/"
+ },
+ {
+  "slug": "niccolo-miranda",
+  "url": "https://www.navbar.gallery/navbar/niccolo-miranda",
+  "name": "Niccolò Miranda",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Niccolò Miranda",
+  "site_url": "https://www.niccolomiranda.com/"
+ },
+ {
+  "slug": "nicolas-bussiere",
+  "url": "https://www.navbar.gallery/navbar/nicolas-bussiere",
+  "name": "Nicolas Bussière",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Nicolas Bussière",
+  "site_url": "https://www.nicolasbussiere.com/"
+ },
+ {
+  "slug": "nitta-studio",
+  "url": "https://www.navbar.gallery/navbar/nitta-studio",
+  "name": "Nitta Studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Soichiro Nitta",
+  "site_url": "https://nitta.studio/"
+ },
+ {
+  "slug": "no-code-supply-co",
+  "url": "https://www.navbar.gallery/navbar/no-code-supply-co",
+  "name": "No-code Supply Co",
+  "type": "Full Screen",
+  "style": "Development",
+  "designed_by": "Corey Moen",
+  "site_url": "https://www.nocodesupply.co"
+ },
+ {
+  "slug": "nominal",
+  "url": "https://www.navbar.gallery/navbar/nominal",
+  "name": "Nominal",
+  "type": "Dropdown",
+  "style": "Technology",
+  "designed_by": "Nominal",
+  "site_url": "https://nominal.io/"
+ },
+ {
+  "slug": "nothing",
+  "url": "https://www.navbar.gallery/navbar/nothing",
+  "name": "Nothing",
+  "type": "Full Screen",
+  "style": "Technology",
+  "designed_by": "Nothing",
+  "site_url": "https://nothing.tech/"
+ },
+ {
+  "slug": "notion-calendar",
+  "url": "https://www.navbar.gallery/navbar/notion-calendar",
+  "name": "Notion Calendar",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Notion",
+  "site_url": "https://www.notion.so/product/calendar"
+ },
+ {
+  "slug": "notion-help",
+  "url": "https://www.navbar.gallery/navbar/notion-help",
+  "name": "Notion Help",
+  "type": "Search Bar",
+  "style": "Productivity",
+  "designed_by": "Notion",
+  "site_url": "https://www.notion.so/help/"
+ },
+ {
+  "slug": "notion-templates",
+  "url": "https://www.navbar.gallery/navbar/notion-templates",
+  "name": "Notion Templates",
+  "type": "Breadcrumbs",
+  "style": null,
+  "designed_by": "Notion",
+  "site_url": "https://www.notion.so/templates/category/school"
+ },
+ {
+  "slug": "obsidianos",
+  "url": "https://www.navbar.gallery/navbar/obsidianos",
+  "name": "Obsidianos",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Obsidianos",
+  "site_url": "https://obsidianos.com/"
+ },
+ {
+  "slug": "old-friends-studio",
+  "url": "https://www.navbar.gallery/navbar/old-friends-studio",
+  "name": "Old Friends Studio",
+  "type": "Mega Menu",
+  "style": "Studio",
+  "designed_by": "Old Friends Studio",
+  "site_url": "https://www.oldfriends.studio/"
+ },
+ {
+  "slug": "omse",
+  "url": "https://www.navbar.gallery/navbar/omse",
+  "name": "OMSE",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "OMSE",
+  "site_url": "https://www.omse.co"
+ },
+ {
+  "slug": "on",
+  "url": "https://www.navbar.gallery/navbar/on",
+  "name": "On",
+  "type": "Dropdown",
+  "style": "eCommerce",
+  "designed_by": "On Team",
+  "site_url": "https://www.on.com/en-us"
+ },
+ {
+  "slug": "ona",
+  "url": "https://www.navbar.gallery/navbar/ona",
+  "name": "Ona",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Ona",
+  "site_url": "https://ona.com/"
+ },
+ {
+  "slug": "onverre",
+  "url": "https://www.navbar.gallery/navbar/onverre",
+  "name": "Onverre",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Onverre Team",
+  "site_url": "https://onverre.com/"
+ },
+ {
+  "slug": "opal",
+  "url": "https://www.navbar.gallery/navbar/opal",
+  "name": "Opal",
+  "type": "Dropdown",
+  "style": "Electronics",
+  "designed_by": "Opal",
+  "site_url": "https://opalcamera.com/"
+ },
+ {
+  "slug": "opalhaus",
+  "url": "https://www.navbar.gallery/navbar/opalhaus",
+  "name": "Opalhaus",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Erfan @ Pentaclay",
+  "site_url": "https://opalhaus.framer.website/"
+ },
+ {
+  "slug": "orchid",
+  "url": "https://www.navbar.gallery/navbar/orchid",
+  "name": "Orchid",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Orchid",
+  "site_url": "https://orchid.ai/"
+ },
+ {
+  "slug": "outerbase",
+  "url": "https://www.navbar.gallery/navbar/outerbase",
+  "name": "Outerbase",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Logan Liffick",
+  "site_url": "https://www.outerbase.com/"
+ },
+ {
+  "slug": "owner",
+  "url": "https://www.navbar.gallery/navbar/owner",
+  "name": "Owner",
+  "type": "Mega Menu",
+  "style": "Restaurant",
+  "designed_by": "Owner",
+  "site_url": "https://www.owner.com/"
+ },
+ {
+  "slug": "oxide-computer",
+  "url": "https://www.navbar.gallery/navbar/oxide-computer",
+  "name": "Oxide Computer",
+  "type": "Mega Menu",
+  "style": "Electronics",
+  "designed_by": "Oxide",
+  "site_url": "https://oxide.computer/"
+ },
+ {
+  "slug": "pandawa",
+  "url": "https://www.navbar.gallery/navbar/pandawa",
+  "name": "Pandawa",
+  "type": "Mega Menu",
+  "style": "Framer Template",
+  "designed_by": "Velox Themes",
+  "site_url": "https://pandawa.framer.ai/"
+ },
+ {
+  "slug": "pangram-pangram",
+  "url": "https://www.navbar.gallery/navbar/pangram-pangram",
+  "name": "Pangram Pangram",
+  "type": "Full Screen",
+  "style": "Typography",
+  "designed_by": "Mathieu Desjardins",
+  "site_url": "https://pangrampangram.com/"
+ },
+ {
+  "slug": "paradigm",
+  "url": "https://www.navbar.gallery/navbar/paradigm",
+  "name": "Paradigm",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Paradigm",
+  "site_url": "https://www.paradigmai.com/"
+ },
+ {
+  "slug": "passionfroot",
+  "url": "https://www.navbar.gallery/navbar/passionfroot",
+  "name": "Passionfroot",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "DemandFlow",
+  "site_url": "https://www.passionfroot.me/"
+ },
+ {
+  "slug": "paul-hanaoka",
+  "url": "https://www.navbar.gallery/navbar/paul-hanaoka",
+  "name": "Paul Hanaoka",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "Paul Hanaoka",
+  "site_url": "https://paul.hanaoka.co/"
+ },
+ {
+  "slug": "payload",
+  "url": "https://www.navbar.gallery/navbar/payload",
+  "name": "Payload",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Payload CMS",
+  "site_url": "https://payloadcms.com/"
+ },
+ {
+  "slug": "pebble",
+  "url": "https://www.navbar.gallery/navbar/pebble",
+  "name": "Pebble",
+  "type": "Static",
+  "style": "Automotive",
+  "designed_by": "Pebble",
+  "site_url": "https://pebblelife.com/"
+ },
+ {
+  "slug": "peter-hulce",
+  "url": "https://www.navbar.gallery/navbar/peter-hulce",
+  "name": "Peter Hulce",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Peter Hulce",
+  "site_url": "https://phd.so/"
+ },
+ {
+  "slug": "pipe",
+  "url": "https://www.navbar.gallery/navbar/pipe",
+  "name": "Pipe",
+  "type": "Mega Menu",
+  "style": "Investment",
+  "designed_by": "Niclas Ernst",
+  "site_url": "https://pipe.com/"
+ },
+ {
+  "slug": "pixelflakes",
+  "url": "https://www.navbar.gallery/navbar/pixelflakes",
+  "name": "Pixelflakes",
+  "type": "Full Screen",
+  "style": "Architecture",
+  "designed_by": "Exo Ape",
+  "site_url": "https://www.pixelflakes.com/"
+ },
+ {
+  "slug": "planhat",
+  "url": "https://www.navbar.gallery/navbar/planhat",
+  "name": "Planhat",
+  "type": "Full Screen",
+  "style": "AI",
+  "designed_by": "alberto-lambert",
+  "site_url": "https://www.planhat.com/"
+ },
+ {
+  "slug": "plants-to-the-rescue",
+  "url": "https://www.navbar.gallery/navbar/plants-to-the-rescue",
+  "name": "Plants to the Rescue",
+  "type": "Mega Menu",
+  "style": "Health",
+  "designed_by": "Plants to the Rescue",
+  "site_url": "https://plantstotherescue.co/"
+ },
+ {
+  "slug": "plasticity",
+  "url": "https://www.navbar.gallery/navbar/plasticity",
+  "name": "Plasticity",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Plasticity",
+  "site_url": "https://www.plasticity.xyz/"
+ },
+ {
+  "slug": "playground",
+  "url": "https://www.navbar.gallery/navbar/playground",
+  "name": "Playground",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Playground",
+  "site_url": "https://www.tryplayground.com/"
+ },
+ {
+  "slug": "polestar",
+  "url": "https://www.navbar.gallery/navbar/polestar",
+  "name": "Polestar",
+  "type": "Side Bar",
+  "style": "Automotive",
+  "designed_by": "Polestar Team",
+  "site_url": "https://www.polestar.com/global/"
+ },
+ {
+  "slug": "polpis",
+  "url": "https://www.navbar.gallery/navbar/polpis",
+  "name": "Polpis",
+  "type": "Static",
+  "style": "Science",
+  "designed_by": "Daniel Sun",
+  "site_url": "https://www.polpissystems.com/"
+ },
+ {
+  "slug": "pomergranate",
+  "url": "https://www.navbar.gallery/navbar/pomergranate",
+  "name": "Pomergranate",
+  "type": "Full Screen",
+  "style": "Health",
+  "designed_by": "Wondermake",
+  "site_url": "https://pomegranate.health/"
+ },
+ {
+  "slug": "pop-up-grocer",
+  "url": "https://www.navbar.gallery/navbar/pop-up-grocer",
+  "name": "Pop Up Grocer",
+  "type": "Full Screen",
+  "style": "Retail",
+  "designed_by": "Pop Up Grocer",
+  "site_url": "https://popupgrocer.com/"
+ },
+ {
+  "slug": "popp-ai",
+  "url": "https://www.navbar.gallery/navbar/popp-ai",
+  "name": "Popp AI",
+  "type": "Full Screen",
+  "style": "AI",
+  "designed_by": "Popp AI",
+  "site_url": "https://www.joinpopp.com/"
+ },
+ {
+  "slug": "portal-gaming",
+  "url": "https://www.navbar.gallery/navbar/portal-gaming",
+  "name": "Portal Gaming",
+  "type": "Dropdown",
+  "style": "Gaming",
+  "designed_by": "Portal Gaming",
+  "site_url": "https://portalgaming.com/"
+ },
+ {
+  "slug": "posthog",
+  "url": "https://www.navbar.gallery/navbar/posthog",
+  "name": "PostHog",
+  "type": "Static",
+  "style": "Development",
+  "designed_by": "Cory Watilo",
+  "site_url": "https://posthog.com/"
+ },
+ {
+  "slug": "posthog-2025",
+  "url": "https://www.navbar.gallery/navbar/posthog-2025",
+  "name": "PostHog",
+  "type": "Side Bar",
+  "style": "Development",
+  "designed_by": "PostHog",
+  "site_url": "https://posthog.com/"
+ },
+ {
+  "slug": "pov-budapest",
+  "url": "https://www.navbar.gallery/navbar/pov-budapest",
+  "name": "POV Budapest",
+  "type": "Full Screen",
+  "style": "Conference",
+  "designed_by": "POV Budapest",
+  "site_url": "https://www.povbudapest.com/"
+ },
+ {
+  "slug": "profound",
+  "url": "https://www.navbar.gallery/navbar/profound",
+  "name": "Profound",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Profound",
+  "site_url": "https://www.tryprofound.com/"
+ },
+ {
+  "slug": "puree-maison",
+  "url": "https://www.navbar.gallery/navbar/puree-maison",
+  "name": "Pureé Maison",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "Maison",
+  "site_url": "https://pureemaison.com/"
+ },
+ {
+  "slug": "qatalog",
+  "url": "https://www.navbar.gallery/navbar/qatalog",
+  "name": "Qatalog",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Qatalog",
+  "site_url": "https://qatalog.com/"
+ },
+ {
+  "slug": "quechua-lookbook",
+  "url": "https://www.navbar.gallery/navbar/quechua-lookbook",
+  "name": "Qechua Lookbook 2025",
+  "type": "Dropdown",
+  "style": "Retail",
+  "designed_by": "Decathlon",
+  "site_url": "https://quechua-lookbook.com/ss25/"
+ },
+ {
+  "slug": "rainmaker",
+  "url": "https://www.navbar.gallery/navbar/rainmaker",
+  "name": "Rainmaker",
+  "type": "Mega Menu",
+  "style": "Sustainability",
+  "designed_by": "Rainmaker",
+  "site_url": "https://www.rainmaker.com/"
+ },
+ {
+  "slug": "rains",
+  "url": "https://www.navbar.gallery/navbar/rains",
+  "name": "Rains",
+  "type": "Full Screen",
+  "style": "Retail",
+  "designed_by": "Rains Team",
+  "site_url": "https://www.rains.com/"
+ },
+ {
+  "slug": "ramp",
+  "url": "https://www.navbar.gallery/navbar/ramp",
+  "name": "Ramp",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "Ramp",
+  "site_url": "https://ramp.com/welcome"
+ },
+ {
+  "slug": "raw-materials",
+  "url": "https://www.navbar.gallery/navbar/raw-materials",
+  "name": "Raw Materials",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "Pablo Marques",
+  "site_url": "https://www.therawmaterials.com/hello"
+ },
+ {
+  "slug": "rawline",
+  "url": "https://www.navbar.gallery/navbar/rawline",
+  "name": "RAWLINE",
+  "type": "Dropdown",
+  "style": "Framer Template",
+  "designed_by": "Syed Tahoor Ali",
+  "site_url": "https://rawline.framer.website/"
+ },
+ {
+  "slug": "rayon",
+  "url": "https://www.navbar.gallery/navbar/rayon",
+  "name": "Rayon",
+  "type": "Dropdown",
+  "style": "Architecture",
+  "designed_by": "Rayon",
+  "site_url": "https://www.rayon.design/"
+ },
+ {
+  "slug": "read-cv",
+  "url": "https://www.navbar.gallery/navbar/read-cv",
+  "name": "Read.cv",
+  "type": "Side Bar",
+  "style": "Design",
+  "designed_by": "Andy Chung",
+  "site_url": "https://read.cv/explore"
+ },
+ {
+  "slug": "real-template",
+  "url": "https://www.navbar.gallery/navbar/real-template",
+  "name": "Real Template",
+  "type": "Full Screen",
+  "style": "Real Estate",
+  "designed_by": "Tymofii Bak",
+  "site_url": "https://realagent.framer.website/"
+ },
+ {
+  "slug": "reevo",
+  "url": "https://www.navbar.gallery/navbar/reevo",
+  "name": "Reevo",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Reevo",
+  "site_url": "https://reevo.ai"
+ },
+ {
+  "slug": "reflect",
+  "url": "https://www.navbar.gallery/navbar/reflect",
+  "name": "Reflect",
+  "type": "Static",
+  "style": "Productivity",
+  "designed_by": "James",
+  "site_url": "https://reflect.app/"
+ },
+ {
+  "slug": "reflexai",
+  "url": "https://www.navbar.gallery/navbar/reflexai",
+  "name": "ReflexAI",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "ReflexAI",
+  "site_url": "https://www.reflexai.com/"
+ },
+ {
+  "slug": "rejouice",
+  "url": "https://www.navbar.gallery/navbar/rejouice",
+  "name": "Rejouice",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Rejouice",
+  "site_url": "https://rejouice.com/"
+ },
+ {
+  "slug": "rekorder-studios",
+  "url": "https://www.navbar.gallery/navbar/rekorder-studios",
+  "name": "Rekorder Studios",
+  "type": "Dropdown",
+  "style": "Studio",
+  "designed_by": "Rekorder Studios",
+  "site_url": "https://www.rekorderstudios.com/"
+ },
+ {
+  "slug": "relay",
+  "url": "https://www.navbar.gallery/navbar/relay",
+  "name": "Relay",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "AngelList",
+  "site_url": "https://www.angellist.com/"
+ },
+ {
+  "slug": "relume",
+  "url": "https://www.navbar.gallery/navbar/relume",
+  "name": "Relume",
+  "type": "Search Bar",
+  "style": "Development",
+  "designed_by": "Relume",
+  "site_url": "https://www.relume.io/components"
+ },
+ {
+  "slug": "relume-library",
+  "url": "https://www.navbar.gallery/navbar/relume-library",
+  "name": "Relume Library",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "Devin Fountain",
+  "site_url": "https://www.relume.io/"
+ },
+ {
+  "slug": "remote",
+  "url": "https://www.navbar.gallery/navbar/remote",
+  "name": "Remote",
+  "type": "Side Bar",
+  "style": "SaaS",
+  "designed_by": "Remote Team",
+  "site_url": "https://remote.com/"
+ },
+ {
+  "slug": "reorc",
+  "url": "https://www.navbar.gallery/navbar/reorc",
+  "name": "reOrc",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "reOrc",
+  "site_url": "https://reorc.com/"
+ },
+ {
+  "slug": "retool",
+  "url": "https://www.navbar.gallery/navbar/retool",
+  "name": "Retool",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Retool",
+  "site_url": "https://retool.com/"
+ },
+ {
+  "slug": "ribbit",
+  "url": "https://www.navbar.gallery/navbar/ribbit",
+  "name": "Ribbit",
+  "type": "Static",
+  "style": "Motion",
+  "designed_by": "Ribbit",
+  "site_url": "https://ribbit.dk/"
+ },
+ {
+  "slug": "rig-dev",
+  "url": "https://www.navbar.gallery/navbar/rig-dev",
+  "name": "Rig.dev",
+  "type": "Static",
+  "style": "Development",
+  "designed_by": "Jack Theobald",
+  "site_url": "https://rig.dev/"
+ },
+ {
+  "slug": "rivian",
+  "url": "https://www.navbar.gallery/navbar/rivian",
+  "name": "Rivian",
+  "type": "Full Screen",
+  "style": "Automotive",
+  "designed_by": "Rivian",
+  "site_url": "https://rivian.com/"
+ },
+ {
+  "slug": "robin-spielmann",
+  "url": "https://www.navbar.gallery/navbar/robin-spielmann",
+  "name": "Robin Spielmann",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "Robin Spielmann",
+  "site_url": "https://www.iamrob.in/"
+ },
+ {
+  "slug": "roman-tesliuk",
+  "url": "https://www.navbar.gallery/navbar/roman-tesliuk",
+  "name": "Roman Tesliuk",
+  "type": "Dropdown",
+  "style": "Portfolio",
+  "designed_by": "Roman Tesliuk",
+  "site_url": "https://www.pixelwrld.co/"
+ },
+ {
+  "slug": "rre",
+  "url": "https://www.navbar.gallery/navbar/rre",
+  "name": "RRE",
+  "type": "Static",
+  "style": "Venture Capital",
+  "designed_by": "Brandon Zacharias",
+  "site_url": "https://rre.com/"
+ },
+ {
+  "slug": "rre-ventures",
+  "url": "https://www.navbar.gallery/navbar/rre-ventures",
+  "name": "RRE Ventures",
+  "type": "Full Screen",
+  "style": "Investment",
+  "designed_by": "Brandon Zacharias",
+  "site_url": "https://rre.com/"
+ },
+ {
+  "slug": "rune",
+  "url": "https://www.navbar.gallery/navbar/rune",
+  "name": "Rune",
+  "type": "Full Screen",
+  "style": "Technology",
+  "designed_by": "Benten Woodring",
+  "site_url": "https://www.rune.energy/"
+ },
+ {
+  "slug": "runway",
+  "url": "https://www.navbar.gallery/navbar/runway",
+  "name": "Runway",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Runway Team",
+  "site_url": "https://runwayml.com/"
+ },
+ {
+  "slug": "runway-2025",
+  "url": "https://www.navbar.gallery/navbar/runway-2025",
+  "name": "Runway",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Reform Collective",
+  "site_url": "https://runway.com/"
+ },
+ {
+  "slug": "ruul",
+  "url": "https://www.navbar.gallery/navbar/ruul",
+  "name": "Ruul",
+  "type": "Mega Menu",
+  "style": null,
+  "designed_by": "Ruul",
+  "site_url": "https://ruul.io/"
+ },
+ {
+  "slug": "saaristo",
+  "url": "https://www.navbar.gallery/navbar/saaristo",
+  "name": "Saaristo",
+  "type": "Mega Menu",
+  "style": "Tourism",
+  "designed_by": "Bond",
+  "site_url": "https://saaristo.fi/"
+ },
+ {
+  "slug": "sana-ai",
+  "url": "https://www.navbar.gallery/navbar/sana-ai",
+  "name": "Sana AI",
+  "type": "Side Bar",
+  "style": "AI",
+  "designed_by": "Sana AI",
+  "site_url": "https://sana.ai/"
+ },
+ {
+  "slug": "sanity",
+  "url": "https://www.navbar.gallery/navbar/sanity",
+  "name": "Sanity",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Sanity",
+  "site_url": "https://www.sanity.io/"
+ },
+ {
+  "slug": "say-briefly",
+  "url": "https://www.navbar.gallery/navbar/say-briefly",
+  "name": "Say Briefly",
+  "type": "Mega Menu",
+  "style": "Productivity",
+  "designed_by": "Say Briefly",
+  "site_url": "https://saybriefly.com/"
+ },
+ {
+  "slug": "schema",
+  "url": "https://www.navbar.gallery/navbar/schema",
+  "name": "Schema",
+  "type": "Mega Menu",
+  "style": "Elegant",
+  "designed_by": "Artisan Format",
+  "site_url": "https://www.schema.supply/"
+ },
+ {
+  "slug": "scrintal",
+  "url": "https://www.navbar.gallery/navbar/scrintal",
+  "name": "Scrintal",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "Scrintal",
+  "site_url": "https://scrintal.com/"
+ },
+ {
+  "slug": "seed",
+  "url": "https://www.navbar.gallery/navbar/seed",
+  "name": "Seed",
+  "type": "Dropdown",
+  "style": "Health",
+  "designed_by": "Seed",
+  "site_url": "https://seed.com/"
+ },
+ {
+  "slug": "seen-advertising",
+  "url": "https://www.navbar.gallery/navbar/seen-advertising",
+  "name": "Seen Advertising",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "Seen Advertising",
+  "site_url": "https://seenadvertising.agency/"
+ },
+ {
+  "slug": "selfaware",
+  "url": "https://www.navbar.gallery/navbar/selfaware",
+  "name": "Selfaware",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Jennifer Heintz &amp; Mike Wagz",
+  "site_url": "https://selfaware.studio/"
+ },
+ {
+  "slug": "semplice",
+  "url": "https://www.navbar.gallery/navbar/semplice",
+  "name": "Semplice",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Lu Yu",
+  "site_url": "https://www.semplice.com/"
+ },
+ {
+  "slug": "sequence",
+  "url": "https://www.navbar.gallery/navbar/sequence",
+  "name": "Sequence",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "James",
+  "site_url": "https://www.sequencehq.com/"
+ },
+ {
+  "slug": "shade",
+  "url": "https://www.navbar.gallery/navbar/shade",
+  "name": "Shade",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Shade",
+  "site_url": "https://shade.inc/"
+ },
+ {
+  "slug": "sienna",
+  "url": "https://www.navbar.gallery/navbar/sienna",
+  "name": "Sienna",
+  "type": "Static",
+  "style": "Framer Template",
+  "designed_by": "Zaid Khan",
+  "site_url": "https://sienna.framer.photos/"
+ },
+ {
+  "slug": "significa",
+  "url": "https://www.navbar.gallery/navbar/significa",
+  "name": "Significa",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "Significa",
+  "site_url": "https://significa.co/"
+ },
+ {
+  "slug": "singlestore",
+  "url": "https://www.navbar.gallery/navbar/singlestore",
+  "name": "SingleStore",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "SingleStore",
+  "site_url": "https://www.singlestore.com/"
+ },
+ {
+  "slug": "sj-zhang",
+  "url": "https://www.navbar.gallery/navbar/sj-zhang",
+  "name": "SJ Zhang",
+  "type": "Side Bar",
+  "style": "Portfolio",
+  "designed_by": "SJ Zhang",
+  "site_url": "https://www.s-j-zhang.com/"
+ },
+ {
+  "slug": "sketch",
+  "url": "https://www.navbar.gallery/navbar/sketch",
+  "name": "Sketch",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "Sketch Team",
+  "site_url": "https://www.sketch.com/"
+ },
+ {
+  "slug": "skiff",
+  "url": "https://www.navbar.gallery/navbar/skiff",
+  "name": "Skiff",
+  "type": "Side Bar",
+  "style": "Productivity",
+  "designed_by": "Skiff Team",
+  "site_url": "https://app.skiff.com/mail/inbox"
+ },
+ {
+  "slug": "skiff-mail",
+  "url": "https://www.navbar.gallery/navbar/skiff-mail",
+  "name": "Skiff Mail",
+  "type": "Progress Bar",
+  "style": "SaaS",
+  "designed_by": "Skiff Team",
+  "site_url": "https://skiff.com/mail"
+ },
+ {
+  "slug": "skiff-website",
+  "url": "https://www.navbar.gallery/navbar/skiff-website",
+  "name": "Skiff Website",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Skiff Team",
+  "site_url": "https://skiff.com/"
+ },
+ {
+  "slug": "sohub",
+  "url": "https://www.navbar.gallery/navbar/sohub",
+  "name": "SOHub",
+  "type": "Dropdown",
+  "style": "Agency",
+  "designed_by": "SOHub",
+  "site_url": "https://sohub.digital/"
+ },
+ {
+  "slug": "solidroad",
+  "url": "https://www.navbar.gallery/navbar/solidroad",
+  "name": "Solidroad",
+  "type": "Static",
+  "style": "AI",
+  "designed_by": "Lee Black",
+  "site_url": "https://www.solidroad.com/"
+ },
+ {
+  "slug": "somefolk",
+  "url": "https://www.navbar.gallery/navbar/somefolk",
+  "name": "Somefolk",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Somefolk",
+  "site_url": "https://www.somefolk.co/info"
+ },
+ {
+  "slug": "southern-guild",
+  "url": "https://www.navbar.gallery/navbar/southern-guild",
+  "name": "Southern Guild",
+  "type": "Full Screen",
+  "style": "Art",
+  "designed_by": "DashDigital Studio",
+  "site_url": "https://southernguild.com/"
+ },
+ {
+  "slug": "spacer",
+  "url": "https://www.navbar.gallery/navbar/spacer",
+  "name": "Spacer",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Faruk Seckin",
+  "site_url": "https://spacer.framer.ai/"
+ },
+ {
+  "slug": "spaces",
+  "url": "https://www.navbar.gallery/navbar/spaces",
+  "name": "Spaces",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "William Channer",
+  "site_url": "https://spaces.is/"
+ },
+ {
+  "slug": "speakeasy",
+  "url": "https://www.navbar.gallery/navbar/speakeasy",
+  "name": "speakeasy",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "speakeasy",
+  "site_url": "https://www.speakeasy.com/"
+ },
+ {
+  "slug": "spellbook",
+  "url": "https://www.navbar.gallery/navbar/spellbook",
+  "name": "Spellbook",
+  "type": "Dropdown",
+  "style": "Legal",
+  "designed_by": "Grace Walker",
+  "site_url": "https://www.spellbook.legal/main"
+ },
+ {
+  "slug": "spencer-gabor",
+  "url": "https://www.navbar.gallery/navbar/spencer-gabor",
+  "name": "Spencer Gabor",
+  "type": "Full Screen",
+  "style": "Portfolio",
+  "designed_by": "Spencer Gabor",
+  "site_url": "https://spencergabor.work"
+ },
+ {
+  "slug": "squint",
+  "url": "https://www.navbar.gallery/navbar/squint",
+  "name": "Squint",
+  "type": "Mega Menu",
+  "style": null,
+  "designed_by": "Squint",
+  "site_url": "https://www.squint.ai/"
+ },
+ {
+  "slug": "stable-audio",
+  "url": "https://www.navbar.gallery/navbar/stable-audio",
+  "name": "Stable Audio",
+  "type": "Side Bar",
+  "style": "Audio",
+  "designed_by": "Stability AI",
+  "site_url": "https://stableaudio.com/"
+ },
+ {
+  "slug": "stack-vc",
+  "url": "https://www.navbar.gallery/navbar/stack-vc",
+  "name": "Stack VC",
+  "type": "Side Bar",
+  "style": "Venture Capital",
+  "designed_by": "Jordan Gilroy",
+  "site_url": "https://www.stack.vc/"
+ },
+ {
+  "slug": "stacker-hq",
+  "url": "https://www.navbar.gallery/navbar/stacker-hq",
+  "name": "Stacker HQ",
+  "type": "Full Screen",
+  "style": "Development",
+  "designed_by": "Stacker HQ",
+  "site_url": "https://stackerhq.com/"
+ },
+ {
+  "slug": "state-of-create",
+  "url": "https://www.navbar.gallery/navbar/state-of-create",
+  "name": "State of Create",
+  "type": "Full Screen",
+  "style": "Art",
+  "designed_by": "State of Create",
+  "site_url": "https://stateofcreate.co/"
+ },
+ {
+  "slug": "stenger-bike",
+  "url": "https://www.navbar.gallery/navbar/stenger-bike",
+  "name": "Stenger Bike",
+  "type": "Mega Menu",
+  "style": "eCommerce",
+  "designed_by": "Digital Innovation AG",
+  "site_url": "https://stenger-bike.de"
+ },
+ {
+  "slug": "stripe",
+  "url": "https://www.navbar.gallery/navbar/stripe",
+  "name": "Stripe",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Stripe Team",
+  "site_url": "https://stripe.com/en-es"
+ },
+ {
+  "slug": "stripe-customers",
+  "url": "https://www.navbar.gallery/navbar/stripe-customers",
+  "name": "Stripe",
+  "type": "Breadcrumbs",
+  "style": "SaaS",
+  "designed_by": "Stripe",
+  "site_url": "https://stripe.com/en-es/customers/instacart"
+ },
+ {
+  "slug": "summerrain",
+  "url": "https://www.navbar.gallery/navbar/summerrain",
+  "name": "SummerRain",
+  "type": "Dropdown",
+  "style": "Food &amp; Drink",
+  "designed_by": "Roman Tesliuk",
+  "site_url": "https://www.getsummerrain.de/"
+ },
+ {
+  "slug": "sunday",
+  "url": "https://www.navbar.gallery/navbar/sunday",
+  "name": "Sunday",
+  "type": "Full Screen",
+  "style": "Technology",
+  "designed_by": "Sunday AI",
+  "site_url": "https://www.sunday.ai/"
+ },
+ {
+  "slug": "supabase",
+  "url": "https://www.navbar.gallery/navbar/supabase",
+  "name": "Supabase",
+  "type": "Side Bar",
+  "style": "Development",
+  "designed_by": "Supabase Team",
+  "site_url": "https://supabase.com/docs"
+ },
+ {
+  "slug": "supabase-documentation",
+  "url": "https://www.navbar.gallery/navbar/supabase-documentation",
+  "name": "Supabase Documentation",
+  "type": "Search Bar",
+  "style": "Development",
+  "designed_by": "Supabase",
+  "site_url": "https://supabase.com/docs"
+ },
+ {
+  "slug": "supaste",
+  "url": "https://www.navbar.gallery/navbar/supaste",
+  "name": "Supaste",
+  "type": "Static",
+  "style": "MacOS App",
+  "designed_by": "Solt Wagner",
+  "site_url": "https://www.supaste.com/"
+ },
+ {
+  "slug": "super",
+  "url": "https://www.navbar.gallery/navbar/super",
+  "name": "Super",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Super",
+  "site_url": "https://super.work/"
+ },
+ {
+  "slug": "superheroes",
+  "url": "https://www.navbar.gallery/navbar/superheroes",
+  "name": "SuperHeroes",
+  "type": "Static",
+  "style": "Advertising",
+  "designed_by": "SuperHeroes",
+  "site_url": "https://hellosuperheroes.com/"
+ },
+ {
+  "slug": "supernotes",
+  "url": "https://www.navbar.gallery/navbar/supernotes",
+  "name": "Supernotes",
+  "type": "Dropdown",
+  "style": "Productivity",
+  "designed_by": "Supernotes",
+  "site_url": "https://supernotes.app/"
+ },
+ {
+  "slug": "superpower",
+  "url": "https://www.navbar.gallery/navbar/superpower",
+  "name": "Superpower",
+  "type": "Static",
+  "style": "Health",
+  "designed_by": "Daybreak",
+  "site_url": "https://www.superpower.com"
+ },
+ {
+  "slug": "superpower-2025",
+  "url": "https://www.navbar.gallery/navbar/superpower-2025",
+  "name": "Superpower",
+  "type": "Mega Menu",
+  "style": "Health",
+  "designed_by": "Superpower",
+  "site_url": "https://superpower.com/"
+ },
+ {
+  "slug": "surferseo",
+  "url": "https://www.navbar.gallery/navbar/surferseo",
+  "name": "SurferSEO",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "SurferSEO",
+  "site_url": "https://surferseo.com/"
+ },
+ {
+  "slug": "swag-app",
+  "url": "https://www.navbar.gallery/navbar/swag-app",
+  "name": "Swag App",
+  "type": "Side Bar",
+  "style": "AI",
+  "designed_by": "Swag App",
+  "site_url": "https://swagapp.com/jobs/"
+ },
+ {
+  "slug": "tabs",
+  "url": "https://www.navbar.gallery/navbar/tabs",
+  "name": "Tabs",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Tabs",
+  "site_url": "https://www.tabs.com/"
+ },
+ {
+  "slug": "tedy",
+  "url": "https://www.navbar.gallery/navbar/tedy",
+  "name": "Tedy",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Jordan Gilroy",
+  "site_url": "https://www.tedy.app/"
+ },
+ {
+  "slug": "tensorstax",
+  "url": "https://www.navbar.gallery/navbar/tensorstax",
+  "name": "TensorStax",
+  "type": "Static",
+  "style": "SaaS",
+  "designed_by": "TensorStax",
+  "site_url": "https://www.tensorstax.com/"
+ },
+ {
+  "slug": "theydo",
+  "url": "https://www.navbar.gallery/navbar/theydo",
+  "name": "TheyDo",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "TheyDo",
+  "site_url": "https://www.theydo.com/"
+ },
+ {
+  "slug": "things",
+  "url": "https://www.navbar.gallery/navbar/things",
+  "name": "Things",
+  "type": "Side Bar",
+  "style": "Startup",
+  "designed_by": "Things, Inc.",
+  "site_url": "https://things.inc/"
+ },
+ {
+  "slug": "this-is-fc88",
+  "url": "https://www.navbar.gallery/navbar/this-is-fc88",
+  "name": "This is FC88",
+  "type": "Side Bar",
+  "style": "Sports",
+  "designed_by": "GRAPHICHUNTERS",
+  "site_url": "https://www.thisisfc88.com/"
+ },
+ {
+  "slug": "thonik",
+  "url": "https://www.navbar.gallery/navbar/thonik",
+  "name": "Thonik",
+  "type": "Full Screen",
+  "style": "Design",
+  "designed_by": "Thonik",
+  "site_url": "https://thonik.nl/"
+ },
+ {
+  "slug": "thread",
+  "url": "https://www.navbar.gallery/navbar/thread",
+  "name": "Thread",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Thread",
+  "site_url": "https://www.madebythread.com/"
+ },
+ {
+  "slug": "three-circles",
+  "url": "https://www.navbar.gallery/navbar/three-circles",
+  "name": "Three Circles",
+  "type": "Side Bar",
+  "style": "Framer Template",
+  "designed_by": "Salim Lunat",
+  "site_url": "https://three-circles-wbs.framer.website/"
+ },
+ {
+  "slug": "throxy",
+  "url": "https://www.navbar.gallery/navbar/throxy",
+  "name": "Throxy",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Throxy",
+  "site_url": "https://throxy.com/"
+ },
+ {
+  "slug": "tines",
+  "url": "https://www.navbar.gallery/navbar/tines",
+  "name": "Tines",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Dokument Studio",
+  "site_url": "https://www.tines.com/"
+ },
+ {
+  "slug": "titan",
+  "url": "https://www.navbar.gallery/navbar/titan",
+  "name": "Titan",
+  "type": "Dropdown",
+  "style": "Investment",
+  "designed_by": "Byron Ma",
+  "site_url": "https://www.titan.com/"
+ },
+ {
+  "slug": "todesktop",
+  "url": "https://www.navbar.gallery/navbar/todesktop",
+  "name": "ToDesktop",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Oğuz Yağız Kara",
+  "site_url": "https://www.todesktop.com/"
+ },
+ {
+  "slug": "todoist",
+  "url": "https://www.navbar.gallery/navbar/todoist",
+  "name": "Todoist",
+  "type": "Progress Bar",
+  "style": "iOS App",
+  "designed_by": "Todoist Team",
+  "site_url": "https://todoist.com/"
+ },
+ {
+  "slug": "together-ai",
+  "url": "https://www.navbar.gallery/navbar/together-ai",
+  "name": "Together AI",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Max Keeley",
+  "site_url": "https://www.together.ai/"
+ },
+ {
+  "slug": "tola",
+  "url": "https://www.navbar.gallery/navbar/tola",
+  "name": "Tola",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Alen Cvisic",
+  "site_url": "https://www.tolahq.com/"
+ },
+ {
+  "slug": "tomorro",
+  "url": "https://www.navbar.gallery/navbar/tomorro",
+  "name": "Tomorro",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Tomorro Team",
+  "site_url": "https://www.gotomorro.com/"
+ },
+ {
+  "slug": "tonemaki",
+  "url": "https://www.navbar.gallery/navbar/tonemaki",
+  "name": "Tonemaki",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "Tonemaki",
+  "site_url": "https://www.tonemaki.com/"
+ },
+ {
+  "slug": "toolfolio",
+  "url": "https://www.navbar.gallery/navbar/toolfolio",
+  "name": "Toolfolio",
+  "type": "Side Bar",
+  "style": "SaaS",
+  "designed_by": "Dudu",
+  "site_url": "https://toolfolio.io/"
+ },
+ {
+  "slug": "toormix",
+  "url": "https://www.navbar.gallery/navbar/toormix",
+  "name": "Toormix",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Toormix",
+  "site_url": "https://toormix.com/en/"
+ },
+ {
+  "slug": "traffic-productions",
+  "url": "https://www.navbar.gallery/navbar/traffic-productions",
+  "name": "Traffic Productions",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "Traffic Productions",
+  "site_url": "https://www.traffic.productions/"
+ },
+ {
+  "slug": "trifecta",
+  "url": "https://www.navbar.gallery/navbar/trifecta",
+  "name": "Trifecta",
+  "type": "Side Bar",
+  "style": "Studio",
+  "designed_by": "Anatolii Dmitrienko",
+  "site_url": "https://trifecta.framer.media/"
+ },
+ {
+  "slug": "trionn",
+  "url": "https://www.navbar.gallery/navbar/trionn",
+  "name": "Trionn",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "TRIONN",
+  "site_url": "https://trionn.com/"
+ },
+ {
+  "slug": "trullion",
+  "url": "https://www.navbar.gallery/navbar/trullion",
+  "name": "Trullion",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Trullion",
+  "site_url": "https://trullion.com"
+ },
+ {
+  "slug": "trunk",
+  "url": "https://www.navbar.gallery/navbar/trunk",
+  "name": "Trunk",
+  "type": "Dropdown",
+  "style": "Productivity",
+  "designed_by": "Chris Clark",
+  "site_url": "https://trunk.io/"
+ },
+ {
+  "slug": "truus",
+  "url": "https://www.navbar.gallery/navbar/truus",
+  "name": "Truus",
+  "type": "Dropdown",
+  "style": "Agency",
+  "designed_by": "Jordan Gilroy",
+  "site_url": "https://truus.co/"
+ },
+ {
+  "slug": "tux",
+  "url": "https://www.navbar.gallery/navbar/tux",
+  "name": "TUX",
+  "type": "Full Screen",
+  "style": "Agency",
+  "designed_by": "TUX",
+  "site_url": "https://tux.co/en/"
+ },
+ {
+  "slug": "tux-karma",
+  "url": "https://www.navbar.gallery/navbar/tux-karma",
+  "name": "Tux & Karma",
+  "type": "Dropdown",
+  "style": "Agency",
+  "designed_by": "Tux &amp; Karma",
+  "site_url": "https://tuxkarma.co/en/"
+ },
+ {
+  "slug": "twenty",
+  "url": "https://www.navbar.gallery/navbar/twenty",
+  "name": "Twenty",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Twenty",
+  "site_url": "https://twenty.com/"
+ },
+ {
+  "slug": "twingate",
+  "url": "https://www.navbar.gallery/navbar/twingate",
+  "name": "Twingate",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Charles Scheuer",
+  "site_url": "https://www.twingate.com/"
+ },
+ {
+  "slug": "umrel",
+  "url": "https://www.navbar.gallery/navbar/umrel",
+  "name": "Umrel",
+  "type": "Static",
+  "style": "Design",
+  "designed_by": "Ugi Stelmokaitis",
+  "site_url": "https://umrel.com/"
+ },
+ {
+  "slug": "uniswap",
+  "url": "https://www.navbar.gallery/navbar/uniswap",
+  "name": "Uniswap",
+  "type": "Search Bar",
+  "style": "Crypto",
+  "designed_by": "Uniswap",
+  "site_url": "https://app.uniswap.org"
+ },
+ {
+  "slug": "uniswap-breadcrumbs",
+  "url": "https://www.navbar.gallery/navbar/uniswap-breadcrumbs",
+  "name": "Uniswap",
+  "type": "Breadcrumbs",
+  "style": null,
+  "designed_by": "Uniswap",
+  "site_url": "https://app.uniswap.org/explore/tokens/ethereum/NATIVE"
+ },
+ {
+  "slug": "uniswap-dropdown",
+  "url": "https://www.navbar.gallery/navbar/uniswap-dropdown",
+  "name": "Uniswap",
+  "type": "Dropdown",
+  "style": "Crypto",
+  "designed_by": "Uniswap",
+  "site_url": "https://app.uniswap.org/"
+ },
+ {
+  "slug": "unlearn-ai",
+  "url": "https://www.navbar.gallery/navbar/unlearn-ai",
+  "name": "Unlearn AI",
+  "type": "Dropdown",
+  "style": "AI",
+  "designed_by": "Wat Studio",
+  "site_url": "https://www.unlearn.ai/"
+ },
+ {
+  "slug": "v7labs",
+  "url": "https://www.navbar.gallery/navbar/v7labs",
+  "name": "V7Labs",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "V7Labs",
+  "site_url": "https://www.v7labs.com/"
+ },
+ {
+  "slug": "valmont",
+  "url": "https://www.navbar.gallery/navbar/valmont",
+  "name": "Valmont",
+  "type": "Mega Menu",
+  "style": "Nature",
+  "designed_by": "Resn",
+  "site_url": "https://www.valmont.com/"
+ },
+ {
+  "slug": "vap",
+  "url": "https://www.navbar.gallery/navbar/vap",
+  "name": "Vap",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Vap Studio",
+  "site_url": "https://www.vap.studio/"
+ },
+ {
+  "slug": "veed",
+  "url": "https://www.navbar.gallery/navbar/veed",
+  "name": "Veed",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Veed",
+  "site_url": "https://www.veed.io/"
+ },
+ {
+  "slug": "velt",
+  "url": "https://www.navbar.gallery/navbar/velt",
+  "name": "Velt",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "miri",
+  "site_url": "https://velt.dev/"
+ },
+ {
+  "slug": "veo",
+  "url": "https://www.navbar.gallery/navbar/veo",
+  "name": "Veo",
+  "type": "Mega Menu",
+  "style": "Sports",
+  "designed_by": "Riziki",
+  "site_url": "https://www.veo.co/"
+ },
+ {
+  "slug": "vercel",
+  "url": "https://www.navbar.gallery/navbar/vercel",
+  "name": "Vercel",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Vercel",
+  "site_url": "https://vercel.com/"
+ },
+ {
+  "slug": "vicio",
+  "url": "https://www.navbar.gallery/navbar/vicio",
+  "name": "Vicio",
+  "type": "Static",
+  "style": "Food &amp; Drink",
+  "designed_by": "Digital Dosis",
+  "site_url": "https://vicio.com/"
+ },
+ {
+  "slug": "vimeo",
+  "url": "https://www.navbar.gallery/navbar/vimeo",
+  "name": "Vimeo",
+  "type": "Mega Menu",
+  "style": "Video",
+  "designed_by": "Vimeo",
+  "site_url": "https://vimeo.com/"
+ },
+ {
+  "slug": "vinay",
+  "url": "https://www.navbar.gallery/navbar/vinay",
+  "name": "Vinay",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Vinay",
+  "site_url": "https://vinay.design/"
+ },
+ {
+  "slug": "vision-trilingual-school",
+  "url": "https://www.navbar.gallery/navbar/vision-trilingual-school",
+  "name": "Vision Trilingual School",
+  "type": "Full Screen",
+  "style": "Education",
+  "designed_by": "Mambo Mambo",
+  "site_url": "https://ecolevision.com/en/"
+ },
+ {
+  "slug": "visitors",
+  "url": "https://www.navbar.gallery/navbar/visitors",
+  "name": "Visitors",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Daryl Ginn",
+  "site_url": "https://visitors.now/"
+ },
+ {
+  "slug": "visual-domain",
+  "url": "https://www.navbar.gallery/navbar/visual-domain",
+  "name": "Visual Domain",
+  "type": "Static",
+  "style": "Video",
+  "designed_by": "Visual Domain",
+  "site_url": "https://www.visualdomain.com.au/"
+ },
+ {
+  "slug": "voiceflow",
+  "url": "https://www.navbar.gallery/navbar/voiceflow",
+  "name": "VoiceFlow",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "VoiceFlow",
+  "site_url": "https://www.voiceflow.com/"
+ },
+ {
+  "slug": "vorta-studio",
+  "url": "https://www.navbar.gallery/navbar/vorta-studio",
+  "name": "Vorta Studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Ejaz Ahmad",
+  "site_url": "https://vorta.framer.website/"
+ },
+ {
+  "slug": "walrus",
+  "url": "https://www.navbar.gallery/navbar/walrus",
+  "name": "Walrus",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Walrus",
+  "site_url": "https://www.walrus.xyz/"
+ },
+ {
+  "slug": "warren-mahoney-architects",
+  "url": "https://www.navbar.gallery/navbar/warren-mahoney-architects",
+  "name": "Warren & Mahoney Architects",
+  "type": "Full Screen",
+  "style": "Architecture",
+  "designed_by": "WAM",
+  "site_url": "https://wam.studio"
+ },
+ {
+  "slug": "waxywab",
+  "url": "https://www.navbar.gallery/navbar/waxywab",
+  "name": "WaxyWab",
+  "type": "Static",
+  "style": "Agency",
+  "designed_by": "WaxyWeb Agency",
+  "site_url": "https://www.waxyweb.agency/"
+ },
+ {
+  "slug": "wealthsimple",
+  "url": "https://www.navbar.gallery/navbar/wealthsimple",
+  "name": "Wealthsimple",
+  "type": "Mega Menu",
+  "style": "Finance",
+  "designed_by": "Wealthsimple",
+  "site_url": "https://www.wealthsimple.com/en-ca"
+ },
+ {
+  "slug": "webflow",
+  "url": "https://www.navbar.gallery/navbar/webflow",
+  "name": "Webflow",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Webflow",
+  "site_url": "https://webflow.com/"
+ },
+ {
+  "slug": "webflow-2025",
+  "url": "https://www.navbar.gallery/navbar/webflow-2025",
+  "name": "Webflow",
+  "type": "Mega Menu",
+  "style": "Development",
+  "designed_by": "Webflow",
+  "site_url": "https://webflow.com/"
+ },
+ {
+  "slug": "webflow-university",
+  "url": "https://www.navbar.gallery/navbar/webflow-university",
+  "name": "Webflow University",
+  "type": "Side Bar",
+  "style": "Development",
+  "designed_by": "Webflow Team",
+  "site_url": "https://university.webflow.com/"
+ },
+ {
+  "slug": "webyansh",
+  "url": "https://www.navbar.gallery/navbar/webyansh",
+  "name": "Webyansh",
+  "type": "Mega Menu",
+  "style": "Agency",
+  "designed_by": "Divyansh Agarwal",
+  "site_url": "https://www.webyansh.com"
+ },
+ {
+  "slug": "wimp-decaf-coffee-co",
+  "url": "https://www.navbar.gallery/navbar/wimp-decaf-coffee-co",
+  "name": "Wimp Decaf Coffee Co",
+  "type": "Static",
+  "style": "Food &amp; Drink",
+  "designed_by": "Matthew",
+  "site_url": "https://www.wimpdecaf.com/"
+ },
+ {
+  "slug": "winden",
+  "url": "https://www.navbar.gallery/navbar/winden",
+  "name": "Winden",
+  "type": "Dropdown",
+  "style": "Finance",
+  "designed_by": "Oguz Yagiz Kara",
+  "site_url": "https://www.winden.co/"
+ },
+ {
+  "slug": "windsurf",
+  "url": "https://www.navbar.gallery/navbar/windsurf",
+  "name": "Windsurf",
+  "type": "Dropdown",
+  "style": "Development",
+  "designed_by": "Windsurf",
+  "site_url": "https://windsurf.com/"
+ },
+ {
+  "slug": "wisprflow",
+  "url": "https://www.navbar.gallery/navbar/wisprflow",
+  "name": "Wisprflow",
+  "type": "Mega Menu",
+  "style": "Productivity",
+  "designed_by": "Wisprflow",
+  "site_url": "https://wisprflow.ai/"
+ },
+ {
+  "slug": "wiza",
+  "url": "https://www.navbar.gallery/navbar/wiza",
+  "name": "Wiza",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Oğuz Yağız Kara",
+  "site_url": "https://wiza.co"
+ },
+ {
+  "slug": "wondermake",
+  "url": "https://www.navbar.gallery/navbar/wondermake",
+  "name": "Wondermake",
+  "type": "Full Screen",
+  "style": "Studio",
+  "designed_by": "Wondermake",
+  "site_url": "https://wondermake.xyz/"
+ },
+ {
+  "slug": "woof-gang",
+  "url": "https://www.navbar.gallery/navbar/woof-gang",
+  "name": "Woof Gang",
+  "type": "Dropdown",
+  "style": "Colorful",
+  "designed_by": "Luca Defreitas-Hansen",
+  "site_url": "https://www.woofgangftl.com/"
+ },
+ {
+  "slug": "wope",
+  "url": "https://www.navbar.gallery/navbar/wope",
+  "name": "Wope",
+  "type": "Mega Menu",
+  "style": "SaaS",
+  "designed_by": "Oguz Yagiz Kara",
+  "site_url": "https://wope.com/"
+ },
+ {
+  "slug": "workos",
+  "url": "https://www.navbar.gallery/navbar/workos",
+  "name": "WorkOS",
+  "type": "Dropdown",
+  "style": "Design",
+  "designed_by": "Oğuz Yağız Kara",
+  "site_url": "https://workos.com"
+ },
+ {
+  "slug": "wrangle",
+  "url": "https://www.navbar.gallery/navbar/wrangle",
+  "name": "Wrangle",
+  "type": "Dropdown",
+  "style": "SaaS",
+  "designed_by": "Wrangle",
+  "site_url": "https://wrangle.ai/"
+ },
+ {
+  "slug": "wrike",
+  "url": "https://www.navbar.gallery/navbar/wrike",
+  "name": "Wrike",
+  "type": "Mega Menu",
+  "style": "Productivity",
+  "designed_by": "Wrike",
+  "site_url": "https://www.wrike.com/vap/"
+ },
+ {
+  "slug": "yourbana",
+  "url": "https://www.navbar.gallery/navbar/yourbana",
+  "name": "Yourbana",
+  "type": "Full Screen",
+  "style": "Photography",
+  "designed_by": "Yourbana",
+  "site_url": "https://yourbana.com/"
+ },
+ {
+  "slug": "ysabella",
+  "url": "https://www.navbar.gallery/navbar/ysabella",
+  "name": "ysabella",
+  "type": "Static",
+  "style": "Portfolio",
+  "designed_by": "Ysabella",
+  "site_url": "https://www.ysabella.me/"
+ },
+ {
+  "slug": "yucca-packaging",
+  "url": "https://www.navbar.gallery/navbar/yucca-packaging",
+  "name": "Yucca Packaging",
+  "type": "Mega Menu",
+  "style": "Food &amp; Drink",
+  "designed_by": "Yucca",
+  "site_url": "https://yucca.co.za/about/"
+ },
+ {
+  "slug": "yummygum",
+  "url": "https://www.navbar.gallery/navbar/yummygum",
+  "name": "Yummygum",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Yummygum",
+  "site_url": "https://yummygum.com/"
+ },
+ {
+  "slug": "zayla",
+  "url": "https://www.navbar.gallery/navbar/zayla",
+  "name": "Zayla",
+  "type": "Full Screen",
+  "style": "Framer Template",
+  "designed_by": "Zaid Khan",
+  "site_url": "https://zaylamonroe.framer.website/"
+ },
+ {
+  "slug": "zendesk",
+  "url": "https://www.navbar.gallery/navbar/zendesk",
+  "name": "Zendesk",
+  "type": "Mega Menu",
+  "style": "AI",
+  "designed_by": "Zendesk",
+  "site_url": "https://www.zendesk.com/"
+ },
+ {
+  "slug": "zentry",
+  "url": "https://www.navbar.gallery/navbar/zentry",
+  "name": "Zentry",
+  "type": "Full Screen",
+  "style": "Gaming",
+  "designed_by": "Resn",
+  "site_url": "https://zentry.com/"
+ },
+ {
+  "slug": "zenwood-studio",
+  "url": "https://www.navbar.gallery/navbar/zenwood-studio",
+  "name": "Zenwood Studio",
+  "type": "Static",
+  "style": "Studio",
+  "designed_by": "Zsolt Kálmán",
+  "site_url": "https://zenwood.studio/"
+ },
+ {
+  "slug": "zoox",
+  "url": "https://www.navbar.gallery/navbar/zoox",
+  "name": "Zoox",
+  "type": "Side Bar",
+  "style": "Technology",
+  "designed_by": "Zoox",
+  "site_url": "https://zoox.com/"
+ }
+]
