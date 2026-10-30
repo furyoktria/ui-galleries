@@ -1,5 +1,5 @@
 {
- "when": "2026-10-30 11:01:09 WIB",
+ "when": "2026-10-30 11:02:36 WIB",
  "repo": "https://github.com/furyoktria/ui-galleries",
  "results": [
   {
@@ -23,7 +23,12 @@
    "detail": "[]"
   },
   {
-   "check": "navbar: gallery URLs unique",
+   "check": "navbar: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "navbar: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -43,7 +48,12 @@
    "detail": "[]"
   },
   {
-   "check": "footer: gallery URLs unique",
+   "check": "footer: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "footer: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -63,7 +73,12 @@
    "detail": "[]"
   },
   {
-   "check": "cta: gallery URLs unique",
+   "check": "cta: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "cta: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -83,7 +98,12 @@
    "detail": "[]"
   },
   {
-   "check": "hero: gallery URLs unique",
+   "check": "hero: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "hero: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -103,7 +123,12 @@
    "detail": "[]"
   },
   {
-   "check": "scrolltide: gallery URLs unique",
+   "check": "scrolltide: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "scrolltide: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -123,7 +148,12 @@
    "detail": "[]"
   },
   {
-   "check": "3dicons: gallery URLs unique",
+   "check": "3dicons: slugs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "3dicons: item-page URLs unique",
    "ok": true,
    "detail": "0 duplicates"
   },
@@ -214,8 +244,8 @@
   },
   {
    "check": "sampled gallery pages respond 2xx/3xx",
-   "ok": false,
-   "detail": "14/16"
+   "ok": true,
+   "detail": "16/16"
   },
   {
    "check": "sampled live sites mostly respond (>= 70%)",
@@ -296,17 +326,17 @@
   [
    "scrolltide",
    "Particle Globe",
-   "404",
+   "200",
    "-",
-   "https://www.scrolltide.co/components/particle-globe",
+   "https://www.scrolltide.co/components",
    null
   ],
   [
    "scrolltide",
    "Scroll Key",
-   "404",
+   "200",
    "-",
-   "https://www.scrolltide.co/components/scroll-key",
+   "https://www.scrolltide.co/components",
    null
   ],
   [
