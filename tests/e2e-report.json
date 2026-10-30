@@ -1,0 +1,361 @@
+{
+ "when": "2026-10-30 11:01:09 WIB",
+ "repo": "https://github.com/furyoktria/ui-galleries",
+ "results": [
+  {
+   "check": "clone public repo into fresh HOME",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "SKILL.md frontmatter has name and description",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "navbar: row count matches manifest (496)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "navbar: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "navbar: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "navbar: at least 446 items",
+   "ok": true,
+   "detail": "496"
+  },
+  {
+   "check": "footer: row count matches manifest (776)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "footer: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "footer: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "footer: at least 698 items",
+   "ok": true,
+   "detail": "776"
+  },
+  {
+   "check": "cta: row count matches manifest (521)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "cta: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "cta: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "cta: at least 468 items",
+   "ok": true,
+   "detail": "521"
+  },
+  {
+   "check": "hero: row count matches manifest (573)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "hero: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "hero: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "hero: at least 515 items",
+   "ok": true,
+   "detail": "573"
+  },
+  {
+   "check": "scrolltide: row count matches manifest (287)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "scrolltide: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "scrolltide: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "scrolltide: at least 258 items",
+   "ok": true,
+   "detail": "287"
+  },
+  {
+   "check": "3dicons: row count matches manifest (211)",
+   "ok": true,
+   "detail": ""
+  },
+  {
+   "check": "3dicons: no forbidden fields (prompts, code, images, descriptions)",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "3dicons: gallery URLs unique",
+   "ok": true,
+   "detail": "0 duplicates"
+  },
+  {
+   "check": "3dicons: at least 189 items",
+   "ok": true,
+   "detail": "211"
+  },
+  {
+   "check": "brief 'SaaS site with a mega menu' returns >= 3",
+   "ok": true,
+   "detail": "49 hits"
+  },
+  {
+   "check": "brief 'SaaS site with a mega menu': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'dark, animated footer' returns >= 3",
+   "ok": true,
+   "detail": "91 hits"
+  },
+  {
+   "check": "brief 'dark, animated footer': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'dark-mode pricing CTA' returns >= 1",
+   "ok": true,
+   "detail": "12 hits"
+  },
+  {
+   "check": "brief 'dark-mode pricing CTA': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'free scrolltide items only' returns >= 3",
+   "ok": true,
+   "detail": "6 hits"
+  },
+  {
+   "check": "brief 'free scrolltide items only': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'three.js-based scrolltide shader or component' returns >= 1",
+   "ok": true,
+   "detail": "2 hits"
+  },
+  {
+   "check": "brief 'three.js-based scrolltide shader or component': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'CC0 3D icon about money' returns >= 1",
+   "ok": true,
+   "detail": "8 hits"
+  },
+  {
+   "check": "brief 'CC0 3D icon about money': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'hero sections, keyword 'ai'' returns >= 1",
+   "ok": true,
+   "detail": "49 hits"
+  },
+  {
+   "check": "brief 'hero sections, keyword 'ai'': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "brief 'cross-source: anything tagged finance' returns >= 5",
+   "ok": true,
+   "detail": "97 hits"
+  },
+  {
+   "check": "brief 'cross-source: anything tagged finance': every hit carries the AND tags",
+   "ok": true,
+   "detail": "[]"
+  },
+  {
+   "check": "sampled gallery pages respond 2xx/3xx",
+   "ok": false,
+   "detail": "14/16"
+  },
+  {
+   "check": "sampled live sites mostly respond (>= 70%)",
+   "ok": true,
+   "detail": "9/10"
+  },
+  {
+   "check": "liquid-glass is MIT on npm",
+   "ok": true,
+   "detail": "0.1.1"
+  }
+ ],
+ "samples": [
+  [
+   "navbar",
+   "Meter",
+   "200",
+   "200",
+   "https://www.navbar.gallery/navbar/meter",
+   "https://www.meter.com/"
+  ],
+  [
+   "navbar",
+   "Frontify",
+   "200",
+   "200",
+   "https://www.navbar.gallery/navbar/frontify",
+   "https://www.frontify.com/en"
+  ],
+  [
+   "footer",
+   "Giga Energy",
+   "200",
+   "200",
+   "https://www.footer.design/sites/giga-energy",
+   "https://www.gigaenergy.com/"
+  ],
+  [
+   "footer",
+   "NewWorld",
+   "200",
+   "200",
+   "https://www.footer.design/sites/newworld",
+   "https://newworld.inc/"
+  ],
+  [
+   "cta",
+   "backlog.design",
+   "200",
+   "000",
+   "https://www.cta.gallery/cta/backlog-design",
+   "https://backlog.design/coaching"
+  ],
+  [
+   "cta",
+   "Saracajner",
+   "200",
+   "200",
+   "https://www.cta.gallery/cta/saracajner",
+   "https://saracajner.com/"
+  ],
+  [
+   "scrolltide",
+   "Glacier",
+   "200",
+   "-",
+   "https://www.scrolltide.co/templates/glacier",
+   null
+  ],
+  [
+   "scrolltide",
+   "Aurora",
+   "200",
+   "-",
+   "https://www.scrolltide.co/templates/aurora",
+   null
+  ],
+  [
+   "scrolltide",
+   "Particle Globe",
+   "404",
+   "-",
+   "https://www.scrolltide.co/components/particle-globe",
+   null
+  ],
+  [
+   "scrolltide",
+   "Scroll Key",
+   "404",
+   "-",
+   "https://www.scrolltide.co/components/scroll-key",
+   null
+  ],
+  [
+   "3dicons",
+   "Yuan",
+   "200",
+   "-",
+   "https://3dicons.co/icons/5fdffa-yuan",
+   null
+  ],
+  [
+   "3dicons",
+   "3d coin",
+   "200",
+   "-",
+   "https://3dicons.co/icons/b801dc-3d-coin",
+   null
+  ],
+  [
+   "hero",
+   "Tailkits",
+   "200",
+   "200",
+   "https://supahero.io/hero/tailkits",
+   "https://tailkits.com/ui/"
+  ],
+  [
+   "hero",
+   "Lovart",
+   "200",
+   "200",
+   "https://supahero.io/hero/lovart",
+   "https://www.lovart.ai/"
+  ],
+  [
+   "navbar",
+   "Ramp",
+   "200",
+   "200",
+   "https://www.navbar.gallery/navbar/ramp",
+   "https://ramp.com/welcome"
+  ],
+  [
+   "cta",
+   "Atbitcoin",
+   "200",
+   "200",
+   "https://www.cta.gallery/cta/atbitcoin",
+   "https://atbitcoin.com/"
+  ]
+ ]
+}

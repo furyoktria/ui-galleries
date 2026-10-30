@@ -124,7 +124,8 @@ srcs=[open(f,errors='ignore').read() for f in glob.glob(f'{RAW}/st_*.html')]+[t 
 for t in srcs:
     for o in objs(t):
         base={'template':'templates','component':'components','section':'sections','ui':'ui','shader':'shaders'}.get(o['kind'],o['kind'])
-        o['url']=f"https://www.scrolltide.co/{base}/{o['slug']}"
+        # only templates have their own page; other kinds open in a modal on the listing page
+        o['url']=f"https://www.scrolltide.co/{base}/{o['slug']}" if o['kind']=='template' else f"https://www.scrolltide.co/{base}"
         old=cat.get(o['slug'],{}); cat[o['slug']]={**o,**{k:v for k,v in old.items() if v}}
 for u,t in pages('scrolltide.co'):
     s=slug(u)

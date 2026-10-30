@@ -60,7 +60,7 @@ tags. Add `--json` for machine output.
 | `footer` | footer.design | Footers | styles (dark, minimal, animated, bento-box, large-type, …), types = industry, date_added |
 | `cta` | cta.gallery | Calls to action | category (button, newsletter, pricing, download, call-to-buy, form, modal-pop-up), industry, mode (light/dark) |
 | `hero` | supahero.io | Hero sections | name, live site, date_added |
-| `scrolltide` | scrolltide.co | Scroll and 3D templates, components, sections, UI screens, shaders | kind, category, tier (free / paid / pro), tags (three, gsap, canvas, …) |
+| `scrolltide` | scrolltide.co | Scroll and 3D templates, components, sections, UI screens, shaders | kind, category, tier (free / paid / pro), tags (three, gsap, canvas, …). Only templates have their own page. Other kinds link to their listing page: find the item there by name. |
 | `3dicons` | 3dicons.co | CC0 3D icons | tags, styles (clay, color, gradient, premium), angles |
 | — | styles.refero.design | Real product styles with DESIGN.md | Link only. robots.txt blocks AI crawlers, so it is not indexed. Open it in a browser yourself. |
 | — | glass.samasante.com | liquid-glass React component | `references/liquid-glass.md` |

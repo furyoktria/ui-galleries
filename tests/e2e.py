@@ -59,8 +59,12 @@ for src, meta in man["sources"].items():
     check(f"{src}: row count matches manifest ({meta['items']})", len(rows) == meta["items"])
     bad = [r.get("slug") for r in rows if FORBIDDEN & set(r)]
     check(f"{src}: no forbidden fields (prompts, code, images, descriptions)", not bad, str(bad[:5]))
-    dup = len(rows) - len({r["url"] for r in rows})
-    check(f"{src}: gallery URLs unique", dup == 0, f"{dup} duplicates")
+    dup = len(rows) - len({r["slug"] for r in rows})
+    check(f"{src}: slugs unique", dup == 0, f"{dup} duplicates")
+    # Scrolltide non-template items open in a modal on a listing page, so they share a URL.
+    page_items = [r for r in rows if not (src == "scrolltide" and r.get("kind") != "template")]
+    dup = len(page_items) - len({r["url"] for r in page_items})
+    check(f"{src}: item-page URLs unique", dup == 0, f"{dup} duplicates")
     if meta.get("min_expected"):
         check(f"{src}: at least {meta['min_expected']} items", len(rows) >= meta["min_expected"], str(len(rows)))
 

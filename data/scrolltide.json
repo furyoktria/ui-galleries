@@ -208,7 +208,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/arc-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 166,
@@ -226,7 +226,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/ash-flow"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 72,
@@ -296,7 +296,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/aurora-ice"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 168,
@@ -314,7 +314,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/aurora-noir"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 169,
@@ -332,7 +332,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/aurora-rose"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 170,
@@ -350,7 +350,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/aurora-solar"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 148,
@@ -368,7 +368,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/aurora-veil"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 143,
@@ -385,7 +385,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/banking-home"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 101,
@@ -422,7 +422,7 @@
    "tailwind",
    "react"
   ],
-  "url": "https://www.scrolltide.co/sections/bean-bag-nap"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 80,
@@ -456,7 +456,7 @@
    "pointer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/block-field"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 74,
@@ -538,7 +538,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/card-bookmark"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 89,
@@ -555,7 +555,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/card-folder"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 92,
@@ -572,7 +572,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/carousel-ring"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 250,
@@ -609,7 +609,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cell-amber"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 172,
@@ -627,7 +627,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cell-coral"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 173,
@@ -645,7 +645,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cell-slate"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 149,
@@ -663,7 +663,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cell-tide"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 174,
@@ -681,7 +681,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cell-violet"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 175,
@@ -699,7 +699,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/chrome-gold"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 176,
@@ -717,7 +717,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/chrome-melt"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 177,
@@ -735,7 +735,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/chrome-oil"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 178,
@@ -753,7 +753,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/chrome-rose"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 179,
@@ -771,7 +771,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/chrome-steel"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 50,
@@ -821,7 +821,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/circular-slider"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 98,
@@ -856,7 +856,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/client-desk"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 311,
@@ -873,7 +873,7 @@
    "playful",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/clothes-line"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 49,
@@ -906,7 +906,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/cobalt-flow"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 21,
@@ -991,7 +991,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/commerce-analytics"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 119,
@@ -1008,7 +1008,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/contact-column"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 267,
@@ -1025,7 +1025,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/contour-reveal"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 48,
@@ -1075,7 +1075,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/dark-wallet"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 222,
@@ -1110,7 +1110,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/depth-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 273,
@@ -1127,7 +1127,7 @@
    "image",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/dither-lens"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 238,
@@ -1144,7 +1144,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/dna-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 23,
@@ -1178,7 +1178,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/dune-card"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 181,
@@ -1197,7 +1197,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/dusk-mesh"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 228,
@@ -1286,7 +1286,7 @@
    "pointer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/elastic-frame"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 25,
@@ -1319,7 +1319,7 @@
    "simulation",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/ember-carve"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 150,
@@ -1338,7 +1338,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/ember-wash"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 316,
@@ -1374,7 +1374,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/expanded-cards"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 313,
@@ -1391,7 +1391,7 @@
    "cta",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/eye-button"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 326,
@@ -1429,7 +1429,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/fan-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 85,
@@ -1446,7 +1446,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/fan-deck"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 140,
@@ -1463,7 +1463,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/finance-desk"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 289,
@@ -1499,7 +1499,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/flame-azure"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 151,
@@ -1517,7 +1517,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/flame-ember"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 183,
@@ -1535,7 +1535,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/flame-mono"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 184,
@@ -1553,7 +1553,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/flame-violet"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 185,
@@ -1571,7 +1571,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/flame-viridian"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 264,
@@ -1588,7 +1588,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/fluted-glass"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 83,
@@ -1637,7 +1637,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/focus-reveal"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 126,
@@ -1655,7 +1655,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/fog-forest"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 27,
@@ -1708,7 +1708,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/gallery-storefront"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 28,
@@ -1756,7 +1756,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/glow-ring-button"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 61,
@@ -1790,7 +1790,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/grainy-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 246,
@@ -1864,7 +1864,7 @@
    "pointer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/grid-warp"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 309,
@@ -1881,7 +1881,7 @@
    "backdrop",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/grow-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 259,
@@ -1934,7 +1934,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/halftone-cyan"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 187,
@@ -1952,7 +1952,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/halftone-forest"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 188,
@@ -1970,7 +1970,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/halftone-mono"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 189,
@@ -1988,7 +1988,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/halftone-sun"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 190,
@@ -2006,7 +2006,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/halftone-tide"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 69,
@@ -2041,7 +2041,7 @@
    "editorial",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/halo-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 30,
@@ -2074,7 +2074,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/health-tracker"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 53,
@@ -2107,7 +2107,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/hill-country"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 56,
@@ -2156,7 +2156,7 @@
    "editorial",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/hover-list"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 305,
@@ -2173,7 +2173,7 @@
    "css",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/hover-tabs"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 271,
@@ -2190,7 +2190,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/image-trail"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 301,
@@ -2207,7 +2207,7 @@
    "pointer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/image-tunnel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 274,
@@ -2224,7 +2224,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/intro-loader"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 191,
@@ -2242,7 +2242,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/jade-flow"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 288,
@@ -2364,7 +2364,7 @@
    "autoplay",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/layer-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 121,
@@ -2382,7 +2382,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/ledger-bento"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 279,
@@ -2399,7 +2399,7 @@
    "bloom",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/light-cove"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 293,
@@ -2418,7 +2418,7 @@
    "tailwind",
    "react"
   ],
-  "url": "https://www.scrolltide.co/sections/lighthouse-toile"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 120,
@@ -2436,7 +2436,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/lime-metrics"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 240,
@@ -2453,7 +2453,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/liquid-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 236,
@@ -2470,7 +2470,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/liquid-glass-button"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 223,
@@ -2506,7 +2506,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/loom-footer"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 260,
@@ -2542,7 +2542,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/magma-flow"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 97,
@@ -2577,7 +2577,7 @@
    "transition",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/marble-scroll"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 112,
@@ -2665,7 +2665,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/meadow-capture"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 300,
@@ -2682,7 +2682,7 @@
    "spring",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/media-folder"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 93,
@@ -2699,7 +2699,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/media-gallery"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 60,
@@ -2752,7 +2752,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-arctic"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 194,
@@ -2770,7 +2770,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-blush"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 195,
@@ -2788,7 +2788,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-candy"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 196,
@@ -2806,7 +2806,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-citrus"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 152,
@@ -2824,7 +2824,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-drift"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 95,
@@ -2841,7 +2841,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/mesh-flow"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 197,
@@ -2859,7 +2859,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-indigo"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 198,
@@ -2877,7 +2877,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-lavender"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 199,
@@ -2895,7 +2895,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-matcha"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 200,
@@ -2913,7 +2913,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-mocha"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 201,
@@ -2931,7 +2931,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-neon"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 202,
@@ -2949,7 +2949,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-ocean"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 203,
@@ -2967,7 +2967,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-plum"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 204,
@@ -2985,7 +2985,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-rust"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 205,
@@ -3003,7 +3003,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-sage"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 206,
@@ -3021,7 +3021,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-sorbet"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 207,
@@ -3039,7 +3039,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mesh-sunset"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 248,
@@ -3077,7 +3077,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/mint-haze"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 54,
@@ -3178,7 +3178,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/morph-pill-card"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 266,
@@ -3195,7 +3195,7 @@
    "pointer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/mosaic-trail"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 323,
@@ -3302,7 +3302,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/noir-mesh"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 265,
@@ -3319,7 +3319,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/noise-blobs"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 249,
@@ -3480,7 +3480,7 @@
    "editorial",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/orbit-gallery"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 38,
@@ -3514,7 +3514,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/orchid-flow"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 278,
@@ -3531,7 +3531,7 @@
    "video",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/overlap-reel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 310,
@@ -3548,7 +3548,7 @@
    "viewer",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/parallax-row"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 219,
@@ -3582,7 +3582,7 @@
    "react",
    "three"
   ],
-  "url": "https://www.scrolltide.co/components/particle-globe"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 299,
@@ -3599,7 +3599,7 @@
    "physics",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/particle-text"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 142,
@@ -3616,7 +3616,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/people-directory"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 269,
@@ -3633,7 +3633,7 @@
    "dissolve",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/petal-dissolve"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 297,
@@ -3650,7 +3650,7 @@
    "web-animations",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/photo-stack"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 252,
@@ -3721,7 +3721,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/portfolio-close"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 233,
@@ -3738,7 +3738,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/post-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 113,
@@ -3808,7 +3808,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/project-roadmap"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 146,
@@ -3825,7 +3825,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/property-portfolio"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 306,
@@ -3842,7 +3842,7 @@
    "drag",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/quote-deck"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 111,
@@ -3894,7 +3894,7 @@
    "carousel",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/reel-slider"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 123,
@@ -3912,7 +3912,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/render-grid"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 270,
@@ -3929,7 +3929,7 @@
    "shader",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/reveal-gallery"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 47,
@@ -3963,7 +3963,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/river-valley"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 116,
@@ -3980,7 +3980,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/route-booking"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 134,
@@ -3997,7 +3997,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/sales-console"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 114,
@@ -4051,7 +4051,7 @@
    "scroll",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/scroll-3d-slider"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 312,
@@ -4068,7 +4068,7 @@
    "index",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/scroll-index"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 75,
@@ -4084,7 +4084,7 @@
    "react",
    "three"
   ],
-  "url": "https://www.scrolltide.co/components/scroll-key"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 255,
@@ -4119,7 +4119,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/send-button"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 105,
@@ -4155,7 +4155,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/service-bento"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 304,
@@ -4172,7 +4172,7 @@
    "css",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/service-cards"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 317,
@@ -4209,7 +4209,7 @@
    "spring",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/showcase-card"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 117,
@@ -4227,7 +4227,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/signal-form"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 127,
@@ -4245,7 +4245,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/snow-summit"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 285,
@@ -4316,7 +4316,7 @@
    "drag",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/spiral-slider"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 86,
@@ -4333,7 +4333,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/spotlight-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 277,
@@ -4350,7 +4350,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/step-accordion"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 276,
@@ -4367,7 +4367,7 @@
    "scroll",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/step-path"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 220,
@@ -4401,7 +4401,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/story-deck"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 122,
@@ -4418,7 +4418,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/studio-enquiry"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 153,
@@ -4436,7 +4436,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/swirl-band"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 211,
@@ -4454,7 +4454,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/swirl-citrus"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 212,
@@ -4472,7 +4472,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/swirl-mono"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 213,
@@ -4490,7 +4490,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/swirl-rose"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 214,
@@ -4508,7 +4508,7 @@
    "background",
    "webgl"
   ],
-  "url": "https://www.scrolltide.co/shaders/swirl-tide"
+  "url": "https://www.scrolltide.co/shaders"
  },
  {
   "id": 282,
@@ -4580,7 +4580,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/components/team-roster"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 104,
@@ -4633,7 +4633,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/tier-cards"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 308,
@@ -4650,7 +4650,7 @@
    "blur",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/tilt-carousel"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 258,
@@ -4881,7 +4881,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/wallet-overview"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 241,
@@ -4898,7 +4898,7 @@
    "drag",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/wave-gallery"
+  "url": "https://www.scrolltide.co/components"
  },
  {
   "id": 257,
@@ -4934,7 +4934,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/widget-board"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 67,
@@ -4969,7 +4969,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/sections/wordmark-bleed"
+  "url": "https://www.scrolltide.co/sections"
  },
  {
   "id": 135,
@@ -4986,7 +4986,7 @@
    "react",
    "css"
   ],
-  "url": "https://www.scrolltide.co/ui/workspace-hub"
+  "url": "https://www.scrolltide.co/ui"
  },
  {
   "id": 68,
@@ -5020,6 +5020,6 @@
    "reveal",
    "react"
   ],
-  "url": "https://www.scrolltide.co/components/zoom-reveal"
+  "url": "https://www.scrolltide.co/components"
  }
 ]
